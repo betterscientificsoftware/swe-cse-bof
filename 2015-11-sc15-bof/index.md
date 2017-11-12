@@ -46,7 +46,7 @@ David E. Bernholdt, Oak Ridge National Laboratory |
 | 14 |  [_**Introducing the Computational Science & Engineering Software Forum (cse-software.org)][20]**_  
 David E. Bernholdt, Oak Ridge National Laboratory | 
 
-## [Discussion Notes](discussion-notes.html)
+## [Discussion Notes](discussion-notes.md)
 
 ## Organizers
 
