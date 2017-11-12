@@ -46,7 +46,7 @@ David E. Bernholdt, Oak Ridge National Laboratory |
 | 14 |  [_**Introducing the Computational Science & Engineering Software Forum (cse-software.org)][20]**_  
 David E. Bernholdt, Oak Ridge National Laboratory | 
 
-## [Discussion Notes](discussion-notes.md)
+## [Discussion Notes](discussion-notes.html)
 
 ## Organizers
 
@@ -62,7 +62,7 @@ David E. Bernholdt, Oak Ridge National Laboratory |
 
 David E. Bernholdt, Neil Chue Hong, Kengo Nakajima, Daniel S. Katz, Mike Heroux, and Felix Schuermann, organizers, Birds of a Feather session on Software Engineering for Computational Science and Engineering on Supercomputers, in _International Conference for High Performance Computing, Networking, Storage and Analysis_ (SC '15), November 2015, URL: https://swe-cse.github.io/2015-11-sc15-bof/.
 
-_Note_: This web page was previously available at https://cse-software.org/resources/events/2015-11-sc15-bof/, and was migrated in November 2017.
+_Note_: This web page was previously available at https://cse-software.org/resources/events/2015-11-sc15-bof/, and was migrated to the current location in November 2017.
 
 [_SC15 Schedule Entry_](http://sc15.supercomputing.org/schedule/event_detail?evid=bof152)
 
@@ -89,4 +89,3 @@ _Note_: This web page was previously available at https://cse-software.org/resou
 [21]: http://riojournal.com/
 [22]: https://software-carpentry.org/
 [23]: http://scicomp.stackexchange.com/
-[24]: 
