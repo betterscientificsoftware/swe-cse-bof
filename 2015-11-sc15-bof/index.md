@@ -15,45 +15,45 @@ Our goal is to raise awareness of SWE for CSE on supercomputers as a major chall
 
 Time | Topic | Speaker
 -----|-------|--------
-3 min | Introduction and Goals | David Bernholdt, Oak Ridge National Laboratory
-10 min | People in CSE: Incentives and Insight |James Howison, University of Texas - Austin
+3 min | [Introduction and Goals](000-intro-bernholdt.pdf) | David Bernholdt, Oak Ridge National Laboratory
+10 min | [People in CSE: Incentives and Insight](002-people-howison.pdf) |James Howison, University of Texas - Austin
 40 min | Lightning Talks (details below)
 25 min | General Discussion (notes below)
 10 min | Wrap-Up and Next Steps
 
 ## Lightning Talks
 
-| ----- |
-|  |  **Title/Speaker, Affiliation** |  
-| 1 |  [_**Introduction to the IDEAS Software Productivity Project][7]**_  
-Lois Curfman McInnes, Argonne National Laboratory |  
-| 2 |  [_**ppOpen-HPC: Open Source Infrastructure for Development and Execution of Large-Scale Scientific Applications on Post-Peta Scale Supercomputers with Automatic Tuning (AT)][8]**_  
-Takahiro Katagiri and Kengo Nakajima, University of Tokyo |  
-| 3 |  [_**Software Engineering for Large-scale in silico Neuroscience Research][9]**_  
-Felix Schuermann, EPFL - Blue Brain Project |  
-| 4 |  [_**Eclipse Foundation and Eclipse Science Working Group][10]**_  
-Greg Watson, IBM |  
-| 5 |  [_**Software engineering for large scale science (VERCE project)][11]**_  
-Amy Krause, EPCC, University of Edinburgh |  
-| 6 |  [_**NITRD CSESSP Challenges Workshop][12]**_  
-Mike Heroux, Sandia National Laboratories |  
-| 7 |  [_**TOMS Replicated Computational Results Initiative][13]**_  
-Mike Heroux, Sandia National Laboratories |  
-| 8 |  [_**Software as Infrastructure at NSF][14]**_  
-Daniel S. Katz, National Science Foundation |  
-| 9 |  [_**Summary of Workshops in the SWE for CSE on HPC Area][15]**_  
+  | Title | Speaker
+--|-------|---------------------
+ 1 |  Introduction to the IDEAS Software Productivity Project
+Lois Curfman McInnes, Argonne National Laboratory
+ 2 |  ppOpen-HPC: Open Source Infrastructure for Development and Execution of Large-Scale Scientific Applications on Post-Peta Scale Supercomputers with Automatic Tuning (AT)
+Takahiro Katagiri and Kengo Nakajima, University of Tokyo
+ 3 |  Software Engineering for Large-scale in silico Neuroscience Research
+Felix Schuermann, EPFL - Blue Brain Project
+ 4 |  Eclipse Foundation and Eclipse Science Working Group
+Greg Watson, IBM
+ 5 |  Software engineering for large scale science (VERCE project)
+Amy Krause, EPCC, University of Edinburgh
+ 6 |  NITRD CSESSP Challenges Workshop
+Mike Heroux, Sandia National Laboratories
+ 7 |  TOMS Replicated Computational Results Initiative
+Mike Heroux, Sandia National Laboratories
+ 8 |  Software as Infrastructure at NSF
+Daniel S. Katz, National Science Foundation
+ 9 |  Summary of Workshops in the SWE for CSE on HPC Area
 Daniel S. Katz & Neil Chue Hong  
-(with additional contributions from Jeff Carver, Marlon Pierce, and Greg Watson) |  
-| 10 |  [_**Better software, better research][16]**_  
-Neil Chue Hong, Software Sustainability Institute, University of Edinburgh |  
-| 11 |  [_**Software Carpentry][17]**_  
-Neil Chue Hong, Software Sustainability Institute, University of Edinburgh |  
-| 12 |  [_**CREATE: Computational Research Engineering Acquisition Tools and Environments. A DoD Program to Aid Acquisition Engineering][18]**_  
-Doug Post, Dept. of Defense HPC Modernization Program and Software Engineering Institute |  
-| 13 |  [_**Software Needs for Integrated Simulations for Magnetic Fusion Energy Sciences][19]**_  
-David E. Bernholdt, Oak Ridge National Laboratory |  
-| 14 |  [_**Introducing the Computational Science & Engineering Software Forum (cse-software.org)][20]**_  
-David E. Bernholdt, Oak Ridge National Laboratory | 
+(with additional contributions from Jeff Carver, Marlon Pierce, and Greg Watson)
+10 |  Better software, better research
+Neil Chue Hong, Software Sustainability Institute, University of Edinburgh
+11 |  Software Carpentry
+Neil Chue Hong, Software Sustainability Institute, University of Edinburgh
+12 |  CREATE: Computational Research Engineering Acquisition Tools and Environments. A DoD Program to Aid Acquisition Engineering
+Doug Post, Dept. of Defense HPC Modernization Program and Software Engineering Institute
+13 |  Software Needs for Integrated Simulations for Magnetic Fusion Energy Sciences
+David E. Bernholdt, Oak Ridge National Laboratory
+14 |  Introducing the Computational Science & Engineering Software Forum (cse-software.org) 
+David E. Bernholdt, Oak Ridge National Laboratory
 
 ## Discussion Notes
 
