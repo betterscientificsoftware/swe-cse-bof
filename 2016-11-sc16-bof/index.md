@@ -25,7 +25,7 @@ outside of annual workshops and other "traditional" venues.
 Time | Topic | Speaker
 -----|-------|--------
 3 min | [Introduction and Goals](000-intro-bernholdt.pdf) | David Bernholdt, Oak Ridge National Laboratory
-10 min | [Formal Methods for HPC: Correct Dosage](002-formal-gopalkrishnan.pdf)<br>_Abstract: HPC software is characterized by its inclusion of domain mathematics, parallelism for scale, and longevity (when successful). Formal methods have an important role to play in helping avoid bugs, but the dosage depends on the scale of application (e.g. library functions or whole applications). We will briefly showcase two projects, one where a higher dosage was possible for tuning the precision of small floating-point routines, and another where large-scale data race checking of OpenMP programs relied more on good tool engineering._ | Ganesh Gopalakrisnhan, University of Utah
+10 min | [Formal Methods for HPC: Correct Dosage](002-formal-gopalakrishnan.pdf)<br>_Abstract: HPC software is characterized by its inclusion of domain mathematics, parallelism for scale, and longevity (when successful). Formal methods have an important role to play in helping avoid bugs, but the dosage depends on the scale of application (e.g. library functions or whole applications). We will briefly showcase two projects, one where a higher dosage was possible for tuning the precision of small floating-point routines, and another where large-scale data race checking of OpenMP programs relied more on good tool engineering._ | Ganesh Gopalakrisnhan, University of Utah
 27 min | Lightning Talks ([details below](#lightning-talks))
 40 min | General Discussion ([notes below](#discussion-notes))
 10 min | Wrap-Up and Next Steps
