@@ -70,7 +70,7 @@ _Special thanks to the note-takers: Neil Chue Hong, Mike Heroux, Lois Curfman Mc
 * [Best Practices for Scientific Computing](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001745) by Software Carpentry team (paper)
     * Possible unachievable by most. They are working a more modest approach: "good practices"
 * [Effective Computation In Physics](http://physics.codes/) by Anthony Scopatz and Kathryn D. Huff (book)
-* [Cranfield University](http://physics.codes/) (UK) has an [MSc in Computational and Software Techniques in Engineering](https://www.cranfield.ac.uk/Courses/Masters/Computational-and-Software-Techniques-in-Engineering). Salvatore Filippone looking for teaching cases based on real scientific projects
+* [Cranfield University](https://www.cranfield.ac.uk/) (UK) has an [MSc in Computational and Software Techniques in Engineering](https://www.cranfield.ac.uk/Courses/Masters/Computational-and-Software-Techniques-in-Engineering). Salvatore Filippone looking for teaching cases based on real scientific projects
 * [Argonne Training Program on Extreme-Scale Computing](http://extremecomputingtraining.anl.gov/) (APTSEC) has track on software engineering
 Book on software engineering for computational science and engineering due in 2016 (Jeff Carver, Neil Chue Hong, editors)
 * [WSSSPE](http://wssspe.researchcomputing.org.uk/) working group putting together best practices
