@@ -2,7 +2,7 @@
 
 _A Birds of a Feather session at SC15, on Wednesday 18 November 2015_
 
-Jump to: [Abstract][1] |[Agenda][2] | [Lightning Talks][3] | [Discussion Notes][4] | [Organizers][5] |  [Suggested Citation][6]
+Jump to: [Abstract](#abstract) |[Agenda](#agenda) | [Lightning Talks](#lightning-talks) | [Discussion Notes](#discussion-notes) | [Organizers](#organizers) |  [Suggested Citation](#suggested-citation)
 
 ## Abstract
 
