@@ -166,18 +166,17 @@ Book on software engineering for computational science and engineering due in 20
 
 ## Organizers
 
-| ----- |
-| David E. Bernholdt |  Oak Ridge National Laboratory |  
-| Neil Chue Hong |  University of Edinburgh |  
-| Kengo Nakajima |  University of Tokyo |  
-| Daniel S. Katz |  University of Chicago and Argonne National Laboratory |  
-| Mike Heroux |  Sandia National Laboratories |  
-| Felix Schuermann |  Swiss Federal Institute of Technology in Lausanne | 
+Name | Affiliation
+-----|------------
+David E. Bernholdt |  Oak Ridge National Laboratory
+Neil Chue Hong |  University of Edinburgh
+Kengo Nakajima |  University of Tokyo
+Daniel S. Katz |  University of Chicago and Argonne National Laboratory
+Mike Heroux |  Sandia National Laboratories
+Felix Schuermann |  Swiss Federal Institute of Technology in Lausanne
 
 ## Suggested Citation
 
 David E. Bernholdt, Neil Chue Hong, Kengo Nakajima, Daniel S. Katz, Mike Heroux, and Felix Schuermann, organizers, Birds of a Feather session on Software Engineering for Computational Science and Engineering on Supercomputers, in _International Conference for High Performance Computing, Networking, Storage and Analysis_ (SC '15), November 2015, URL: https://swe-cse.github.io/2015-11-sc15-bof/.
 
 _Note_: This web page was previously available at https://cse-software.org/resources/events/2015-11-sc15-bof/, and was migrated to the current location in November 2017.
-
-[_SC15 Schedule Entry_](http://sc15.supercomputing.org/schedule/event_detail?evid=bof152)
