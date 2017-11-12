@@ -13,12 +13,10 @@ Our goal is to raise awareness of SWE for CSE on supercomputers as a major chall
 ## Agenda
 
 
-Time | Topic/Speaker
------|--------------
-3 min | Introduction and Goals
-      | David Bernholdt, Oak Ridge National Laboratory
-10 min | People in CSE: Incentives and Insight
-       | James Howison, University of Texas - Austin
+Time | Topic | Speaker
+-----|-------|--------
+3 min | Introduction and Goals | David Bernholdt, Oak Ridge National Laboratory
+10 min | People in CSE: Incentives and Insight |James Howison, University of Texas - Austin
 40 min | Lightning Talks (details below)
 25 min | General Discussion (notes below)
 10 min | Wrap-Up and Next Steps
