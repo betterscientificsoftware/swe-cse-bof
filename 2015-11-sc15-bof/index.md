@@ -75,7 +75,7 @@ _Special thanks to the note-takers: Neil Chue Hong, Mike Heroux, Lois Curfman Mc
 Book on software engineering for computational science and engineering due in 2016 (Jeff Carver, Neil Chue Hong, editors)
 * [WSSSPE](http://wssspe.researchcomputing.org.uk/) working group putting together best practices
 * [IEEE Software](http://www.computer.org/web/computingnow/software): Rajiv Ramnath, editor who is interested in SW papers
-[Computing in Science and Engineering](http://www.computer.org/web/computingnow/cise) (CiSE) [Software Engineering Track](http://www.computer.org/cms/Computer.org/ComputingNow/docs/2016-software-engineering-track.pdf),  Jeff Carver and Damien Rouson editors (new)
+* [Computing in Science and Engineering](http://www.computer.org/web/computingnow/cise) (CiSE) [Software Engineering Track](http://www.computer.org/cms/Computer.org/ComputingNow/docs/2016-software-engineering-track.pdf),  Jeff Carver and Damien Rouson editors (new)
 
 ### What about testing?
 
@@ -181,27 +181,3 @@ David E. Bernholdt, Neil Chue Hong, Kengo Nakajima, Daniel S. Katz, Mike Heroux,
 _Note_: This web page was previously available at https://cse-software.org/resources/events/2015-11-sc15-bof/, and was migrated to the current location in November 2017.
 
 [_SC15 Schedule Entry_](http://sc15.supercomputing.org/schedule/event_detail?evid=bof152)
-
-[1]: https://cse-software.org#abstract
-[2]: https://cse-software.org#agenda
-[3]: https://cse-software.org#lightning
-[4]: https://cse-software.org#discussion
-[5]: https://cse-software.org#organizers
-[6]: https://cse-software.org#citation
-[7]: https://cse-software.org/wordpress/wp-content/uploads/2015/11/011-ideas-mcinnes.pdf
-[8]: https://cse-software.org/wordpress/wp-content/uploads/2015/11/021-ppOpen-HPC-katagiri.pdf
-[9]: https://cse-software.org/wordpress/wp-content/uploads/2015/12/031-blue-brain-schuermann.pdf
-[10]: https://cse-software.org/wordpress/wp-content/uploads/2015/11/041-eclipse-watson.pdf
-[11]: https://cse-software.org/wordpress/wp-content/uploads/2015/11/051-verce-krause.pdf
-[12]: https://cse-software.org/wordpress/wp-content/uploads/2015/11/061-csessp-heroux.pdf
-[13]: https://cse-software.org/wordpress/wp-content/uploads/2015/11/071-toms-rcr-heroux.pdf
-[14]: https://cse-software.org/wordpress/wp-content/uploads/2015/11/081-si2-katz.pdf
-[15]: https://cse-software.org/wordpress/wp-content/uploads/2015/12/091-workshops-katz-chue-hong.pdf
-[16]: https://cse-software.org/wordpress/wp-content/uploads/2015/11/101-ssi-chue-hong.pdf
-[17]: https://cse-software.org/wordpress/wp-content/uploads/2015/11/111-carpentry-chue-hong.pdf
-[18]: https://cse-software.org/wordpress/wp-content/uploads/2015/11/121-create-post-extended.pdf
-[19]: https://cse-software.org/wordpress/wp-content/uploads/2015/11/131-requiments-bernholdt.pdf
-[20]: https://cse-software.org/wordpress/wp-content/uploads/2015/11/141-cse-forum-bernholdt.pdf
-[21]: http://riojournal.com/
-[22]: https://software-carpentry.org/
-[23]: http://scicomp.stackexchange.com/
