@@ -23,37 +23,23 @@ Time | Topic | Speaker
 
 ## Lightning Talks
 
-  | Title | Speaker
+Nr. | Title | Speaker
+  
 --|-------|---------------------
- 1 |  Introduction to the IDEAS Software Productivity Project
-Lois Curfman McInnes, Argonne National Laboratory
- 2 |  ppOpen-HPC: Open Source Infrastructure for Development and Execution of Large-Scale Scientific Applications on Post-Peta Scale Supercomputers with Automatic Tuning (AT)
-Takahiro Katagiri and Kengo Nakajima, University of Tokyo
- 3 |  Software Engineering for Large-scale in silico Neuroscience Research
-Felix Schuermann, EPFL - Blue Brain Project
- 4 |  Eclipse Foundation and Eclipse Science Working Group
-Greg Watson, IBM
- 5 |  Software engineering for large scale science (VERCE project)
-Amy Krause, EPCC, University of Edinburgh
- 6 |  NITRD CSESSP Challenges Workshop
-Mike Heroux, Sandia National Laboratories
- 7 |  TOMS Replicated Computational Results Initiative
-Mike Heroux, Sandia National Laboratories
- 8 |  Software as Infrastructure at NSF
-Daniel S. Katz, National Science Foundation
- 9 |  Summary of Workshops in the SWE for CSE on HPC Area
-Daniel S. Katz & Neil Chue Hong  
-(with additional contributions from Jeff Carver, Marlon Pierce, and Greg Watson)
-10 |  Better software, better research
-Neil Chue Hong, Software Sustainability Institute, University of Edinburgh
-11 |  Software Carpentry
-Neil Chue Hong, Software Sustainability Institute, University of Edinburgh
-12 |  CREATE: Computational Research Engineering Acquisition Tools and Environments. A DoD Program to Aid Acquisition Engineering
-Doug Post, Dept. of Defense HPC Modernization Program and Software Engineering Institute
-13 |  Software Needs for Integrated Simulations for Magnetic Fusion Energy Sciences
-David E. Bernholdt, Oak Ridge National Laboratory
-14 |  Introducing the Computational Science & Engineering Software Forum (cse-software.org) 
-David E. Bernholdt, Oak Ridge National Laboratory
+ 1 |  [Introduction to the IDEAS Software Productivity Project](011-ideas-mcinnes.pdf) | Lois Curfman McInnes, Argonne National Laboratory
+ 2 |  [ppOpen-HPC: Open Source Infrastructure for Development and Execution of Large-Scale Scientific Applications on Post-Peta Scale Supercomputers with Automatic Tuning (AT)](021-ppOpen-HPC-katagiri.pdf) |Takahiro Katagiri and Kengo Nakajima, University of Tokyo
+ 3 |  [Software Engineering for Large-scale in silico Neuroscience Research](031-blue-brain-schuermann.pdf) | Felix Schuermann, EPFL - Blue Brain Project
+ 4 |  [Eclipse Foundation and Eclipse Science Working Group](041-eclipse-watson.pdf) | Greg Watson, IBM
+ 5 |  [Software engineering for large scale science (VERCE project)](051-verce-krause.pdf) | Amy Krause, EPCC, University of Edinburgh
+ 6 |  [NITRD CSESSP Challenges Workshop](061-csessp-heroux.pdf) | Mike Heroux, Sandia National Laboratories
+ 7 |  [TOMS Replicated Computational Results Initiative](071-toms-rcr-heroux.pdf) | Mike Heroux, Sandia National Laboratories
+ 8 |  [Software as Infrastructure at NSF](081-si2-katz.pdf) | Daniel S. Katz, National Science Foundation
+ 9 |  [Summary of Workshops in the SWE for CSE on HPC Area](091-workshops-katz-chue-hong.pdf) | Daniel S. Katz & Neil Chue Hong (with additional contributions from Jeff Carver, Marlon Pierce, and Greg Watson)
+10 |  [Better software, better research](101-ssi-chue-hong.pdf) | Neil Chue Hong, Software Sustainability Institute, University of Edinburgh
+11 |  [Software Carpentry](111-carpentry-chue-hong.pdf) |Neil Chue Hong, Software Sustainability Institute, University of Edinburgh
+12 |  [CREATE: Computational Research Engineering Acquisition Tools and Environments. A DoD Program to Aid Acquisition Engineering](121-create-post-extended.pdf) | Doug Post, Dept. of Defense HPC Modernization Program and Software Engineering Institute
+13 |  [Software Needs for Integrated Simulations for Magnetic Fusion Energy Sciences](131-requiments-bernholdt.pdf) | David E. Bernholdt, Oak Ridge National Laboratory
+14 |  [Introducing the Computational Science & Engineering Software Forum (cse-software.org)](141-cse-forum-bernholdt.pdf) | David E. Bernholdt, Oak Ridge National Laboratory
 
 ## Discussion Notes
 
