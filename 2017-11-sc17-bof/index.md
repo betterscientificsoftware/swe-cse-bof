@@ -4,7 +4,7 @@ _A Birds of a Feather session at SC17, on Tuesday 14 November 2016_
 
 Additional Details:
 * Time and location: 5:15pm-7:00pm, Room 603
-* SC17 program entry: http://sc17.supercomputing.org/presentation/?id=bof149&sess=sess354
+* SC17 program entry: [http://sc17.supercomputing.org/presentation/?id=bof149&sess=sess354](http://sc17.supercomputing.org/presentation/?id=bof149&sess=sess354)
 * SC17 evaluation link: http://bit.ly/sc17-eval
 * Google Doc for shared note-taking: TBA
 
@@ -33,7 +33,7 @@ benefit the community and thereby advance the HPC software ecosystem.
 Time | Topic | Speaker
 -----|-------|--------
 3 min | [Introduction and Goals](000-intro-bernholdt.pdf) | David Bernholdt, Oak Ridge National Laboratory
-10 min | TBA | TBA
+10 min | TBA | William Gropp, University of Illinois
 24 min | Lightning Talks ([details below](#lightning-talks))
 58 min | General Discussion ([notes below](#discussion-notes)) | Moderated by Scott Lathrop, NCSA and Shodor
 10 min | Wrap-Up and Next Steps
@@ -42,14 +42,14 @@ Time | Topic | Speaker
 
 Nr. | Title | Speaker
 --|-------|---------------------
-1 |
-2 | 
-3 | 
-4 | 
-5 | 
-6 | 
-7 | 
-8 | 
+1 | | Catherine Jones, STFC
+2 | | Soren Scott, ESIP
+3 | | Andreas Schreiber, DLR
+4 | | Lois Curfman McInnes, ANL
+5 | | Dan Katz, UIUC
+6 | | George Thiruvathukal, IEEE Technical Consortium on High Performance Computing (TCHPC)
+7 | | David Pearah, The HDF Group
+8 | | Scott Lathrop, NCSA/Shodor
 
 ## Discussion Notes
 
