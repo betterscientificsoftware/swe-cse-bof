@@ -42,7 +42,7 @@ Time | Topic | Speaker
 Nr. | Title | Speaker
 --|-------|---------------------
 1 | | Lois Curfman McInnes, ANL
-2 | | Dan Katz, UIUC
+2 | NumFOCUS & Sustainable Software | Daniel S. Katz, University of Illinois Urbana-Champaign
 3 | [Technical Consortium on High Performance Computing: Software Engineering Initiative (TCHPC/SE)](031-tchpc-thiruvathukal.pdf) | George K. Thiruvathukal, Loyola University of Chicago
 4 | [Software Engineering Practices Three basics & One future wish](041-basic-jones.pdf) | Catherine Jones, STFC Rutherford Appleton Laboratory
 5 | ESIP Software Sustainability Guidelines: A Big Tent Approach | Soren Scott, The Ronin Institute
