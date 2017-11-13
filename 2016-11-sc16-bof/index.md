@@ -57,7 +57,7 @@ David E. Bernholdt |  Oak Ridge National Laboratory
 Jeffrey Carver | University of Alabama
 Neil Chue Hong |  University of Edinburgh
 Mike Heroux |  Sandia National Laboratories
-Daniel S. Katz |  University of Chicago and Argonne National Laboratory
+Daniel S. Katz |  University of Illinois Urbana-Champaign
 James Lin | Shanghai Jiao Tong University
 Kengo Nakajima |  University of Tokyo
 
