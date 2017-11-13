@@ -46,7 +46,7 @@ Nr. | Title | Speaker
 3 | [Technical Consortium on High Performance Computing: Software Engineering Initiative (TCHPC/SE)](031-tchpc-thiruvathukal.pdf) | George K. Thiruvathukal, Loyola University of Chicago
 4 | [Software Engineering Practices Three basics & One future wish](041-basic-jones.pdf) | Catherine Jones, STFC Rutherford Appleton Laboratory
 5 | ESIP Software Sustainability Guidelines: A Big Tent Approach | Soren Scott, The Ronin Institute
-6 | Software Engineering Initiative of DLR | Andreas Schreiber, German Aerospace Center (DLR)
+6 | [Software Engineering Initiative of DLR](061-dlr-scheriber.pdf) | Andreas Schreiber, German Aerospace Center (DLR)
 7 | | David Pearah, The HDF Group
 8 | | Scott Lathrop, NCSA/Shodor
 
