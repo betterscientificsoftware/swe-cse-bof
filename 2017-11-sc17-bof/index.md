@@ -32,21 +32,23 @@ benefit the community and thereby advance the HPC software ecosystem.
 Time | Topic | Speaker
 -----|-------|--------
 3 min | [Introduction and Goals](000-intro-bernholdt.pdf) | David Bernholdt, Oak Ridge National Laboratory
-10 min | TBA | William Gropp, University of Illinois
+10 min | Building Portable Software: Finding a Middle Ground | William Gropp, NCSA/University of Illinois at Urbana-Champaign
 24 min | Lightning Talks ([details below](#lightning-talks))
-58 min | General Discussion ([notes below](#discussion-notes)) | Moderated by Scott Lathrop, NCSA and Shodor
-10 min | Wrap-Up and Next Steps
+58 min | General Discussion ([live notes](http://bit.ly/swe-bof-notes)) | Moderated by Scott Lathrop, NCSA and Shodor
+10 min | Wrap-Up and Next Steps | Mderated by Scott Lathrop, NCSA and Shodor
 
 ## Lightning Talks
 
 Nr. | Title | Speaker
 --|-------|---------------------
-1 | | Catherine Jones, STFC
-2 | | Soren Scott, ESIP
-3 | | Andreas Schreiber, DLR
-4 | | Lois Curfman McInnes, ANL
-5 | | Dan Katz, UIUC
-6 | | George Thiruvathukal, IEEE Technical Consortium on High Performance Computing (TCHPC)
+1 | | Lois Curfman McInnes, ANL
+2 | | Dan Katz, UIUC
+3 | [Technical Consortium on High
+Performance Computing: Software
+Engineering Initiative (TCHPC/SE)](031-tchpc-thiruvathukal.pdf) | George K. Thiruvathukal, Loyola University of Chicago
+4 | [Software Engineering Practices Three basics & One future wish](041-basic-jones.pdf) | Catherine Jones, STFC Rutherford Appleton Laboratory
+5 | | Soren Scott, ESIP
+6 | Software Engineering Initiative of DLR | Andreas Schreiber, German Aerospace Center (DLR)
 7 | | David Pearah, The HDF Group
 8 | | Scott Lathrop, NCSA/Shodor
 
