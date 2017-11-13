@@ -34,7 +34,7 @@ Time | Topic | Speaker
 3 min | [Introduction and Goals](000-intro-bernholdt.pdf) | David Bernholdt, Oak Ridge National Laboratory
 10 min | Building Portable Software: Finding a Middle Ground | William Gropp, NCSA/University of Illinois at Urbana-Champaign
 24 min | Lightning Talks ([details below](#lightning-talks))
-58 min | General Discussion ([live notes](http://bit.ly/swe-bof-notes)) | Moderated by Scott Lathrop, NCSA and Shodor
+58 min | General Discussion ([live notes](http://bit.ly/swe-bof-notes)) | Moderated by Scott Lathrop, NCSA, University of Illinois at Urbana-Champaign
 10 min | Wrap-Up and Next Steps | Mderated by Scott Lathrop, NCSA and Shodor
 
 ## Lightning Talks
@@ -48,7 +48,7 @@ Nr. | Title | Speaker
 5 | ESIP Software Sustainability Guidelines: A Big Tent Approach | Soren Scott, The Ronin Institute
 6 | [Software Engineering Initiative of DLR](061-dlr-scheriber.pdf) | Andreas Schreiber, German Aerospace Center (DLR)
 7 | | David Pearah, The HDF Group
-8 | | Scott Lathrop, NCSA/Shodor
+8 | [Promoting Reusable Software: Webinars and Publications](081-reuse-lathrop.pdf) | Scott Lathrop, NCSA, University of Illinois at Urbana-Champaign
 
 ## Discussion Notes
 
