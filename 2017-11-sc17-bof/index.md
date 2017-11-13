@@ -4,7 +4,7 @@ _A Birds of a Feather session at SC17, on Tuesday 14 November 2017_
 
 Additional Details:
 * Time and location: 5:15pm-7:00pm, Room 603
-* SC17 program entry: [http://sc17.supercomputing.org/presentation/?id=bof149&sess=sess354](http://sc17.supercomputing.org/presentation/?id=bof149&sess=sess354)
+* SC17 program entry: [http://sc17.supercomputing.org/presentation/?id=bof144&sess=sess374](http://sc17.supercomputing.org/presentation/?id=bof144&sess=sess374)
 * SC17 evaluation link: [http://bit.ly/sc17-eval](http://bit.ly/sc17-eval)
 * Google Doc for shared note-taking: [http://bit.ly/swe-bof-notes](http://bit.ly/swe-bof-notes)
 
