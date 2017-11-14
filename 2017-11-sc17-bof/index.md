@@ -41,7 +41,7 @@ Time | Topic | Speaker
 
 Nr. | Title | Speaker
 --|-------|---------------------
-1 | | Lois Curfman McInnes, ANL
+1 | [Better Scientific Software](011-bssw-mcinnes)| Lois Curfman McInnes, Argonne National Laboratory
 2 | [NumFOCUS & Sustainable Software](021-numfocus-katz.pdf) | Daniel S. Katz, University of Illinois Urbana-Champaign
 3 | [Technical Consortium on High Performance Computing: Software Engineering Initiative (TCHPC/SE)](031-tchpc-thiruvathukal.pdf) [video](https://youtu.be/UnmFanbX2Bw) | George K. Thiruvathukal, Loyola University of Chicago
 4 | [Software Engineering Practices Three basics & One future wish](041-basics-jones.pdf) | Catherine Jones, STFC Rutherford Appleton Laboratory
@@ -79,12 +79,12 @@ Andy Terrell | NumFOCUS
 ## Suggested Citation
 
 
-David Bernholdt, Maxim Belkin, Alys Brett, Jeffrey Carver, Neil Chue
-Hong, Mike Folk, Gerard Gorman, William Gropp, Michael Heroux, Daniel
-Katz, David Keyes, Scott Lathrop, Randall LeVeque, James Lin, Lois
-Curfman McInnes, Kengo Nakajima, Andy Terrell, organizers, Birds of a
-Feather session on Software Engineering for Computational Science and
-Engineering on Supercomputers, in _International Conference for High
-Performance Computing, Networking, Storage and Analysis_ (SC '17),
-Denver, Colorado November 2017. URL:
+David E. Bernholdt, Maxim Belkin, Alys Brett, Jeffrey Carver, Neil
+Chue Hong, Mike Folk, Gerard Gorman, William Gropp, Michael Heroux,
+Daniel S.  Katz, David Keyes, Scott Lathrop, Randall LeVeque, James
+Lin, Lois Curfman McInnes, Kengo Nakajima, Andy Terrell, organizers,
+Birds of a Feather session on Software Engineering for Computational
+Science and Engineering on Supercomputers, in _International
+Conference for High Performance Computing, Networking, Storage and
+Analysis_ (SC '17), Denver, Colorado November 2017. URL:
 https://swe-cse.github.io/2017-11-sc17-bof/.
