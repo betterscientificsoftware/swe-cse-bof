@@ -43,11 +43,11 @@ Nr. | Title | Speaker
 --|-------|---------------------
 1 | | Lois Curfman McInnes, ANL
 2 | [NumFOCUS & Sustainable Software](021-numfocus-katz.pdf) | Daniel S. Katz, University of Illinois Urbana-Champaign
-3 | [Technical Consortium on High Performance Computing: Software Engineering Initiative (TCHPC/SE)](031-tchpc-thiruvathukal.pdf) | George K. Thiruvathukal, Loyola University of Chicago
+3 | [Technical Consortium on High Performance Computing: Software Engineering Initiative (TCHPC/SE)](031-tchpc-thiruvathukal.pdf) [video](https://youtu.be/UnmFanbX2Bw) | George K. Thiruvathukal, Loyola University of Chicago
 4 | [Software Engineering Practices Three basics & One future wish](041-basics-jones.pdf) | Catherine Jones, STFC Rutherford Appleton Laboratory
 5 | [ESIP Software Sustainability Guidelines: A Big Tent Approach](051-esip-scott.pdf) | Soren Scott, The Ronin Institute
 6 | [Software Engineering Initiative of DLR](061-dlr-schreiber.pdf) | Andreas Schreiber, German Aerospace Center (DLR)
-7 | | David Pearah, The HDF Group
+7 | [Commercial Software, aka Ultimate Software Reuse](071-commercial-pearah.pdf) | Dave Pearah, The HDF Group
 8 | [Promoting Reusable Software: Webinars and Publications](081-reuse-lathrop.pdf) | Scott Lathrop, NCSA, University of Illinois at Urbana-Champaign
 
 ## Discussion Notes
