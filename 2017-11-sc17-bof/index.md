@@ -42,7 +42,7 @@ Time | Topic | Speaker
 Nr. | Title | Speaker
 --|-------|---------------------
 1 | [Better Scientific Software](011-bssw-mcinnes.pdf)| Lois Curfman McInnes, Argonne National Laboratory
-2 | [NumFOCUS & Sustainable Software](021-numfocus-katz.pdf) | Daniel S. Katz, University of Illinois Urbana-Champaign
+2 | [NumFOCUS & Sustainable Software](021-numfocus-katz.pdf), published/cite as [doi: 10.6084/m9.figshare.5602741.v1](https://doi.org/10.6084/m9.figshare.5602741.v1) | Daniel S. Katz, University of Illinois Urbana-Champaign
 3 | [Technical Consortium on High Performance Computing: Software Engineering Initiative (TCHPC/SE)](031-tchpc-thiruvathukal.pdf) [video](https://youtu.be/UnmFanbX2Bw) | George K. Thiruvathukal, Loyola University of Chicago
 4 | [Software Engineering Practices Three basics & One future wish](041-basics-jones.pdf) | Catherine Jones, STFC Rutherford Appleton Laboratory
 5 | [ESIP Software Sustainability Guidelines: A Big Tent Approach](051-esip-scott.pdf) | Soren Scott, The Ronin Institute
