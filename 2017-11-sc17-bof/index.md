@@ -87,4 +87,7 @@ Birds of a Feather session on Software Engineering for Computational
 Science and Engineering on Supercomputers, in _International
 Conference for High Performance Computing, Networking, Storage and
 Analysis_ (SC '17), Denver, Colorado November 2017. URL:
-https://swe-cse.github.io/2017-11-sc17-bof/.
+<https://betterscientificsoftware.github.io/swe-cse-bof/2017-11-sc17-bof/>.
+
+Note: This web page was previously hosted in another location before migrating here:
+* <https://swe-cse.github.io/2017-11-sc17-bof/> (November 2017-June 2018)
