@@ -2,12 +2,6 @@
 
 _A Birds of a Feather session at SC17, on Tuesday 14 November 2017_
 
-Additional Details:
-* Time and location: 5:15pm-7:00pm, Room 603
-* SC17 program entry: [http://sc17.supercomputing.org/presentation/?id=bof144&sess=sess374](http://sc17.supercomputing.org/presentation/?id=bof144&sess=sess374)
-* SC17 evaluation link: [http://bit.ly/sc17-eval](http://bit.ly/sc17-eval)
-* Google Doc for shared note-taking: [http://bit.ly/swe-bof-notes](http://bit.ly/swe-bof-notes)
-
 Jump to: [Abstract](#abstract) |[Agenda](#agenda) | [Lightning Talks](#lightning-talks) | [Discussion Notes](#discussion-notes) | [Organizers](#organizers) |  [Suggested Citation](#suggested-citation)
 
 ## Abstract
@@ -50,9 +44,7 @@ Nr. | Title | Speaker
 7 | [Commercial Software, aka Ultimate Software Reuse](071-commercial-pearah.pdf) | Dave Pearah, The HDF Group
 8 | [Promoting Reusable Software: Webinars and Publications](081-reuse-lathrop.pdf) | Scott Lathrop, NCSA, University of Illinois at Urbana-Champaign
 
-## Discussion Notes
-
-_To be added_
+## [Discussion Notes](bof-notes.md)
 
 ## Organizers
 
