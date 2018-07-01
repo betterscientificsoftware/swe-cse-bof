@@ -80,7 +80,7 @@ workshops with qualified instructors and helpers.
 Challenges: discoverability, Architecture-specific training, Evolving
 technologies, discipline-specific needs
 
-https://github.com/hpccarpentry
+<https://github.com/hpccarpentry>
 
 ## Jason Maassen, Netherlands eScience Center
 
