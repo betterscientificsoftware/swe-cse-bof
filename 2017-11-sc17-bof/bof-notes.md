@@ -30,14 +30,14 @@
 
 ## Lightning talks (slides are on the website)
 
-### Better Scientific Software: https://bssw.io
+### Better Scientific Software: <https://bssw.io>
 * Need and want contributions from the community
 * “What is”, “How to”, blogs, experience, curated links
 * Fellowships will be awarded to 3 students in US-based institutions
 * Info session will be on Dec 11. 2017
 
 
-### NumFOCUS & Sustainable Software: https://bit.ly/nf-sustainability 
+### NumFOCUS & Sustainable Software: <https://bit.ly/nf-sustainability> 
 * Funding a big factor, but not the only one
 * NumFocus sustainability program connecting people and projects and develop and provide training, common infrastructure
 * Strategic approach to funding across all projects rather than each project going out on their own.
@@ -53,7 +53,7 @@
 * Reproducibility means being clear about version of software
 * Make citation of software part of research culture, Force 11
 
-### ESIP Software Sustainability Guidelines: A Big Tent Approach https://goo.gl/9WeYZc 
+### ESIP Software Sustainability Guidelines: A Big Tent Approach <https://goo.gl/9WeYZc>
 * Cross-disciplinary, diverse membership
 * Guidelines have not been controversial - agreed on larger principles and practices - how you implement depends on project and grant needs
 * Not prescriptive - broad, not comprehensive
@@ -73,7 +73,7 @@
 * “Lack of software funding in general, particularly for open source”
 * If you use open source software, give back: sweat equity / contribute, contracting, financial support
 
-### Promoting Reusable Software: Webinars and Publications: http://bluewaters.ncsa.illinois.edu/webinars
+### Promoting Reusable Software: Webinars and Publications: <http://bluewaters.ncsa.illinois.edu/webinars>
 * Webinar topics sought
 * Special issue on Reusable Software
 
@@ -82,19 +82,19 @@
 * What are good practices for citing software e.g. in a paper?
   - Developing field. FORCE11 Software Citation Principles published.
   - How do we get google scholar to support software citations.
-  - You can get a DOI for your code by depositing in Zenodo (can automatically do this if code in Github see: https://guides.github.com/activities/citable-code/)
-  - Tools coming up like http://citeas.org/ to make it easier for researchers to cite software
+  - You can get a DOI for your code by depositing in Zenodo (can automatically do this if code in Github see: <https://guides.github.com/activities/citable-code/>)
+  - Tools coming up like <http://citeas.org/> to make it easier for researchers to cite software
 * Places you can publish software
-  - https://www.software.ac.uk/resources/guides/which-journals-should-i-publish-my-software
-  - https://bssw.io/resources/how-to-publish-cse-software
+  - <https://www.software.ac.uk/resources/guides/which-journals-should-i-publish-my-software>
+  - <https://bssw.io/resources/how-to-publish-cse-software>
 * What should we learn from the experimental community? e.g. they don’t cite their equipment vendor. Also, how far down the rabbit do we go? However, there is a difference between providence and citation.
 * Is there a good enough approach to reproducibility?
 *	Value in knowing what you did and documenting it
 *	Reproducibility will never be perfect, will decay over time. What’s the sensible length of time? 
 * Software Heritage (softwareheritage.org) will be useful in future for when people want to cite software, but developers don’t want to get a DOI for software
-* Mantid software example of software which gives different DOI for each version, updates author list: https://www.mantidproject.org/Main_Page
-* Re-science journal: http://rescience.github.io/ 
-* Konrad Hinsen / software collapse: http://blog.khinsen.net/posts/2017/01/13/sustainable-software-and-reproducible-research-dealing-with-software-collapse/ 
+* Mantid software example of software which gives different DOI for each version, updates author list: <https://www.mantidproject.org/Main_Page>
+* Re-science journal: <http://rescience.github.io/>
+* Konrad Hinsen / software collapse: <http://blog.khinsen.net/posts/2017/01/13/sustainable-software-and-reproducible-research-dealing-with-software-collapse/>
 
 How do you get user feedback? How do you know you are serving your audience?
 * FLASH created a database of publications created with FLASH code, created an easy way for people to submit their papers, make it easy to find out where it’s being used / find out those with vested interest to continue code
@@ -105,9 +105,9 @@ How do you get user feedback? How do you know you are serving your audience?
 How do you promote your software?
 * Need to go to where your users are, e.g. scientific conferences where they are presenting results, technical contacts in industry, people coming to your training course
 * What are people doing with respect to training? Of the audience some people offering training courses. Webinars were highlighted (not statistically significant but small number); tutorial offerings on Cloud+Jupyter.
-* Mozilla Foundation / Mozilla Science Lab runs open science training / guidance to make your projects more open: https://science.mozilla.org/resources
+* Mozilla Foundation / Mozilla Science Lab runs open science training / guidance to make your projects more open: <https://science.mozilla.org/resources>
 * FLASH experience: the more complexity needed, the more users you get
-* Ambassadors for the open source project to get out there and engage with the user community; build trust and continuity. Research in book ‘Diffusion of innovations” (Everett Rogers) backs this up. YouTube lecture by Everett Rogers also recommended: https://www.youtube.com/watch?v=j1uc7yZH6eU
+* Ambassadors for the open source project to get out there and engage with the user community; build trust and continuity. Research in book ‘Diffusion of innovations” (Everett Rogers) backs this up. YouTube lecture by Everett Rogers also recommended: <https://www.youtube.com/watch?v=j1uc7yZH6eU>
 * Don’t want to release too early, as bad press can last a long time
 * Trust important - but is economy of trust intrinsic or malleable?
 * Trust can take many forms e.g. unit tests may mean nothing to a researcher, but a quality test which applies to own simulation
