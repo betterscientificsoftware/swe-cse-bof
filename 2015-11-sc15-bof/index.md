@@ -181,4 +181,4 @@ David E. Bernholdt, Neil Chue Hong, Kengo Nakajima, Daniel S. Katz, Mike Heroux,
 
 _Note_: This web page was previously hosted in several other locations before migrating here:
 * <https://cse-software.org/resources/events/2015-11-sc15-bof/> (November 2015-November 2017)
-* <https://swe-cse.github.io/2015-11-sc15-bof/> (November 2017-July 2018)
+* <https://swe-cse.github.io/2015-11-sc15-bof/> (November 2017-June 2018)
