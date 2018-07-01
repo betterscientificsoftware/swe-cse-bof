@@ -177,6 +177,8 @@ Felix Schuermann |  Swiss Federal Institute of Technology in Lausanne
 
 ## Suggested Citation
 
-David E. Bernholdt, Neil Chue Hong, Kengo Nakajima, Daniel S. Katz, Mike Heroux, and Felix Schuermann, organizers, Birds of a Feather session on Software Engineering for Computational Science and Engineering on Supercomputers, in _International Conference for High Performance Computing, Networking, Storage and Analysis_ (SC '15), November 2015, URL: https://swe-cse.github.io/2015-11-sc15-bof/.
+David E. Bernholdt, Neil Chue Hong, Kengo Nakajima, Daniel S. Katz, Mike Heroux, and Felix Schuermann, organizers, Birds of a Feather session on Software Engineering for Computational Science and Engineering on Supercomputers, in _International Conference for High Performance Computing, Networking, Storage and Analysis_ (SC '15), November 2015, URL: https://betterscientificsoftware.github.io/swe-cse-bof/2015-11-sc15-bof/.
 
-_Note_: This web page was previously available at https://cse-software.org/resources/events/2015-11-sc15-bof/, and was migrated to the current location in November 2017.
+_Note_: This web page was previously hosted in several other locations before migrating here:
+* https://cse-software.org/resources/events/2015-11-sc15-bof/ (November 2015-November 2017)
+* https://swe-cse.github.io/2015-11-sc15-bof/ (November 2017-July 2018)
