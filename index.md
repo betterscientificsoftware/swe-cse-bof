@@ -2,6 +2,8 @@
 
 A community of HPC researchers have been organizing Birds of a Feather sessions at the Supercomputing conference for several years.
 
+Permalink: http://bit.ly/swe-cse-bof
+
 ## Events
 
 * [Software Engineering and Reuse in Computational Science and Engineering (SC17 BOF)](2017-11-sc17-bof/)
