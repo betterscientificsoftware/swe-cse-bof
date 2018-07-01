@@ -72,4 +72,4 @@ Lake City, Utah, November 2016. URL: <https://betterscientificsoftware.github.io
 
 Note: This web page was previously hosted in several other locations before migrating here:
 * <https://cse-software.org/resources/events/2016-11-sc16-bof/> (November 2016-November 2017)
-* <https://swe-cse.github.io/2015-11-sc15-bof/> (November 2017-July 2018)
+* <https://swe-cse.github.io/2015-11-sc15-bof/> (November 2017-June 2018)
