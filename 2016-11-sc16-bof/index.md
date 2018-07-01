@@ -45,9 +45,7 @@ Nr. | Title | Speaker
 8 | [The Science Gateways Community Institute](081-gateways-wilkins-diehr.pdf) | Nancy Wilkins-Diehr, SDSC/UCSD
 9 | [The ACME Climate Project Learning Initiative: A Cheatsheet](091-acme-heroux.pdf) | Mike Heroux, Sandia National Laboratories
 
-## Discussion Notes
-
-_To be added_
+## [Discussion Notes](discussion-notes.md)
 
 ## Organizers
 
