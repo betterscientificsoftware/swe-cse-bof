@@ -2,10 +2,10 @@
 
 *A Birds of a Feather session at SC18*
 
-*Date:* Wednesday 14 November 2018<br>
-*Time:* 5:15pm-6:45pm<br>
-*Location:* D168<br>
-*SC18 Program Page:* <https://sc18.supercomputing.org/presentation/?id=bof171&sess=sess426>
+**Date:** Wednesday 14 November 2018<br>
+**Time:** 5:15pm-6:45pm<br>
+**Location:** D168<br>
+**SC18 Program Page:** <https://sc18.supercomputing.org/presentation/?id=bof171&sess=sess426>
 
 Jump to: [Abstract](#abstract) |[Agenda](#agenda) | [Lightning Talks](#lightning-talks) | [Discussion Notes](#discussion-notes) | [Organizers](#organizers) |  [Suggested Citation](#suggested-citation)
 
