@@ -35,7 +35,13 @@ Time | Topic | Speaker
 
 ## Lightning Talks
 
-*Details to follow*
+*Details to be added as available*
+
+Speaker order to be determined
+
+Nr. | Title | Speaker
+--|-------|---------------------
+? | HPC Carpentry: open source, hands-on HPC training | Andy Turner, EPCC, The University of Edinburgh
 
 ## Discussion Notes
 
