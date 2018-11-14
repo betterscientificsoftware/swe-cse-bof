@@ -7,7 +7,7 @@
 **Location:** D168<br>
 **SC18 Program Page:** <https://sc18.supercomputing.org/presentation/?id=bof171&sess=sess426><br>
 **Live Notes:** <http://bit.ly/sc18-bof-notes><br>
-**Mailing List Signup: <https://swe-cse-bof.groups.io><br>
+**Mailing List Signup:** <https://swe-cse-bof.groups.io><br>
 **SC18 Evaluation Survey:** <http://bit.ly/sc18-eval><br>
 
 Jump to: [Abstract](#abstract) |[Agenda](#agenda) | [Lightning Talks](#lightning-talks) | [Discussion Notes](#discussion-notes) | [Organizers](#organizers) |  [Suggested Citation](#suggested-citation)
