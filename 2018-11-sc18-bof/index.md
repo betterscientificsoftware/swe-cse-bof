@@ -29,8 +29,8 @@ and other "traditional" venues.
 Time | Topic | Speaker
 -----|-------|--------
 3 min | Introduction and Goals | *TBD*
-24 min | Lightning Talks ([details below](#lightning-talks))
-53 min | General Discussion | *TBD*
+18 min | Lightning Talks ([details below](#lightning-talks))
+59 min | General Discussion | *TBD*
 10 min | Wrap-Up and Next Steps | *TBD*
 
 ## Lightning Talks
@@ -40,7 +40,7 @@ Nr. | Title | Speaker
 1 | [Promoting Research Software: Call to Action](01-promoting-jones.pdf) | Catherine Jones, Science and Technology Research Council
 2 | [Conceptualizing a US Research Software Sustainability Institute (URSSI)](02-urssi-katz.pdf) | Daniel S. Katz, University of Illinois Urbana-Champaign
 3 | [HPC Carpentry: open source, hands-on HPC training](03-carpentry-turner.pdf) | Andy Turner, EPCC, The University of Edinburgh
-4 | ? | Andy R. Terrell, NumFOCUS
+4 | [*tba*]() | Andy R. Terrell, NumFOCUS
 5 | [An RSE from UK](05-chimeh-rse.pdf) | Mozghan Kabiri Chimeh, University of Sheffield
 6 | [Update: Better Scientific Software (bssw.io)]() | David E. Bernholdt, Oak Ridge National Laboratory
 
