@@ -31,7 +31,7 @@ and other "traditional" venues.
 
 Time | Topic | Speaker/Moderator | Affiliation
 -----|-------|---------|------------
-3 min | Introduction and Goals | David E. Bernholdt | Oak Ridge National Laboratory
+3 min | [Introduction and Goals](00-intro-bernholdt.pdf)) | David E. Bernholdt | Oak Ridge National Laboratory
 18 min | Lightning Talks ([details below](#lightning-talks)) | David E. Bernholdt | Oak Ridge National Laboratory
 59 min | General Discussion ([live notes](http://bit.ly/sc18-bof-notes))| Daniel S. Katz | University of Illinois Urbana-Champaign
 10 min | Wrap-Up and Next Steps | Daniel S. Katz | University of Illinois Urbana-Champaign
