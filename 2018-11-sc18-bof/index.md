@@ -27,7 +27,7 @@ major challenge, and to develop an international "community of
 practice" to continue these important discussions outside of workshops
 and other "traditional" venues.
 
-## Agenda (Draft)
+## Agenda
 
 Time | Topic | Speaker/Moderator | Affiliation
 -----|-------|---------|------------
