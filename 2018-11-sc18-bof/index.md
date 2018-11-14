@@ -35,13 +35,14 @@ Time | Topic | Speaker
 
 ## Lightning Talks
 
-*Details to be added as available*
-
-Speaker order to be determined
-
 Nr. | Title | Speaker
 --|-------|---------------------
-? | HPC Carpentry: open source, hands-on HPC training | Andy Turner, EPCC, The University of Edinburgh
+1 | [Promoting Research Software: Call to Action](01-promoting-jones.pdf) | Catherine Jones, Science and Technology Research Council
+2 | [Conceptualizing a US Research Software Sustainability Institute (URSSI)](02-urssi-katz.pdf) | Daniel S. Katz, University of Illinois Urbana-Champaign
+3 | [HPC Carpentry: open source, hands-on HPC training](03-carpentry-turner.pdf) | Andy Turner, EPCC, The University of Edinburgh
+4 | ? | Andy R. Terrell, NumFOCUS
+5 | [An RSE from UK](05-chimeh-rse.pdf) | Mozghan Kabiri Chimeh, University of Sheffield
+6 | [Update: Better Scientific Software (bssw.io)]() | David E. Bernholdt, Oak Ridge National Laboratory
 
 ## Discussion Notes
 
