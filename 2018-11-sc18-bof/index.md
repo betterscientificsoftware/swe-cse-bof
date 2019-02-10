@@ -1,14 +1,6 @@
 # Software Engineering and Reuse in Computational Science and Engineering (SC18 BOF)
 
-*A Birds of a Feather session at SC18*
-
-**Date:** Wednesday 14 November 2018<br>
-**Time:** 5:15pm-6:45pm<br>
-**Location:** D168<br>
-**SC18 Program Page:** <https://sc18.supercomputing.org/presentation/?id=bof171&sess=sess426><br>
-**Live Notes:** <http://bit.ly/sc18-bof-notes><br>
-**Mailing List Signup:** <https://swe-cse-bof.groups.io><br>
-**SC18 Evaluation Survey:** <http://bit.ly/sc18-eval><br>
+*A Birds of a Feather session at SC18, on Wednesday 14 November 2018*
 
 Jump to: [Abstract](#abstract) |[Agenda](#agenda) | [Lightning Talks](#lightning-talks) | [Discussion Notes](#discussion-notes) | [Organizers](#organizers) |  [Suggested Citation](#suggested-citation)
 
@@ -47,11 +39,7 @@ Nr. | Title | Speaker | Affiliation
 5 | [An RSE from UK](05-chimeh-rse.pdf) | Mozghan Kabiri Chimeh | University of Sheffield
 6 | [Update: Better Scientific Software (bssw.io)](06-bssw-bernholdt.pdf) | David E. Bernholdt | Oak Ridge National Laboratory
 
-## Discussion Notes
-
-[Live notes in Google Drive](http://bit.ly/sc18-bof-notes)
-
-*Edited notes will be added here after the BOF*
+## [Discussion Notes](bof-notes.md)
 
 ## Organizers
 
