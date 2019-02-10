@@ -2,7 +2,7 @@
 
 _A Birds of a Feather session at SC15, on Wednesday 18 November 2015_
 
-Jump to: [Abstract](#abstract) |[Agenda](#agenda) | [Lightning Talks](#lightning-talks) | [Discussion Notes](#discussion-notes) | [Organizers](#organizers) |  [Suggested Citation](#suggested-citation)
+Jump to: [Abstract](#abstract) \| [Agenda](#agenda) \| [Lightning Talks](#lightning-talks) \| [Discussion Notes](#discussion-notes) \| [Organizers](#organizers) \|  [Suggested Citation](#suggested-citation)
 
 ## Abstract
 
@@ -17,14 +17,13 @@ Time | Topic | Speaker
 -----|-------|--------
 3 min | [Introduction and Goals](000-intro-bernholdt.pdf) | David Bernholdt, Oak Ridge National Laboratory
 10 min | [People in CSE: Incentives and Insight](002-people-howison.pdf) |James Howison, University of Texas - Austin
-40 min | Lightning Talks (details below)
-25 min | General Discussion (notes below)
+40 min | [Lightning Talks](#lightning-talks)
+25 min | [General Discussion](#discussion-notes)
 10 min | Wrap-Up and Next Steps
 
 ## Lightning Talks
 
-Nr. | Title | Speaker
-  
+Nr. | Title | Speaker  
 --|-------|---------------------
  1 |  [Introduction to the IDEAS Software Productivity Project](011-ideas-mcinnes.pdf) | Lois Curfman McInnes, Argonne National Laboratory
  2 |  [ppOpen-HPC: Open Source Infrastructure for Development and Execution of Large-Scale Scientific Applications on Post-Peta Scale Supercomputers with Automatic Tuning (AT)](021-ppOpen-HPC-katagiri.pdf) |Takahiro Katagiri and Kengo Nakajima, University of Tokyo
