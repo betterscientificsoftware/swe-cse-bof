@@ -2,7 +2,7 @@
 
 _A Birds of a Feather session at SC16, on Thursday 17 November 2016_
 
-Jump to: [Abstract](#abstract) |[Agenda](#agenda) | [Lightning Talks](#lightning-talks) | [Discussion Notes](#discussion-notes) | [Organizers](#organizers) |  [Suggested Citation](#suggested-citation)
+Jump to: [Abstract](#abstract) \| [Agenda](#agenda) \| [Lightning Talks](#lightning-talks) \| [Discussion Notes](#discussion-notes) \| [Organizers](#organizers) \|  [Suggested Citation](#suggested-citation)
 
 ## Abstract
 
@@ -26,15 +26,14 @@ Time | Topic | Speaker
 -----|-------|--------
 3 min | [Introduction and Goals](000-intro-bernholdt.pdf) | David Bernholdt, Oak Ridge National Laboratory
 10 min | [Formal Methods for HPC: Correct Dosage](002-formal-gopalakrishnan.pdf)<br>_Abstract: HPC software is characterized by its inclusion of domain mathematics, parallelism for scale, and longevity (when successful). Formal methods have an important role to play in helping avoid bugs, but the dosage depends on the scale of application (e.g. library functions or whole applications). We will briefly showcase two projects, one where a higher dosage was possible for tuning the precision of small floating-point routines, and another where large-scale data race checking of OpenMP programs relied more on good tool engineering._ | Ganesh Gopalakrisnhan, University of Utah
-27 min | Lightning Talks ([details below](#lightning-talks))
-40 min | General Discussion ([notes below](#discussion-notes))
+27 min | [Lightning Talks](#lightning-talks)
+40 min | [General Discussion](#discussion-notes)
 10 min | Wrap-Up and Next Steps
 
 ## Lightning Talks
 
-Nr. | Title | Speaker
-  
---|-------|---------------------
+Nr. | Title | Speaker  
+----|-------|---------------------
 1 | [Software Citation Principles](011-citation-katz.pdf) | Daniel S. Katz, University of Illinois
 2 | [Collaborating with academics to build software: some ways to fail](021-academic-hetherington.pdf) |James Hetherington, University College London
 3 | [Software Fellowship Programme (UK Software Sustainability Institute)](031-fellows-pawlik.pdf) | Aleksandra Pawlik, New Zealand e-Science Infrastructure
