@@ -2,7 +2,7 @@
 
 _A Birds of a Feather session at SC17, on Tuesday 14 November 2017_
 
-Jump to: [Abstract](#abstract) |[Agenda](#agenda) | [Lightning Talks](#lightning-talks) | [Discussion Notes](#discussion-notes) | [Organizers](#organizers) |  [Suggested Citation](#suggested-citation)
+Jump to: [Abstract](#abstract) \| [Agenda](#agenda) \| [Lightning Talks](#lightning-talks) \| [Discussion Notes](#discussion-notes) \| [Organizers](#organizers) \| [Suggested Citation](#suggested-citation)
 
 ## Abstract
 
@@ -27,8 +27,8 @@ Time | Topic | Speaker
 -----|-------|--------
 3 min | [Introduction and Goals](000-intro-bernholdt.pdf) | David E. Bernholdt, Oak Ridge National Laboratory
 10 min | [Building Portable Software: Finding a Middle Ground](002-libraries-gropp.pdf) | William Gropp, NCSA/University of Illinois at Urbana-Champaign
-24 min | Lightning Talks ([details below](#lightning-talks))
-58 min | General Discussion ([live notes](http://bit.ly/swe-bof-notes)) | Moderated by Scott Lathrop, NCSA, University of Illinois at Urbana-Champaign
+24 min | [Lightning Talks](#lightning-talks)
+58 min | [General Discussion](#discussion-notes) | Moderated by Scott Lathrop, NCSA, University of Illinois at Urbana-Champaign
 10 min | Wrap-Up and Next Steps | Mderated by Scott Lathrop, NCSA and Shodor
 
 ## Lightning Talks
