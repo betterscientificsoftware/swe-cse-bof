@@ -1,4 +1,6 @@
-# Q&A from Lightning Talks
+# Discussion Notes from [SC18 BOF](index.md)
+
+## Q&A from Lightning Talks
 
 *   Promoting Research Software: A Call to Action
     *   Many initiatives need funding -- so it would be good to capture ROI from existing initiatives (UK/SSI is the obvious, hoped for, source for this :-) )
@@ -22,7 +24,7 @@
         *   URSSI is a funded "planning" project, with people and the goal of planning a future larger project (the institute), which would have the ability to be far more interactive with the community it serves. (Dan)
         *   On the other hand, some of the web site content from URSSI and BSSw could potentially be merged, and it the URSSI plan leads to a proposal and then an institute, this would be a topic to discuss. (Dan)
 
-# Discussion Notes
+## Discussion Notes
 
 *   What should we do with the mailing list, if anything?
 *   What follow-up activities would be useful?
