@@ -1,4 +1,6 @@
-# Participants
+# Discussion Notes from [SC17 BOF](index.md)
+
+## Participants
 *Participants who elected to list their names in the notes.*
 
 * Neil Chue Hong, Software Sustainability Institute
@@ -15,9 +17,9 @@
 * Reed Milewicz, Sandia National Laboratories
 * Lois Curfman McInnes, Argonne National Laboratory
 
-# Discussion Notes
+## Discussion Notes
 
-## Keynote: Building a middle ground
+### Keynote: Building a middle ground
 * Well established software engineering practices, but aimed at particular process of building applications
 * 20th Century approach, uses build system and adherence to standards - if it works, it still works, 30 years later - but challenging for non-expert users
 * “If you think language wars are bad, try build systems”
@@ -28,44 +30,44 @@
 * Often have only one chance of capturing new users
 * Bill’s rules: (1) Desperation. We all get excited by new things...only find time when we are desperate. (2) Commitment to outreach. Build it and they will come” rarely works. Strong outreach efforts are necessary.
 
-## Lightning talks (slides are on the website)
+### Lightning talks (slides are on the website)
 
-### Better Scientific Software: <https://bssw.io>
+#### Better Scientific Software: <https://bssw.io>
 * Need and want contributions from the community
 * “What is”, “How to”, blogs, experience, curated links
 * Fellowships will be awarded to 3 students in US-based institutions
 * Info session will be on Dec 11. 2017
 
 
-### NumFOCUS & Sustainable Software: <https://bit.ly/nf-sustainability> 
+#### NumFOCUS & Sustainable Software: <https://bit.ly/nf-sustainability> 
 * Funding a big factor, but not the only one
 * NumFocus sustainability program connecting people and projects and develop and provide training, common infrastructure
 * Strategic approach to funding across all projects rather than each project going out on their own.
 
 
-### Technical Consortium on High Performance Computing: Software Engineering Initiative (TCHPC/SE) - video on youtube
+#### Technical Consortium on High Performance Computing: Software Engineering Initiative (TCHPC/SE) - video on youtube
 * Join TCHPC/SE Slack Channel
 
-### Software Engineering Practices Three basics & One future wish	
+#### Software Engineering Practices Three basics & One future wish	
 * Researchers need to know that SE best practices exist
 * Put code in a code repository
 * Testing is good, automated testing is better
 * Reproducibility means being clear about version of software
 * Make citation of software part of research culture, Force 11
 
-### ESIP Software Sustainability Guidelines: A Big Tent Approach <https://goo.gl/9WeYZc>
+#### ESIP Software Sustainability Guidelines: A Big Tent Approach <https://goo.gl/9WeYZc>
 * Cross-disciplinary, diverse membership
 * Guidelines have not been controversial - agreed on larger principles and practices - how you implement depends on project and grant needs
 * Not prescriptive - broad, not comprehensive
 * Change and adapt as you need it
 
-### Software Engineering Initiative of DLR	
+#### Software Engineering Initiative of DLR	
 * Software Engineering Network of people with representatives from each institute
 * Regular training to improve skills of staff (git, code review, CI, unit testing)
 * “Support developers to self access...best practice”
 * Knowledge exchange workshops to share experience and knowledge
 
-### Commercial Software, aka Ultimate Software Reuse	
+#### Commercial Software, aka Ultimate Software Reuse	
 * Optimising for different things
   - Scientific - fastest code run time, Constraint - HPC cycle (hardware), Scope: My project / paper
   - Commercial - fastest code author time, Constraint - programmers (people), Scope: lots of users
@@ -73,11 +75,11 @@
 * “Lack of software funding in general, particularly for open source”
 * If you use open source software, give back: sweat equity / contribute, contracting, financial support
 
-### Promoting Reusable Software: Webinars and Publications: <http://bluewaters.ncsa.illinois.edu/webinars>
+#### Promoting Reusable Software: Webinars and Publications: <http://bluewaters.ncsa.illinois.edu/webinars>
 * Webinar topics sought
 * Special issue on Reusable Software
 
-## General discussion
+### General discussion
 
 * What are good practices for citing software e.g. in a paper?
   - Developing field. FORCE11 Software Citation Principles published.
