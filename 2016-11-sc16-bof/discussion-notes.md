@@ -1,4 +1,6 @@
-# Participants
+# Discussion Notes for [SC16 BOF](index.md)
+
+## Participants
 *Participants who elected to list their names in the notes.*
 
 -   Jason Maassen, Netherlands eScience Center
@@ -16,9 +18,9 @@
 -   Louise Spellacy, Trinity College, Dublin
 -   Tom Epperly
 
-# Discussion Notes
+## Discussion Notes
 
-## Ganesh Gopalakrisnhan, U of Utah
+### Ganesh Gopalakrisnhan, U of Utah
 
 “Formal methods: An apologetic term for
 using math when everyone else isn’t”
@@ -34,7 +36,7 @@ Formal Verification group at University of Utah:
 
 <https://github.com/PRUNER/archer>
 
-## Daniel Katz, U of Illinois 
+### Daniel Katz, U of Illinois 
 *Software Citation Principles*
 
 *6 Principles:*
@@ -53,7 +55,7 @@ Specificity (version, etc.)
 
 *PeerJ CS paper:* <http://doi.org/10.7717/peerj-cs.86>
 
-## James Hetherington, U College London
+### James Hetherington, U College London
 
 *Experiences in getting research software to become useful for scientists and
 long-term use.*
@@ -68,7 +70,7 @@ long-term use.*
 
 -   Make sure your work aligns with what people want to work with
 
-## leksandra Pawlik, New Zealand eScience Infrastructure
+### Aleksandra Pawlik, New Zealand eScience Infrastructure
 
 *SSI Fellowship Programme*
 
@@ -82,7 +84,7 @@ technologies, discipline-specific needs
 
 <https://github.com/hpccarpentry>
 
-## Jason Maassen, Netherlands eScience Center
+### Jason Maassen, Netherlands eScience Center
 
 *Bridging the gap between science and the researcher*
 
@@ -100,7 +102,7 @@ quality software.
 \*\* Good point brought up wrt NWO’s funding model asking for SW Engg plans.
 Could we have a SW Engg plan (similar to data-management plan) in NSF proposals?
 
-## Toni Collis, EPCC
+### Toni Collis, EPCC
 *SC17: Initiatives for improving inclusivity diversity on
 your teams*
 
@@ -112,7 +114,7 @@ as men who leave the industry.
 \*\* What percent of SC16 attendees are women? I estimate 3% based on looking
 around.
 
-## Rajiv Ramnath, NSF
+### Rajiv Ramnath, NSF
 *SE in Science Software Projects*
 
 Importance of recognizing Phases and different requirements
@@ -123,7 +125,7 @@ Recommends: Balancing Agility and Discipline, book by Barry Boehm
 Computing by publishing successful approaches in this area (if if you don’t
 publish, it’s not recognized)
 
-## Nancy Wilkins-Diehr, SDSC/UCSD
+### Nancy Wilkins-Diehr, SDSC/UCSD
 
 To have quality, reusable software, you need a lot of diverse expertise. Need to
 incentivize different career paths and specialization.
@@ -134,7 +136,7 @@ design, usability, etc.
 Need to have exposure to experts in different areas, without needing to hire
 those people (lower barrier of entry to have the diversity in every team).
 
-## Mike Heroux, Sandia National Laboratory
+### Mike Heroux, Sandia National Laboratory
 
 Learning initiative, acknowledge that there is a cost to adding software
 engineering, we need to lower the cost and speed up the time to impact.
@@ -143,7 +145,7 @@ Didn’t care for help he had received from software engineers in the past
 
 Be careful not to be there just to “help”
 
-## General Discussion
+### General Discussion
 
 Specific questions
 
