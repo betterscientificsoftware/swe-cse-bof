@@ -1,40 +1,4 @@
-<!----- Conversion time: 1.571 seconds.
-
-
-Using this Markdown file:
-
-1. Cut and paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β14
-* Sun Feb 10 2019 14:40:59 GMT-0800 (PST)
-* Source doc: https://docs.google.com/open?id=1QYBYwaXLeVa7oZpW_a69jM3cokx6LcooEhLpNAyLgPI
------>
-
-
-
-## Birds of a Feather -- Software Engineering and Reuse in Computational Science and Engineering 
-
-**These notes: [http://bit.ly/sc18-bof-notes](http://bit.ly/sc18-bof-notes)**
-
-**BOF web site: [http://bit.ly/swe-cse-bof](http://bit.ly/swe-cse-bof)**
-
-**Mailing List Signup: **[https://swe-cse-bof.groups.io](https://swe-cse-bof.groups.io/)
-
-**SC18 evaluation site: [http://bit.ly/sc18-eval](http://bit.ly/sc18-eval)**
-
-
-
----
-
-
-**Q&A from Lightning Talks**
-
-
+# Q&A from Lightning Talks
 
 *   Promoting Research Software: A Call to Action
     *   Many initiatives need funding -- so it would be good to capture ROI from existing initiatives (UK/SSI is the obvious, hoped for, source for this :-) )
@@ -58,11 +22,7 @@ Conversion notes:
         *   URSSI is a funded "planning" project, with people and the goal of planning a future larger project (the institute), which would have the ability to be far more interactive with the community it serves. (Dan)
         *   On the other hand, some of the web site content from URSSI and BSSw could potentially be merged, and it the URSSI plan leads to a proposal and then an institute, this would be a topic to discuss. (Dan)
 
- 
-
-Discussion Notes
-
-
+# Discussion Notes
 
 *   What should we do with the mailing list, if anything?
 *   What follow-up activities would be useful?
@@ -189,7 +149,4 @@ Discussion Notes
         *   Report in ~ 6 months
     *   Science gateway community developing a paper on maturity models that could be useful when considering good/better/best software engineering practices (Dan has a draft of this paper)
 
-Note: average attendance as reported by Student Volunteers was 43
-
-
-<!-- Docs to Markdown version 1.0β14 -->
+*Note: average attendance as reported by Student Volunteers was 43*
