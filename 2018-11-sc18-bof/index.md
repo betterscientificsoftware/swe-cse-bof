@@ -24,8 +24,8 @@ and other "traditional" venues.
 Time | Topic | Speaker/Moderator | Affiliation
 -----|-------|---------|------------
 3 min | [Introduction and Goals](00-intro-bernholdt.pdf) | David E. Bernholdt | Oak Ridge National Laboratory
-18 min | [Lightning Talks](#lightning-talks)) | David E. Bernholdt | Oak Ridge National Laboratory
-59 min | [General Discussion](#general-discussion)  Daniel S. Katz | University of Illinois Urbana-Champaign
+18 min | [Lightning Talks](#lightning-talks) | David E. Bernholdt | Oak Ridge National Laboratory
+59 min | [General Discussion](#discussion-notes) | Daniel S. Katz | University of Illinois Urbana-Champaign
 10 min | Wrap-Up and Next Steps | Daniel S. Katz | University of Illinois Urbana-Champaign
 
 ## Lightning Talks
