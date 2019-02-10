@@ -2,7 +2,7 @@
 
 *A Birds of a Feather session at SC18, on Wednesday 14 November 2018*
 
-Jump to: [Abstract](#abstract) |[Agenda](#agenda) | [Lightning Talks](#lightning-talks) | [Discussion Notes](#discussion-notes) | [Organizers](#organizers) |  [Suggested Citation](#suggested-citation)
+Jump to: [Abstract](#abstract) \| [Agenda](#agenda) \| [Lightning Talks](#lightning-talks) \| [Discussion Notes](#discussion-notes) \| [Organizers](#organizers) \|  [Suggested Citation](#suggested-citation)
 
 ## Abstract
 
