@@ -11,6 +11,10 @@ Permalink: <http://bit.ly/swe-cse-bof>
 * [Software Engineering for Computational Science and Engineering on Supercomputers (SC16 BOF)](2016-11-sc16-bof)
 * [Software Engineering for Computational Science and Engineering on Supercomputers (SC15 BOF)](2015-11-sc15-bof/)
 
+## Mailing List
+
+<https://swe-cse-bof.groups.io/> (low volume)
+
 ## Contributing
 
 The repository for this site is <https://github.com/betterscientificsoftware/swe-cse-bof>.  Issues and pull requests are welcome.
