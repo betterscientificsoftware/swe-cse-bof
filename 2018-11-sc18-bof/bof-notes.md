@@ -3,10 +3,10 @@
 ## Q&A from Lightning Talks
 
 *   Promoting Research Software: A Call to Action
-    *   Many initiatives need funding -- so it would be good to capture ROI from existing initiatives (UK/SSI is the obvious, hoped for, source for this :-) )
+    *   Many initiatives need funding -- so it would be good to capture ROI from existing initiatives (UK SSI is the obvious, hoped for, source for this :-) )
 *   Conceptualizing a US Research Software Sustainability Institute (URSSI)
     *   Could community activities also include "collaborative community activities" such as code reviews, (a la Karthik Ram's BDSC initiative [I might have the name/acronym wrong])?
-        *   Yes, this is possible. Please suggest it on the URSSI discuss board or email (Dan)
+        *   Yes, this is possible. Please suggest it on the [URSSI discuss board](https://discuss.urssi.us) or email (Dan)
 *   HPC Carpentry: open source, hands-on HPC training
     *   Will the HPC Carpentry build on HPC University, or feed into the HPC Certification efforts?
     *   Will this be an intro to HPC, or will it also include (or grow to include) skills to use petascale and more advanced and specialized systems?
@@ -19,10 +19,10 @@
 *   An RSE from UK
     *   There are active efforts to formalize recognition for things like "paper reviewer" or "member of funding agency peer review committee" -- perhaps this kind of formalized recognition could be created for RSEs… -- Maybe also linked to metrics like repo downloads, etc.
 *   Update: Better Scientific Software (bssw.io)
-    *   Why do both bss and urssi exist? Should they be merged/combined?
+    *   Why do both BSSw and URSSI exist? Should they be merged/combined?
         *   BSSw.io is "just" a web site (we also use that "brand name" for tutorials).  The goal is also for BSSw.io to be community-driven and independent of any particular project. The community helping itself. (David)
         *   URSSI is a funded "planning" project, with people and the goal of planning a future larger project (the institute), which would have the ability to be far more interactive with the community it serves. (Dan)
-        *   On the other hand, some of the web site content from URSSI and BSSw could potentially be merged, and it the URSSI plan leads to a proposal and then an institute, this would be a topic to discuss. (Dan)
+        *   On the other hand, some of the web site content from URSSI and BSSw could potentially be merged, and if the URSSI plan leads to a proposal and then an institute, this would be a topic to discuss. (Dan)
 
 ## Discussion Notes
 
@@ -39,10 +39,10 @@
     *   Anyone here want to help push this forward?
 *   Training
     *   Carrots to put in front of people to encourage this?
-    *   pitch as learn to work with your data - and do so responsibly
+    *   Pitch as learn to work with your data - and do so responsibly
     *   Include successful case studies
     *   Build into next generation of researchers who may then
-    *    adopt and spread
+    *   Adopt and spread
 *   Software development takes a long time to do well
     *   Takes more time up-front
     *   Payoff is huge but takes time
@@ -80,11 +80,11 @@
     *   CHAOSS - from Linux community - measuring success of open source projects
         *   Bringing together people to work on small number of metrics frameworks and reusable tools / platforms for measuring software
         *   [https://chaoss.community/](https://chaoss.community/)
-        *   Focus on developing a small number of tools which each have a specialism (e.g. dashboard, easy to use for research etc)
+        *   Focus on developing a small number of tools which each have a speciality (e.g. dashboard, easy to use for research etc)
 *   How to improve evangelism to applications scientists?
     *   Most people are at some level resistant to new ideas
     *   Need to hear from their trusted peers
-    *   What can we learn from software carpenties?
+    *   What can we learn from Software Carpenties?
         *   Meet people where they are
         *   Giving people early wins - to see impact on their work quickly
         *   Which helps keep them learning
@@ -96,7 +96,7 @@
     *   People like to hear about mistakes others have made
     *   People want to learn good/best practices
     *   Encourage - be positive
-    *   Carpentries provide a good on-ramp (without 25 page document to get started)
+    *   Carpentries provide a good on-ramp (without 25-page document to get started)
     *   Use "prototype" and "reference implementation" terminology to get them started
         *   Differentiate levels of software maturity
         *   Danger of not coming back
@@ -107,7 +107,7 @@
     *   On-boarding
     *   Code reviews
     *   How to know what practices to follow?
-        *   BSSW wants to help provide a foundation
+        *   BSSw wants to help provide a foundation
     *   Documentation must keep pace with code changes
     *   Tests can be part of the documentation and can help validate maintenance of code
     *   Documentation is useful, tests are critical (Andy T.)
