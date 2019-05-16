@@ -43,13 +43,18 @@ be made available to the community at the BoF series website,
 Time | Topic | Speaker/Moderator | Affiliation
 -----|-------|---------|------------
 3 min | Introduction and Goals | TBD | TBD
-?? min | [Lightning Talks](#lightning-talks) | TBD | TBD
-?? min | [General Discussion](#discussion-notes) | TBD | TBD
+15 min | [Lightning Talks](#lightning-talks) | TBD | TBD
+37 min | [General Discussion](#discussion-notes) | TBD | TBD
 5 min | Wrap-Up and Next Steps | TBD | TBD
 
 ## Lightning Talks
 
-**To be announced**
+Speakers (additional details to be announced):
+- Chris Bording
+- Stephan Druskat
+- Mozhgan Kabiri Chimeh
+- Arnold Kuznair
+- Jurriaan Spaaks
 
 ## Discussion Notes
 
