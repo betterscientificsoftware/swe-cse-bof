@@ -43,20 +43,25 @@ be made available to the community at the BoF series website,
 Time | Topic | Speaker/Moderator | Affiliation
 -----|-------|---------|------------
 3 min | Introduction and Goals | TBD | TBD
-15 min | [Lightning Talks](#lightning-talks) | TBD | TBD
-37 min | [General Discussion](#discussion-notes) | TBD | TBD
+18 min | [Lightning Talks](#lightning-talks) | TBD | TBD
+34 min | [General Discussion](#discussion-notes) | TBD | TBD
 5 min | Wrap-Up and Next Steps | TBD | TBD
 
 ## Lightning Talks
 
-Speakers (additional details to be announced):
-- Chris Bording
-- Stephan Druskat
-- Mozhgan Kabiri Chimeh
-- Arnold Kuznair
-- Jurriaan Spaaks
+Order subect to change
+
+Nr. | Title | Speaker | Affiliation
+--|-------|-----------|------------
+0 | TBA | Chris Bording |
+0 | Software Citation: State of the Practice and Challenges | Stephan Druskat | German Aerospace Center (DLR)
+0 | TBA | Mozhgan Kabiri Chimeh | University of Sheffield
+0 | TBA | Arnold Kuznair |
+0 | TBA | Rob van Nieuwpoort |
+0 | TBA | Jurriaan Spaaks |
 
 ## Discussion Notes
+### Note takers: Jared O'Neal and TBD
 
 Notes will be taken in a shared Google Doc, which will be linked here.
 
