@@ -55,7 +55,7 @@ Nr. | Title | Speaker | Affiliation
 --|-------|-----------|------------
 0 | TBA | Chris Bording |
 0 | Software Citation: State of the Practice and Challenges | Stephan Druskat | German Aerospace Center (DLR)
-0 | TBA | Mozhgan Kabiri Chimeh | University of Sheffield
+0 | Diversity Matters | Mozhgan Kabiri Chimeh | University of Sheffield
 0 | TBA | Arnold Kuznair |
 0 | TBA | Rob van Nieuwpoort |
 0 | TBA | Jurriaan Spaaks |
