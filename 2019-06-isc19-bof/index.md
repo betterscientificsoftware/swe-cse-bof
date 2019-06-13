@@ -56,9 +56,9 @@ Nr. | Title | Speaker | Affiliation
 0 | TBA | Chris Bording |
 0 | Software Citation: State of the Practice and Challenges | Stephan Druskat | German Aerospace Center (DLR)
 0 | Diversity Matters | Mozhgan Kabiri Chimeh | University of Sheffield
-0 | TBA | Arnold Kuznair |
-0 | TBA | Rob van Nieuwpoort |
-0 | TBA | Jurriaan Spaaks |
+0 | Portable HPC Workflows and Software rR-use | Arnold Kuznair | Netherlands eScience Center
+0 | TBA | Rob van Nieuwpoort | Netherlands eScience Center
+0 | TBA | Jurriaan Spaaks | Netherlands eScience Center
 
 ## Discussion Notes
 ### Note takers: Jared O'Neal and TBD
