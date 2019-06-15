@@ -58,7 +58,7 @@ Nr. | Title | Speaker | Affiliation
 0 | Diversity Matters | Mozhgan Kabiri Chimeh | University of Sheffield
 0 | Portable HPC Workflows and Software re-use | Arnold Kuzniar | Netherlands eScience Center
 0 | TBA | Rob van Nieuwpoort | Netherlands eScience Center
-0 | TBA | Jurriaan Spaaks | Netherlands eScience Center
+0 | Why you should put your code in a community registry | Jurriaan H. Spaaks | Netherlands eScience Center
 
 ## Discussion Notes
 ### Note takers: Jared O'Neal and TBD
