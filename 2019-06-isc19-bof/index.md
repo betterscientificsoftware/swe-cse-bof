@@ -56,7 +56,7 @@ Nr. | Title | Speaker | Affiliation
 0 | HPC Carpentry in the UK | Chris Bording | IBM Research
 0 | Software Citation: State of the Practice and Challenges | Stephan Druskat | German Aerospace Center (DLR)
 0 | Diversity Matters | Mozhgan Kabiri Chimeh | University of Sheffield
-0 | Portable HPC Workflows and Software rR-use | Arnold Kuznair | Netherlands eScience Center
+0 | Portable HPC Workflows and Software re-use | Arnold Kuzniar | Netherlands eScience Center
 0 | TBA | Rob van Nieuwpoort | Netherlands eScience Center
 0 | TBA | Jurriaan Spaaks | Netherlands eScience Center
 
