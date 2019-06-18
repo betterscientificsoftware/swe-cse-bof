@@ -3,6 +3,7 @@
 *A Birds of a Feather session at ISC 2019*
 - When: 11:30am-12:30pm Wednesday 19 June, 2019
 - Where: Konstant
+- Live notes: <https://bit.ly/swe-cse-notes>
 
 Jump to: [Abstract](#abstract) \| [Agenda](#agenda) \| [Lightning Talks](#lightning-talks) \| [Discussion Notes](#discussion-notes) \| [Organizers](#organizers) \|  [Suggested Citation](#suggested-citation)
 
@@ -43,8 +44,8 @@ be made available to the community at the BoF series website,
 Time | Topic | Speaker/Moderator | Affiliation
 -----|-------|---------|------------
 3 min | Introduction and Goals | TBD | TBD
-18 min | [Lightning Talks](#lightning-talks) | TBD | TBD
-34 min | [General Discussion](#discussion-notes) | TBD | TBD
+15 min | [Lightning Talks](#lightning-talks) | TBD | TBD
+37 min | [General Discussion](#discussion-notes) | TBD | TBD
 5 min | Wrap-Up and Next Steps | TBD | TBD
 
 ## Lightning Talks
@@ -53,16 +54,16 @@ Order subect to change
 
 Nr. | Title | Speaker | Affiliation
 --|-------|-----------|------------
-0 | HPC Carpentry in the UK | Chris Bording | IBM Research
-0 | Software Citation: State of the Practice and Challenges | Stephan Druskat | German Aerospace Center (DLR)
-0 | Diversity Matters | Mozhgan Kabiri Chimeh | University of Sheffield
-0 | Portable HPC Workflows and Software re-use | Arnold Kuzniar | Netherlands eScience Center
-0 | Why you should put your code in a community registry | Jurriaan H. Spaaks | Netherlands eScience Center
+1 | HPC Carpentry in the UK | Chris Bording | IBM Research
+2 | Software Citation: State of the Practice and Challenges | Stephan Druskat | German Aerospace Center (DLR)
+3 | Portable HPC Workflows and Software re-use | Arnold Kuzniar | Netherlands eScience Center
+4 | Why you should put your code in a community registry | Jurriaan H. Spaaks | Netherlands eScience Center
+5 | Diversity Matters | Mozhgan Kabiri Chimeh | University of Sheffield
 
 ## Discussion Notes
-### Note takers: Jared O'Neal and TBD
+### Note takers: Jared O'Neal and Jurriaan Spaaks
 
-Notes will be taken in a shared Google Doc, which will be linked here.
+Notes will be taken in a shared Google Doc: <https://bit.ly/swe-cse-notes>
 
 After the BOF, we will clean up the notes and archive them on this site.
 
