@@ -3,7 +3,8 @@
 *A Birds of a Feather session at ISC 2019*
 - When: 11:30am-12:30pm Wednesday 19 June, 2019
 - Where: Konstant
-- Live notes: <https://bit.ly/swe-cse-notes>
+- **Live notes: <https://bit.ly/swe-cse-notes>**
+- **Mailing list: <https://swe-cse-bof.groups.io/>**
 
 Jump to: [Abstract](#abstract) \| [Agenda](#agenda) \| [Lightning Talks](#lightning-talks) \| [Discussion Notes](#discussion-notes) \| [Organizers](#organizers) \|  [Suggested Citation](#suggested-citation)
 
@@ -63,7 +64,7 @@ Nr. | Title | Speaker | Affiliation
 ## Discussion Notes
 ### Note takers: Jared O'Neal and Jurriaan Spaaks
 
-Notes will be taken in a shared Google Doc: <https://bit.ly/swe-cse-notes>
+**Notes will be taken in a shared Google Doc: <https://bit.ly/swe-cse-notes>**
 
 After the BOF, we will clean up the notes and archive them on this site.
 
