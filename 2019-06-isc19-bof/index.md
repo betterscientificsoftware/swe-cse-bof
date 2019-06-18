@@ -44,8 +44,8 @@ be made available to the community at the BoF series website,
 
 Time | Topic | Speaker/Moderator | Affiliation
 -----|-------|---------|------------
-3 min | Introduction and Goals | TBD | TBD
-15 min | [Lightning Talks](#lightning-talks) | TBD | TBD
+3 min | Introduction and Goals | David E. Bernholdt | Oak Ridge National Laboratory
+15 min | [Lightning Talks](#lightning-talks) | Anshu Dubey | Argonne National Labroatory
 37 min | [General Discussion](#discussion-notes) | TBD | TBD
 5 min | Wrap-Up and Next Steps | TBD | TBD
 
@@ -62,7 +62,7 @@ Nr. | Title | Speaker | Affiliation
 5 | Diversity Matters | Mozhgan Kabiri Chimeh | University of Sheffield
 
 ## Discussion Notes
-### Note takers: Jared O'Neal and Jurriaan Spaaks
+### Note takers: Jared O'Neal and Jurriaan Spaaks (with help from the audience)
 
 **Notes will be taken in a shared Google Doc: <https://bit.ly/swe-cse-notes>**
 
