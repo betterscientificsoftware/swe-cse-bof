@@ -59,7 +59,7 @@ Nr. | Title | Speaker | Affiliation
 2 | [Software Citation: State of the Practice and Challenges](02-druskat-citation.pdf) | Stephan Druskat | German Aerospace Center (DLR)
 3 | [Portable HPC Workflows and Software re-use](03-kuznair-workflows.pdf) | Arnold Kuzniar | Netherlands eScience Center
 4 | [Why you should put your code in a community registry](04-spaaks-repositories.pdf) | Jurriaan H. Spaaks | Netherlands eScience Center
-5 | [Diversity Matters](00-kabiri-chimeh-diversity.pdf) | Mozhgan Kabiri Chimeh | University of Sheffield
+5 | [Diversity Matters](05-kabiri-chimeh-diversity.pdf) | Mozhgan Kabiri Chimeh | University of Sheffield
 
 ## Discussion Notes
 ### Note takers: Jared O'Neal and Jurriaan Spaaks (with help from the audience)
