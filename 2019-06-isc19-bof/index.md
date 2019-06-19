@@ -44,10 +44,10 @@ be made available to the community at the BoF series website,
 
 Time | Topic | Speaker/Moderator | Affiliation
 -----|-------|---------|------------
-3 min | Introduction and Goals | David E. Bernholdt | Oak Ridge National Laboratory
+3 min | [Introduction and Goals](00-intro-bernholdt.pdf) | David E. Bernholdt | Oak Ridge National Laboratory
 15 min | [Lightning Talks](#lightning-talks) | Anshu Dubey | Argonne National Labroatory
-37 min | [General Discussion](#discussion-notes) | TBD | TBD
-5 min | Wrap-Up and Next Steps | TBD | TBD
+37 min | [General Discussion](#discussion-notes) | David E. Bernholdt | Oak Ridge National Laboratory
+5 min | Wrap-Up and Next Steps | David E. Bernholdt | Oak Ridge National Laboratory
 
 ## Lightning Talks
 
@@ -59,7 +59,7 @@ Nr. | Title | Speaker | Affiliation
 2 | [Software Citation: State of the Practice and Challenges](02-druskat-citation.pdf) | Stephan Druskat | German Aerospace Center (DLR)
 3 | [Portable HPC Workflows and Software re-use](03-kuznair-workflows.pdf) | Arnold Kuzniar | Netherlands eScience Center
 4 | [Why you should put your code in a community registry](04-spaaks-repositories.pdf) | Jurriaan H. Spaaks | Netherlands eScience Center
-5 | Diversity Matters | Mozhgan Kabiri Chimeh | University of Sheffield
+5 | [Diversity Matters](00-kabiri-chimeh-diversity.pdf) | Mozhgan Kabiri Chimeh | University of Sheffield
 
 ## Discussion Notes
 ### Note takers: Jared O'Neal and Jurriaan Spaaks (with help from the audience)
