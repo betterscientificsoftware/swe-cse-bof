@@ -56,9 +56,9 @@ Order subect to change
 Nr. | Title | Speaker | Affiliation
 --|-------|-----------|------------
 1 | HPC Carpentry in the UK | Chris Bording | IBM Research
-2 | Software Citation: State of the Practice and Challenges | Stephan Druskat | German Aerospace Center (DLR)
-3 | Portable HPC Workflows and Software re-use | Arnold Kuzniar | Netherlands eScience Center
-4 | Why you should put your code in a community registry | Jurriaan H. Spaaks | Netherlands eScience Center
+2 | [Software Citation: State of the Practice and Challenges](02-druskat-citation.pdf) | Stephan Druskat | German Aerospace Center (DLR)
+3 | [Portable HPC Workflows and Software re-use](03-kuznair-workflows.pdf) | Arnold Kuzniar | Netherlands eScience Center
+4 | [Why you should put your code in a community registry](04-spaaks-repositories.pdf) | Jurriaan H. Spaaks | Netherlands eScience Center
 5 | Diversity Matters | Mozhgan Kabiri Chimeh | University of Sheffield
 
 ## Discussion Notes
