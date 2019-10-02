@@ -1,10 +1,6 @@
 # Software Engineering and Reuse in Computational Science and Engineering (ISC 2019 BOF)
 
-*A Birds of a Feather session at ISC 2019*
-- When: 11:30am-12:30pm Wednesday 19 June, 2019
-- Where: Konstant
-- **Live notes: <https://bit.ly/swe-cse-notes>**
-- **Mailing list: <https://swe-cse-bof.groups.io/>**
+*A Birds of a Feather session at ISC 2019, on Wednesday 19 June 2019*
 
 Jump to: [Abstract](#abstract) \| [Agenda](#agenda) \| [Lightning Talks](#lightning-talks) \| [Discussion Notes](#discussion-notes) \| [Organizers](#organizers) \|  [Suggested Citation](#suggested-citation)
 
@@ -51,8 +47,6 @@ Time | Topic | Speaker/Moderator | Affiliation
 
 ## Lightning Talks
 
-Order subect to change
-
 Nr. | Title | Speaker | Affiliation
 --|-------|-----------|------------
 1 | [HPC Carpentry in the UK](01-carpentry-bording.pdf) | Chris Bording | IBM Research
@@ -61,12 +55,8 @@ Nr. | Title | Speaker | Affiliation
 4 | [Why you should put your code in a community registry](04-spaaks-repositories.pdf) | Jurriaan H. Spaaks | Netherlands eScience Center
 5 | [Diversity Matters](05-kabiri-chimeh-diversity.pdf) | Mozhgan Kabiri Chimeh | University of Sheffield
 
-## Discussion Notes
-### Note takers: Jared O'Neal and Jurriaan Spaaks (with help from the audience)
-
-**Notes will be taken in a shared Google Doc: <https://bit.ly/swe-cse-notes>**
-
-After the BOF, we will clean up the notes and archive them on this site.
+## [Discussion Notes](bof-notes.md)
+*Thanks to Jared O'Neal and Jurriaan Spaaks as our primary note-takers.*
 
 ## Organizers
 
