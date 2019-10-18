@@ -52,7 +52,7 @@ Name | Affiliation
 David E. Bernholdt | Oak Ridge National Laboratory
 Jeffrey Carver | University of Alabama
 Neil Chue Hong | University of Edinburgh, Software Sustainability Institute
-William Gropp | University of IllinoisNational Center for Supercomputing Applications (NCSA)
+William Gropp | University of Illinois, National Center for Supercomputing Applications (NCSA)
 Carina Haupt | German Aerospace Center (DLR)
 Michael A. Heroux | Sandia National Laboratories and St. John's University
 Axel Huebl | Lawrence Berkeley National Laboratory
