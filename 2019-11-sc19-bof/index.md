@@ -58,13 +58,13 @@ Michael A. Heroux | Sandia National Laboratories and St. John's University
 Axel Huebl | Lawrence Berkeley National Laboratory
 Guido Juckeland | Helmholtz-Zentrum Dresden-Rossedorf (HZDR)
 Mozhgan Kabiri Chimeh | University of Sheffield
-Daniel Katz | University of Illinois
+Daniel S. Katz | University of Illinois, National Center for Supercomputing Applications (NCSA)
 
 ## Suggested Citation
 
 David E. Bernholdt, Jeffrey Carver, Neil Chue Hong, William Gropp,
 Carina Haupt, Michael A. Heroux, Axel Huebl, Guido Juckeland, Mozhgan
-Kabiri Chimeh, Daniel Katz, organizers, Birds of a Feather session on
+Kabiri Chimeh, Daniel S. Katz, organizers, Birds of a Feather session on
 Software Engineering and Reuse in Modeling, Simulation, and Data
 Analytics for Science and Engineering, in International Conference for
 High Performance Computing, Networking, Storage and Analysis (SC '19),
