@@ -37,7 +37,19 @@ Time | Topic | Speaker/Moderator | Affiliation
 
 ## Lightning Talks
 
-**Details to be announced**
+**Order subject to change**
+
+Title | Speaker | Affiliation
+------|---------|-------------
+TBA | Neil Chue Hong |
+US-RSE: Building a National Community of Research Software Engineers | Ian Cosden | Princeton University
+TBA | Nathan Goldbaum |
+TBA | Carina Haupt |
+TBA | Mike Heroux |
+TBA | Axel Huebel |
+TBA | Catherine Jones |
+Journal of Open Source Software (JOSS) | Daniel S. Katz | University of Illinois at Urbana-Champaign
+Accelerating Scientific Discovery with Reusable Software | Scott Lathrop | Shodor Education Foundation, and NCSA at the University of Illinois
 
 ## Discussion Notes
 
