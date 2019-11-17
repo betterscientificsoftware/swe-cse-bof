@@ -30,8 +30,8 @@ continue these important discussions outside of workshops and other
 
 Time | Topic | Speaker/Moderator | Affiliation
 -----|-------|---------|------------
-3 min | Introduction and Goals | TBD | TBD
-30 min | Lightning Talks | TBD | TBD
+3 min | Introduction and Goals | David E. Bernholdt | Oak Ridge National Laboratory
+30 min | Lightning Talks | Mozhgan Kibiri Chimeh | University of Sheffield
 52 min | General Discussion | TBD | TBD
 5 min | Wrap-Up and Next Steps | TBD | TBD
 
@@ -56,6 +56,9 @@ Accelerating Scientific Discovery with Reusable Software | Scott Lathrop | Shodo
 **Notes will be taken in a shared Google Doc: <https://bit.ly/swe-cse-notes>**
 
 After the BOF, we will clean up the notes and archive them on this site.
+
+Lead Note Taker: Guido Juckeland, Helmholtz-Zentrum Dresden-Rossedorf (HZDR).
+Additional not takers welcome.
 
 ## Organizers
 
