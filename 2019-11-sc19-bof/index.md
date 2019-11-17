@@ -41,12 +41,12 @@ Time | Topic | Speaker/Moderator | Affiliation
 
 Title | Speaker | Affiliation
 ------|---------|-------------
-TBA | Neil Chue Hong |
+Software citation: boldly going where no reference has gone before | Neil Chue Hong | Software Sustainability Institute, EPCC, University of Edinburgh
 US-RSE: Building a National Community of Research Software Engineers | Ian Cosden | Princeton University
-TBA | Nathan Goldbaum |
+Best Practices for Governance of HPC Software Projects | Nathan Goldbaum | Quansight
 TBA | Carina Haupt |
 TBA | Mike Heroux |
-TBA | Axel Huebel |
+Continuous Documentation for Fast-Moving Projects | Axel Huebel | Lawrence Berkeley National Laboratory
 TBA | Catherine Jones |
 Journal of Open Source Software (JOSS) | Daniel S. Katz | University of Illinois at Urbana-Champaign
 Accelerating Scientific Discovery with Reusable Software | Scott Lathrop | Shodor Education Foundation, and NCSA at the University of Illinois
