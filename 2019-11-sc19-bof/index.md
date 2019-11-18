@@ -32,8 +32,8 @@ Time | Topic | Speaker/Moderator | Affiliation
 -----|-------|---------|------------
 3 min | Introduction and Goals | David E. Bernholdt | Oak Ridge National Laboratory
 30 min | Lightning Talks | Mozhgan Kibiri Chimeh | University of Sheffield
-52 min | General Discussion | TBD | TBD
-5 min | Wrap-Up and Next Steps | TBD | TBD
+52 min | General Discussion | Daniel S. Katz | University of Illinois, National Center for Supercomputing Applications (NCSA)
+5 min | Wrap-Up and Next Steps | Daniel S. Katz | University of Illinois, National Center for Supercomputing Applications (NCSA)
 
 ## Lightning Talks
 
@@ -44,10 +44,10 @@ Title | Speaker | Affiliation
 Software citation: boldly going where no reference has gone before | Neil Chue Hong | Software Sustainability Institute, EPCC, University of Edinburgh
 US-RSE: Building a National Community of Research Software Engineers | Ian Cosden | Princeton University
 Best Practices for Governance of HPC Software Projects | Nathan Goldbaum | Quansight
-TBA | Carina Haupt |
-TBA | Mike Heroux |
+Helmholtz Federated IT Services (HIFIS) – Creating Services together | Carina Haupt | German Aerospace Center (DLR)
+Research Software Science: A Scientific Approach to Improving the Development and Use of Research Software | Michael A. Heroux | Sandia National Laboratories
 Continuous Documentation for Fast-Moving Projects | Axel Huebel | Lawrence Berkeley National Laboratory
-TBA | Catherine Jones |
+Thoughts on mentoring schemes for UK Research Software Engineers | Catherine Jones | UKRI: Science and Technology Facilities Council
 Journal of Open Source Software (JOSS) | Daniel S. Katz | University of Illinois at Urbana-Champaign
 Accelerating Scientific Discovery with Reusable Software | Scott Lathrop | Shodor Education Foundation, and NCSA at the University of Illinois
 
@@ -58,7 +58,7 @@ Accelerating Scientific Discovery with Reusable Software | Scott Lathrop | Shodo
 After the BOF, we will clean up the notes and archive them on this site.
 
 Lead Note Taker: Guido Juckeland, Helmholtz-Zentrum Dresden-Rossedorf (HZDR).
-Additional not takers welcome.
+*Additional note takers welcome.*
 
 ## Organizers
 
