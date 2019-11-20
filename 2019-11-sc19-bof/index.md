@@ -46,7 +46,7 @@ US-RSE: Building a National Community of Research Software Engineers | Ian Cosde
 Best Practices for Governance of HPC Software Projects | Nathan Goldbaum | Quansight
 Helmholtz Federated IT Services (HIFIS) – Creating Services together | Carina Haupt | German Aerospace Center (DLR)
 Research Software Science: A Scientific Approach to Improving the Development and Use of Research Software | Michael A. Heroux | Sandia National Laboratories
-Continuous Documentation for Fast-Moving Projects | Axel Huebel | Lawrence Berkeley National Laboratory
+Continuous Documentation for Fast-Moving Projects | Axel Huebl | Lawrence Berkeley National Laboratory
 Thoughts on mentoring schemes for UK Research Software Engineers | Catherine Jones | UKRI: Science and Technology Facilities Council
 Journal of Open Source Software (JOSS) | Daniel S. Katz | University of Illinois at Urbana-Champaign
 Accelerating Scientific Discovery with Reusable Software | Scott Lathrop | Shodor Education Foundation, and NCSA at the University of Illinois
