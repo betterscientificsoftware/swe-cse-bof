@@ -30,9 +30,9 @@ continue these important discussions outside of workshops and other
 
 Time | Topic | Speaker/Moderator | Affiliation
 -----|-------|---------|------------
-3 min | Introduction and Goals | David E. Bernholdt | Oak Ridge National Laboratory
-30 min | Lightning Talks | Mozhgan Kibiri Chimeh | University of Sheffield
-52 min | General Discussion | Daniel S. Katz | University of Illinois, National Center for Supercomputing Applications (NCSA)
+3 min | [Introduction and Goals](00-intro-bernholdt.pdf) | David E. Bernholdt | Oak Ridge National Laboratory
+30 min | [Lightning Talks](#lightning-talks) | Mozhgan Kibiri Chimeh | University of Sheffield
+52 min | [General Discussion](#general-discussion) | Daniel S. Katz | University of Illinois, National Center for Supercomputing Applications (NCSA)
 5 min | Wrap-Up and Next Steps | Daniel S. Katz | University of Illinois, National Center for Supercomputing Applications (NCSA)
 
 ## Lightning Talks
@@ -41,15 +41,15 @@ Time | Topic | Speaker/Moderator | Affiliation
 
 Title | Speaker | Affiliation
 ------|---------|-------------
-Software citation: boldly going where no reference has gone before | Neil Chue Hong | Software Sustainability Institute, EPCC, University of Edinburgh
-US-RSE: Building a National Community of Research Software Engineers | Ian Cosden | Princeton University
-Best Practices for Governance of HPC Software Projects | Nathan Goldbaum | Quansight
-Helmholtz Federated IT Services (HIFIS) – Creating Services together | Carina Haupt | German Aerospace Center (DLR)
-Research Software Science: A Scientific Approach to Improving the Development and Use of Research Software | Michael A. Heroux | Sandia National Laboratories
-Continuous Documentation for Fast-Moving Projects | Axel Huebl | Lawrence Berkeley National Laboratory (LBNL)
-Thoughts on mentoring schemes for UK Research Software Engineers | Catherine Jones | UKRI: Science and Technology Facilities Council
-Journal of Open Source Software (JOSS) | Daniel S. Katz | University of Illinois at Urbana-Champaign
-Accelerating Scientific Discovery with Reusable Software | Scott Lathrop | Shodor Education Foundation, and NCSA at the University of Illinois
+[Software citation: boldly going where no reference has gone before](01-chuehong-citation.pdf) | Neil Chue Hong | Software Sustainability Institute, EPCC, University of Edinburgh
+[US-RSE: Building a National Community of Research Software Engineers](02-cosden-usrse.pdf) | Ian Cosden | Princeton University
+[Best Practices for Governance of HPC Software Projects](03-goldbaum-governance.pdf) | Nathan Goldbaum | Quansight
+[Helmholtz Federated IT Services (HIFIS) – Creating Services together](04-haupt-helmholtz.pdf) | Carina Haupt | German Aerospace Center (DLR)
+[Research Software Science: A Scientific Approach to Improving the Development and Use of Research Software](05-heroux-research.pdf) | Michael A. Heroux | Sandia National Laboratories
+[Continuous Documentation for Fast-Moving Projects](06-huebl-documentation.pdf) | Axel Huebl | Lawrence Berkeley National Laboratory (LBNL)
+[Thoughts on mentoring schemes for UK Research Software Engineers](07-jones-mentoring.pdf) | Catherine Jones | UKRI: Science and Technology Facilities Council
+[Journal of Open Source Software (JOSS)](08-katz-joss.pdf) | Daniel S. Katz | University of Illinois at Urbana-Champaign
+[Accelerating Scientific Discovery with Reusable Software](09-lapthrop-reuseable.pdf) | Scott Lathrop | Shodor Education Foundation, and NCSA at the University of Illinois
 
 ## Discussion Notes
 
