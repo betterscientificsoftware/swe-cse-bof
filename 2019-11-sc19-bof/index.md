@@ -49,7 +49,7 @@ Title | Speaker | Affiliation
 [Continuous Documentation for Fast-Moving Projects](06-huebl-documentation.pdf) | Axel Huebl | Lawrence Berkeley National Laboratory (LBNL)
 [Thoughts on mentoring schemes for UK Research Software Engineers](07-jones-mentoring.pdf) | Catherine Jones | UKRI: Science and Technology Facilities Council
 [Journal of Open Source Software (JOSS)](08-katz-joss.pdf) | Daniel S. Katz | University of Illinois at Urbana-Champaign
-[Accelerating Scientific Discovery with Reusable Software](09-lapthrop-reusable.pdf) | Scott Lathrop | Shodor Education Foundation, and NCSA at the University of Illinois
+[Accelerating Scientific Discovery with Reusable Software](09-lathrop-reusable.pdf) | Scott Lathrop | Shodor Education Foundation, and NCSA at the University of Illinois
 
 ## Discussion Notes
 
