@@ -32,7 +32,7 @@ Time | Topic | Speaker/Moderator | Affiliation
 -----|-------|---------|------------
 3 min | [Introduction and Goals](00-intro-bernholdt.pdf) | David E. Bernholdt | Oak Ridge National Laboratory
 30 min | [Lightning Talks](#lightning-talks) | Mozhgan Kibiri Chimeh | University of Sheffield
-52 min | [General Discussion](#general-discussion) | Daniel S. Katz | University of Illinois, National Center for Supercomputing Applications (NCSA)
+52 min | [General Discussion](#discussion-notes) | Daniel S. Katz | University of Illinois, National Center for Supercomputing Applications (NCSA)
 5 min | Wrap-Up and Next Steps | Daniel S. Katz | University of Illinois, National Center for Supercomputing Applications (NCSA)
 
 ## Lightning Talks
@@ -49,7 +49,7 @@ Title | Speaker | Affiliation
 [Continuous Documentation for Fast-Moving Projects](06-huebl-documentation.pdf) | Axel Huebl | Lawrence Berkeley National Laboratory (LBNL)
 [Thoughts on mentoring schemes for UK Research Software Engineers](07-jones-mentoring.pdf) | Catherine Jones | UKRI: Science and Technology Facilities Council
 [Journal of Open Source Software (JOSS)](08-katz-joss.pdf) | Daniel S. Katz | University of Illinois at Urbana-Champaign
-[Accelerating Scientific Discovery with Reusable Software](09-lapthrop-reuseable.pdf) | Scott Lathrop | Shodor Education Foundation, and NCSA at the University of Illinois
+[Accelerating Scientific Discovery with Reusable Software](09-lapthrop-reusable.pdf) | Scott Lathrop | Shodor Education Foundation, and NCSA at the University of Illinois
 
 ## Discussion Notes
 
