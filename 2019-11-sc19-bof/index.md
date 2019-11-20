@@ -46,7 +46,7 @@ US-RSE: Building a National Community of Research Software Engineers | Ian Cosde
 Best Practices for Governance of HPC Software Projects | Nathan Goldbaum | Quansight
 Helmholtz Federated IT Services (HIFIS) – Creating Services together | Carina Haupt | German Aerospace Center (DLR)
 Research Software Science: A Scientific Approach to Improving the Development and Use of Research Software | Michael A. Heroux | Sandia National Laboratories
-Continuous Documentation for Fast-Moving Projects | Axel Huebl | Lawrence Berkeley National Laboratory
+Continuous Documentation for Fast-Moving Projects | Axel Huebl | Lawrence Berkeley National Laboratory (LBNL)
 Thoughts on mentoring schemes for UK Research Software Engineers | Catherine Jones | UKRI: Science and Technology Facilities Council
 Journal of Open Source Software (JOSS) | Daniel S. Katz | University of Illinois at Urbana-Champaign
 Accelerating Scientific Discovery with Reusable Software | Scott Lathrop | Shodor Education Foundation, and NCSA at the University of Illinois
@@ -57,7 +57,7 @@ Accelerating Scientific Discovery with Reusable Software | Scott Lathrop | Shodo
 
 After the BOF, we will clean up the notes and archive them on this site.
 
-Lead Note Taker: Guido Juckeland, Helmholtz-Zentrum Dresden-Rossedorf (HZDR).
+Lead Note Taker: Guido Juckeland, Helmholtz-Zentrum Dresden-Rossendorf (HZDR).
 *Additional note takers welcome.*
 
 ## Organizers
@@ -70,8 +70,8 @@ Neil Chue Hong | University of Edinburgh, Software Sustainability Institute
 William Gropp | University of Illinois, National Center for Supercomputing Applications (NCSA)
 Carina Haupt | German Aerospace Center (DLR)
 Michael A. Heroux | Sandia National Laboratories and St. John's University
-Axel Huebl | Lawrence Berkeley National Laboratory
-Guido Juckeland | Helmholtz-Zentrum Dresden-Rossedorf (HZDR)
+Axel Huebl | Lawrence Berkeley National Laboratory (LBNL)
+Guido Juckeland | Helmholtz-Zentrum Dresden-Rossendorf (HZDR)
 Mozhgan Kabiri Chimeh | University of Sheffield
 Daniel S. Katz | University of Illinois, National Center for Supercomputing Applications (NCSA)
 
