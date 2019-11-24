@@ -1,10 +1,6 @@
 # Software Engineering and Reuse in Modeling, Simulation, and Data Analytics for Science and Engineering (SC 2019 BOF)
 
-*A Birds of a Feather session at SC 2019*
-- When: 5:15pm-6:45pm Wednesday 20 November 2019
-- Where: 710
-- **Live notes: <https://bit.ly/swe-cse-notes>**
-- **Mailing list: <https://swe-cse-bof.groups.io/>**
+*A Birds of a Feather session at SC 2019, on Wednesday 20 November 2019*
 
 Jump to: [Abstract](#abstract) \| [Agenda](#agenda) \| [Lightning Talks](#lightning-talks) \| [Discussion Notes](#discussion-notes) \| [Organizers](#organizers) \|  [Suggested Citation](#suggested-citation)
 
@@ -53,12 +49,11 @@ Title | Speaker | Affiliation
 
 ## Discussion Notes
 
+*Thanks to Guido Juckeland as our primary note-taker.*
+
 **Notes will be taken in a shared Google Doc: <https://bit.ly/swe-cse-notes>**
 
 After the BOF, we will clean up the notes and archive them on this site.
-
-Lead Note Taker: Guido Juckeland, Helmholtz-Zentrum Dresden-Rossendorf (HZDR).
-*Additional note takers welcome.*
 
 ## Organizers
 
