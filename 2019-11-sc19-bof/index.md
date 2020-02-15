@@ -47,13 +47,8 @@ Title | Speaker | Affiliation
 [Journal of Open Source Software (JOSS)](08-katz-joss.pdf) | Daniel S. Katz | University of Illinois at Urbana-Champaign
 [Accelerating Scientific Discovery with Reusable Software](09-lathrop-reusable.pdf) | Scott Lathrop | Shodor Education Foundation, and NCSA at the University of Illinois
 
-## Discussion Notes
-
+## [Discussion Notes](bof-notes.md)
 *Thanks to Guido Juckeland as our primary note-taker.*
-
-**Notes will be taken in a shared Google Doc: <https://bit.ly/swe-cse-notes>**
-
-After the BOF, we will clean up the notes and archive them on this site.
 
 ## Organizers
 
