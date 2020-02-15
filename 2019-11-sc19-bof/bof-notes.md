@@ -96,4 +96,5 @@
 -   We have to support the people that help other scientists to achieve their
     goals. Re: RSE positions embedded in research groups. (See also Facilitating
     Career Paths panel on Thurs. 3:30-5:00).
+
 Head count: 55
