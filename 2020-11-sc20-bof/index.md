@@ -40,7 +40,7 @@ continue these important discussions outside of workshops and other
 
 ## Agenda
 
-**Subject to change.**
+<!-- **Subject to change.** -->
 
 Time | Topic | Speaker/Moderator | Affiliation
 -----|-------|---------|------------
@@ -52,7 +52,7 @@ Time | Topic | Speaker/Moderator | Affiliation
 
 ## Lightning Talks
 
-**Order subject to change**
+<!-- **Order subject to change** -->
 
 Title | Speaker | Affiliation
 ------|---------|-------------
