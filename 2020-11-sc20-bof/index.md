@@ -6,9 +6,9 @@
 * **When:** 2:30pm-3:45pm EST, Thursday 19 November 2020
 * **Where:** Track 9
 * **Live notes:** https://bit.ly/swe-cse-notes
-* SC20 [program page](https://sc20.supercomputing.org/presentation/?id=bof166&sess=sess307)
+* SC20 [program page](https://sc20.supercomputing.org/presentation/?id=bof166&sess=sess307). Note: A TP or XO registration is required to participate in the BOF.  XO registration is **free**.
 
-Note: A TP or XO registration is required to participate in the BOF.  XO registration is **free**.
+**Please remember to [evaluate this BOF](https://submissions.supercomputing.org/?page=Submit&id=BirdsofaFeatherEvaluation&site=sc20)!**
 
 <!-- After the event>
 *A Birds of a Feather session at SC 2020, on Thursday 19 November 2020*
