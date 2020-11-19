@@ -87,7 +87,7 @@ Rinku Gupta | Argonne National Laboratory
 Carina Haupt | German Aerospace Center (DLR)
 Axel Huebl | Lawrence Berkeley National Laboratory (LBNL)
 Catherine Jones | Science and Technology Facilities Council (STFC)
-Mozhgan Kabiri Chimeh | University of Sheffield
+Mozhgan Kabiri Chimeh | NVIDIA
 
 ---
 ## Suggested Citation
