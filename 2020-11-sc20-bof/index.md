@@ -45,8 +45,8 @@ continue these important discussions outside of workshops and other
 Time | Topic | Speaker/Moderator | Affiliation
 -----|-------|---------|------------
 5 min | [Introduction and Goals](00-intro-bernholdt.pdf) | David E. Bernholdt | Oak Ridge National Laboratory
-13 min | [Lightning Talks](#lightning-talks) | *pre-recorded*
-58 min | [General Discussion](#discussion-notes) | David E. Bernholdt | Oak Ridge National Laboratory
+16 min | [Lightning Talks](#lightning-talks) | *pre-recorded*
+55 min | [General Discussion](#discussion-notes) | David E. Bernholdt | Oak Ridge National Laboratory
 
 ---
 
@@ -60,17 +60,13 @@ Title | Speaker | Affiliation
 [Theory-Software Translation: Research Challenges and Future Directions](02-gesing-translation.pdf) | Sandra Gesing | University of Notre Dame
 [Business Models for Sustaining Software](03-zentner-businessmodels.pdf) | Mike Zentner | San Diego Supercomputer Center
 [The Research Software Engineer Encyclopedia!](04-sochat-encyclopedia.pdf) | Vanessa Sochat | Stanford University
+[The POP Centre of Excellence in HPC](05-hosseini-pop.pdf) | Fouzhan Hosseini | Numerical Algorithms Group (NAG)
 
 ---
 <!-- Before the event -->
 ## Discussion Notes
 
-**Notes will be taken in a shared Google Doc: <https://bit.ly/swe-cse-notes>**
-
-After the BOF, we will clean up the notes and archive them on this site.
-
-Lead Note Taker: *to be announced*.
-*Additional note takers welcome.*
+To be added after the BOF.
 
 <!-- After the event
 ## [Discussion Notes](bof-notes.md)
