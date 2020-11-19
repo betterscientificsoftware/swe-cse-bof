@@ -44,7 +44,7 @@ continue these important discussions outside of workshops and other
 
 Time | Topic | Speaker/Moderator | Affiliation
 -----|-------|---------|------------
-5 min | [Introduction and Goals](00-intro-bernholdt.pdf) | David E. Bernholdt | Oak Ridge National Laboratory
+5 min | [Introduction and Goals](00-bernholdt-intro.pdf) | David E. Bernholdt | Oak Ridge National Laboratory
 16 min | [Lightning Talks](#lightning-talks) | *pre-recorded*
 55 min | [General Discussion](#discussion-notes) | David E. Bernholdt | Oak Ridge National Laboratory
 
