@@ -22,8 +22,6 @@ continue these important discussions outside of workshops and other
 
 ## Agenda
 
-**Subject to change.**
-
 Time | Topic | Speaker/Moderator | Affiliation
 -----|-------|---------|------------
 3 min | [Introduction and Goals](00-intro-bernholdt.pdf) | David E. Bernholdt | Oak Ridge National Laboratory
@@ -32,8 +30,6 @@ Time | Topic | Speaker/Moderator | Affiliation
 5 min | Wrap-Up and Next Steps | Daniel S. Katz | University of Illinois, National Center for Supercomputing Applications (NCSA)
 
 ## Lightning Talks
-
-**Order subject to change**
 
 Title | Speaker | Affiliation
 ------|---------|-------------
