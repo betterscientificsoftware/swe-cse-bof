@@ -1,6 +1,6 @@
 # Software Engineering and Reuse in Modeling, Simulation, and Data Analytics for Science and Engineering (SC 2020 BOF)
 
-<!-- Before the event -->
+<!-- Before the event 
 *A Birds of a Feather session at SC 2020*
 
 * **When:** 2:30pm-3:45pm EST, Thursday 19 November 2020
@@ -9,10 +9,10 @@
 * SC20 [program page](https://sc20.supercomputing.org/presentation/?id=bof166&sess=sess307). Note: A TP or XO registration is required to participate in the BOF.  XO registration is **free**.
 
 **Please remember to [evaluate this BOF](https://submissions.supercomputing.org/?page=Submit&id=BirdsofaFeatherEvaluation&site=sc20)!**
-
-<!-- After the event>
-*A Birds of a Feather session at SC 2020, on Thursday 19 November 2020*
 -->
+<!-- After the event -->
+*A Birds of a Feather session at SC 2020, on Thursday 19 November 2020*
+
 
 ---
 
@@ -54,23 +54,24 @@ Time | Topic | Speaker/Moderator | Affiliation
 
 <!-- **Order subject to change** -->
 
-Title | Speaker | Affiliation
-------|---------|-------------
-[Macro-Engineering Scientific Software](01-heroux-macroengineering.pdf) | Michael A.  Heroux | Sandia National Laboratories
-[Theory-Software Translation: Research Challenges and Future Directions](02-gesing-translation.pdf) | Sandra Gesing | University of Notre Dame
-[Business Models for Sustaining Software](03-zentner-businessmodels.pdf) | Mike Zentner | San Diego Supercomputer Center
-[The Research Software Engineer Encyclopedia!](04-sochat-encyclopedia.pdf) | Vanessa Sochat | Stanford University
-[The POP Centre of Excellence in HPC](05-hosseini-pop.pdf) | Fouzhan Hosseini | Numerical Algorithms Group (NAG)
+Title | Video [Playlist](https://youtube.com/playlist?list=PLuWzStas9iWF7CPPnv1uDTAxG4h9Y-NDQ) | Speaker | Affiliation
+------|-------|---------|-------------
+[Macro-Engineering Scientific Software](01-heroux-macroengineering.pdf) | [YouTube](https://youtu.be/rg-ixJtpR58) | Michael A.  Heroux | Sandia National Laboratories
+[Theory-Software Translation: Research Challenges and Future Directions](02-gesing-translation.pdf) | [YouTube](https://youtu.be/qiR3sEVZam4) | Sandra Gesing | University of Notre Dame
+[Business Models for Sustaining Software](03-zentner-businessmodels.pdf) |  [YouTube](https://youtu.be/8cRpVB9G4vY) | Mike Zentner | San Diego Supercomputer Center
+[The Research Software Engineer Encyclopedia!](04-sochat-encyclopedia.pdf) | [YouTube](https://www.youtube.com/watch?v=nv18Lwq7DFI), [slow version](https://www.youtube.com/watch?v=qoTLJ3X23oQ) | Vanessa Sochat | Stanford University
+[The POP Centre of Excellence in HPC](05-hosseini-pop.pdf) | [YouTube](https://youtu.be/GRJD48kSoW4) | Fouzhan Hosseini | Numerical Algorithms Group (NAG)
 
 ---
-<!-- Before the event -->
+<!-- Before the event 
 ## Discussion Notes
 
 To be added after the BOF.
-
-<!-- After the event
-## [Discussion Notes](bof-notes.md)
 -->
+
+<!-- After the event -->
+## [Discussion Notes](bof-notes.md)
+
 
 ---
 ## Organizers
