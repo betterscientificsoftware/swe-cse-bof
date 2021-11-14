@@ -101,4 +101,4 @@ Software Engineering and Reuse in Modeling, Simulation, and Data
 Analytics for Science and Engineering, in International Conference for
 High Performance Computing, Networking, Storage and Analysis (SC '20),
 online, November 2020. URL:
-<https://betterscientificsoftware.github.io/swe-cse-bof/2019-11-sc20-bof/>.
+<https://betterscientificsoftware.github.io/swe-cse-bof/2020-11-sc20-bof/>.
