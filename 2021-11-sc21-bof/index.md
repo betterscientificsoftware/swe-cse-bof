@@ -37,7 +37,7 @@ Time | Title (link to slides) | Video | Speaker/Moderator | Affiliation
 3 min | [Ecosystems are the Future!](01-brown-ecosystems.pdf) | *tba* | Benjamin Brown | Office of Advanced Scientific Computing Research, Office of Science, U.S. Dept. of Energy
 3 min | [Open Source for Researchers](https://doi.org/10.5281/zenodo.5655022) | *tba* | Yo Yehudi | Wellcome Trust
 3 min | [The Internat. CSE Master Program at TUM](03-bader-masterprogram.pdf) | *tba* | Michael Bader | Technical University of Munich
-3 min | [Senior Level RSE career paths (with an s)](04-katz-seniorrse.pdf) | *tba* | Daniel S. Katz | University of Illinois
+3 min | [Senior Level RSE career paths (with an s)](04-katz-seniorrse.pdf) | *tba* | Daniel S. Katz | University of Illinois at Urbana-Champaign
 3 min | [FAIR 4 Research Software (FAIR4RS)](05-barker-fair4rs.pdf) | *tba* | Michelle Barker | Research Software Alliance
 3 min | [Highlights from the IEEE CS Ad Hoc Committee on Open Science & Reproducibility](06-parashar-openscience.pdf) | *tba* | Manish Parashar | University of Utah
 5 min | [Breakout Instructions](07-bernholdt-breakouts.pdf) | *n/a* | David E. Bernholdt | Oak Ridge National Laboratory
