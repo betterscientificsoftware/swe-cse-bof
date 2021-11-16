@@ -53,6 +53,19 @@ Time | Title (link to slides) | Video | Speaker/Moderator | Affiliation
 * **Breakout Folder:** <https://drive.google.com/drive/folders/1wUKxeLjG5j3_GAvDIryr8F3RoJu51--I?usp=sharing>
 * **Breakout Instructions:** <https://docs.google.com/document/d/18Szc0j8tPON7kEt_57Xp-Z7lDN03XVVoT3rY5FIS5v8/edit?usp=sharing>
 
+### Breakout Topics
+
+* Rooms 01, 11, 21: Computational Science Ecosystems (Lightning Talk)
+* Rooms 02, 12, 22: Open Source for Researchers (Lightning Talk)
+* Rooms 03, 13, 23: Training Programs (Lightning Talk)
+* Rooms 04, 14, 24: RSE Career Paths (Lightning Talk)
+* Rooms 05, 15, 25: FAIR4RS (Lightning Talk)
+* Rooms 06, 16, 26: Reproducibility (Lightning Talks)
+* Rooms 07, 17, 27: DEI in CSE, HPC, and RSE
+* Rooms 08, 18, 28: Applying Industry Best Practices to Research Software
+* Rooms 09, 19, 29: Incentivizing Adoption of Best Practices
+* Rooms 10, 20, 30: Maturity of Data Engineering (Compared to Software Engineering)
+
 ### Brief Instructions for Breakouts
 
 * Choose a breakout room for a topic of interest
