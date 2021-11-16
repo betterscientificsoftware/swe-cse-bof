@@ -5,6 +5,7 @@
 
 * **When:** 5:15pm - 6:45pm CST Tuesday, 16 November 2021
 * **Where:** Zoom, via <https://sc21.hubb.me/fe/schedule-builder/sessions/879738> (login required)
+* **Breakout Folder:** <https://drive.google.com/drive/folders/1wUKxeLjG5j3_GAvDIryr8F3RoJu51--I?usp=sharing>
 * **SC21** [program page](https://sc21.supercomputing.org/presentation/?id=bof157&sess=sess399)
 
 **Please remember to [evaluate this BOF](https://submissions.supercomputing.org/?page=SessionEval&new_year=sc21&id=sess399)!**
@@ -40,7 +41,7 @@ Time | Title (link to slides) | Video | Speaker/Moderator | Affiliation
 3 min | [Senior Level RSE career paths (with an s)](04-katz-seniorrse.pdf) | *tba* | Daniel S. Katz | University of Illinois at Urbana-Champaign
 3 min | [FAIR 4 Research Software (FAIR4RS)](05-barker-fair4rs.pdf) | *tba* | Michelle Barker | Research Software Alliance
 3 min | [Highlights from the IEEE CS Ad Hoc Committee on Open Science & Reproducibility](06-parashar-openscience.pdf) | *tba* | Manish Parashar | University of Utah
-5 min | [Breakout Instructions](07-bernholdt-breakouts.pdf) | *n/a* | David E. Bernholdt | Oak Ridge National Laboratory
+5 min | [Breakout Instructions](07-breakout-instructions.pdf) | *n/a* | David E. Bernholdt | Oak Ridge National Laboratory
 30 min | [Breakout Discussions](#discussion-notes) | *n/a* | David E. Bernholdt | Oak Ridge National Laboratory
 30 min | Lightning Report-Backs | *n/a* | David E. Bernholdt | Oak Ridge National Laboratory
 2 min | Wrap-Up | *n/a* | David E. Bernholdt | Oak Ridge National Laboratory
@@ -49,7 +50,18 @@ Time | Title (link to slides) | Video | Speaker/Moderator | Affiliation
 <!-- Before the event -->
 ## Discussion Notes
 
-To be added after the BOF.
+* **Breakout Folder:** <https://drive.google.com/drive/folders/1wUKxeLjG5j3_GAvDIryr8F3RoJu51--I?usp=sharing>
+* **Breakout Instructions:** <https://docs.google.com/document/d/18Szc0j8tPON7kEt_57Xp-Z7lDN03XVVoT3rY5FIS5v8/edit?usp=sharing>
+
+### Brief Instructions for Breakouts
+
+* Choose a breakout room for a topic of interest
+* Try to balance the number of people per room (< 10)
+* Take notes in the Google Doc for your breakout room
+* At the end, write a short summary for the public summary and blog post
+* And a very brief "take-away" message for a one-minute report-back
+
+After the BOF we'll publish the public summary here and as a blog article for [BSSw.io](https://bssw.io).
 
 <!-- After the event 
 ## [Discussion Notes](bof-notes.md)
@@ -63,7 +75,7 @@ Name | Affiliation
 David E. Bernholdt | Oak Ridge National Laboratory
 Anshu Dubey | Argonne National Laboratory
 Nasir Eisty | Boise State University
-Sandra Gesing | University of Illinois, Chicago
+Sandra Gesing | Discovery Partners Institute (DPI)
 Rinku Gupta | Argonne National Laboratory
 Axel Huebl | Lawrence Berkeley National Laboratory (LBNL)
 Mozhgan Kabiri Chimeh | NVIDIA

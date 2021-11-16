@@ -6,7 +6,8 @@ Permalink: <http://bit.ly/swe-cse-bof>
 
 ## Events
 
-* **[Software Engineering and Reuse in Modeling, Simulation, and Data Analytics for Science and Engineering (SC 2020 BOF)](2020-11-sc20-bof/)**
+* **[Software Engineering and Reuse in Modeling, Simulation, and Data Analytics for Science and Engineering (SC 2021 BOF)](2021-11-sc21-bof/)**
+* [Software Engineering and Reuse in Modeling, Simulation, and Data Analytics for Science and Engineering (SC 2020 BOF)](2020-11-sc20-bof/)
 * [Software Engineering and Reuse in Modeling, Simulation, and Data Analytics for Science and Engineering (SC 2019 BOF)](2019-11-sc19-bof/)
 * [Software Engineering and Reuse in Computational Science and Engineering (ISC 2019 BOF)](2019-06-isc19-bof/)
 * [Software Engineering and Reuse in Computational Science and Engineering (SC18 BOF)](2018-11-sc18-bof/)
