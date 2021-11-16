@@ -32,15 +32,15 @@ We seek to raise awareness of SWE for CSE on supercomputers as a major challenge
 
 <!-- **Subject to change.** -->
 
-Time | Title (link to slides) | Video | Speaker/Moderator | Affiliation
+Time | Title (link to slides) | Video [Playlist](https://youtube.com/playlist?list=PLuWzStas9iWFwb6g8bhHflnehowiBOmjS) | Speaker/Moderator | Affiliation
 -----|------------------------|-------|-------------------|------------
 5 min | [Introduction and Goals](00-bernholdt-intro.pdf) | *n/a* | David E. Bernholdt | Oak Ridge National Laboratory
 3 min | [Ecosystems are the Future!](01-brown-ecosystems.pdf) | *tba* | Benjamin Brown | Office of Advanced Scientific Computing Research, Office of Science, U.S. Dept. of Energy
-3 min | [Open Source for Researchers](https://doi.org/10.5281/zenodo.5655022) | *tba* | Yo Yehudi | Wellcome Trust
-3 min | [The Internat. CSE Master Program at TUM](03-bader-masterprogram.pdf) | *tba* | Michael Bader | Technical University of Munich
-3 min | [Senior Level RSE career paths (with an s)](04-katz-seniorrse.pdf) | *tba* | Daniel S. Katz | University of Illinois at Urbana-Champaign
-3 min | [FAIR 4 Research Software (FAIR4RS)](05-barker-fair4rs.pdf) | *tba* | Michelle Barker | Research Software Alliance
-3 min | [Highlights from the IEEE CS Ad Hoc Committee on Open Science & Reproducibility](06-parashar-openscience.pdf) | *tba* | Manish Parashar | University of Utah
+3 min | [Open Source for Researchers](https://doi.org/10.5281/zenodo.5655022) | [YouTube](https://www.youtube.com/watch?v=j1nU5jJyVgs) | Yo Yehudi | Wellcome Trust
+3 min | [The Internat. CSE Master Program at TUM](03-bader-masterprogram.pdf) | [YouTube](https://youtu.be/YAhBTfav_jE) | Michael Bader | Technical University of Munich
+3 min | [Senior Level RSE career paths (with an s)](04-katz-seniorrse.pdf) | [YouTube](https://youtu.be/h4JAgf0KdAY) | Daniel S. Katz | University of Illinois at Urbana-Champaign
+3 min | [FAIR 4 Research Software (FAIR4RS)](05-barker-fair4rs.pdf) | [YouTube](https://youtu.be/NxmLC-y4YfQ) | Michelle Barker | Research Software Alliance
+3 min | [Highlights from the IEEE CS Ad Hoc Committee on Open Science & Reproducibility](06-parashar-openscience.pdf) | [YouTube](https://youtu.be/dqewfSzKhh0) | Manish Parashar | University of Utah
 5 min | [Breakout Instructions](07-breakout-instructions.pdf) | *n/a* | David E. Bernholdt | Oak Ridge National Laboratory
 30 min | [Breakout Discussions](#discussion-notes) | *n/a* | David E. Bernholdt | Oak Ridge National Laboratory
 30 min | Lightning Report-Backs | *n/a* | David E. Bernholdt | Oak Ridge National Laboratory
