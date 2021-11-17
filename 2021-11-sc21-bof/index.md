@@ -1,18 +1,16 @@
 # Software Engineering and Reuse in Modeling, Simulation, and Data Analytics for Science and Engineering (SC 2021 BOF)
 
-<!-- Before the event -->
+<!-- Before the event 
 *A Birds of a Feather session at SC 2021*
 
 * **When:** 5:15pm - 6:45pm CST Tuesday, 16 November 2021
-* **Where:** Zoom, via <https://sc21.hubb.me/fe/schedule-builder/sessions/879738> (login required)
-* **Breakout Folder:** <https://drive.google.com/drive/folders/1wUKxeLjG5j3_GAvDIryr8F3RoJu51--I?usp=sharing>
 * **SC21** [program page](https://sc21.supercomputing.org/presentation/?id=bof157&sess=sess399)
 
 **Please remember to [evaluate this BOF](https://submissions.supercomputing.org/?page=SessionEval&new_year=sc21&id=sess399)!**
-
-<!-- After the event
-*A Birds of a Feather session at SC 2021, on Tuesday, 16 November 2021*
 -->
+
+<!-- After the event -->
+*A Birds of a Feather session at SC 2021, on Tuesday, 16 November 2021*
 
 ---
 
@@ -50,21 +48,18 @@ Time | Title (link to slides) | Video [Playlist](https://youtube.com/playlist?li
 <!-- Before the event -->
 ## Discussion Notes
 
-* **Breakout Folder:** <https://drive.google.com/drive/folders/1wUKxeLjG5j3_GAvDIryr8F3RoJu51--I?usp=sharing>
-* **Breakout Instructions:** <https://docs.google.com/document/d/18Szc0j8tPON7kEt_57Xp-Z7lDN03XVVoT3rY5FIS5v8/edit?usp=sharing>
-
 ### Breakout Topics
 
-* Rooms 01, 11, 21: Computational Science Ecosystems (Lightning Talk)
-* Rooms 02, 12, 22: Open Source for Researchers (Lightning Talk)
-* Rooms 03, 13, 23: Training Programs (Lightning Talk)
-* Rooms 04, 14, 24: RSE Career Paths (Lightning Talk)
-* Rooms 05, 15, 25: FAIR4RS (Lightning Talk)
-* Rooms 06, 16, 26: Reproducibility (Lightning Talks)
-* Rooms 07, 17, 27: DEI in CSE, HPC, and RSE
-* Rooms 08, 18, 28: Applying Industry Best Practices to Research Software
-* Rooms 09, 19, 29: Incentivizing Adoption of Best Practices
-* Rooms 10, 20, 30: Maturity of Data Engineering (Compared to Software Engineering)
+* Rooms 01: Computational Science Ecosystems (Lightning Talk)
+* Rooms 02: Open Source for Researchers (Lightning Talk)
+* Rooms 03: Training Programs (Lightning Talk)
+* Rooms 04: RSE Career Paths (Lightning Talk)
+* Rooms 05: FAIR4RS (Lightning Talk)
+* Rooms 06: Reproducibility (Lightning Talks)
+* Rooms 07: DEI in CSE, HPC, and RSE
+* Rooms 08: Applying Industry Best Practices to Research Software
+* Rooms 09: Incentivizing Adoption of Best Practices
+* Rooms 10: Maturity of Data Engineering (Compared to Software Engineering)
 
 ### Brief Instructions for Breakouts
 
