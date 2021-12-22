@@ -45,7 +45,7 @@ Time | Title (link to slides) | Video [Playlist](https://youtube.com/playlist?li
 2 min | Wrap-Up | *n/a* | David E. Bernholdt | Oak Ridge National Laboratory
 
 ---
-<!-- Before the event -->
+<!-- Before the event
 ## Discussion Notes
 
 ### Breakout Topics
@@ -70,10 +70,14 @@ Time | Title (link to slides) | Video [Playlist](https://youtube.com/playlist?li
 * And a very brief "take-away" message for a one-minute report-back
 
 After the BOF we'll publish the public summary here and as a blog article for [BSSw.io](https://bssw.io).
-
-<!-- After the event 
-## [Discussion Notes](bof-notes.md)
 -->
+
+<!-- After the event -->
+## Discussion Notes
+
+We've published a blog article on the Better Scientific Software resource site (<https://bssw.io>) based on this BoF: [Reflecting on Our Community: The SC21 BoF on Software Engineering and Reuse in Modeling, Simulation, and Data Analytics for Science and Engineering](https://bssw.io/blog_posts/reflecting-on-our-community-the-sc21-bof-on-software-engineering-and-reuse-in-modeling-simulation-and-data-analytics-for-science-and-engineering)
+
+Alternatively, you can read the [summary notes from the discussion groups](bof-notes.md).
 
 ---
 ## Organizers
