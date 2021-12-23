@@ -24,3 +24,4 @@ The repository for this site is <https://github.com/betterscientificsoftware/swe
 This web site was previously hosted in other locations:
 * <https://cse-software.org/resources/events/> (November 2015-November 2017)
 * <https://swe-cse.github.io/> (November 2017-June 2018)
+
