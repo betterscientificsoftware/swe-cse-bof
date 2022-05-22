@@ -48,7 +48,7 @@ This BoF provides an opportunity for people concerned about this topic to share 
 <!-- Before the event -->
 ## Discussion Notes
 
-A link to a shared Google Doc for notetaking will be available to those attending the BoF.
+A link to a Google Doc for collaborative notetaking will be shared during the BoF.
 
 After the BOF we'll publish the public summary here.
 <!-- end of before event section -->
