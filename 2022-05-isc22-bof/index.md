@@ -41,7 +41,7 @@ This BoF provides an opportunity for people concerned about this topic to share 
 | 3 min | [Workflows Community Initiative](04-ferreieadasilva-workflows.pdf) | Rafael Ferreira da Silva | Oak Ridge National Laboratory
 | 3 min | [DiveRSE](05-weinzierl-diverse.pdf) | Marion Weinzierl | Durham University
 | 38 min | **General Discussion** | Mozhgan K. chimeh | NVIDIA
-| 2 min | **Wrap-Up and Next Steps** | Anshu Dubey
+| 2 min | **Wrap-Up and Next Steps** | Anshu Dubey | Argonne National Laboratory
 
 
 ---
