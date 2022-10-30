@@ -1,15 +1,14 @@
 # Software Engineering and Reuse in Modeling, Simulation, and Data Analytics for Science and Engineering (ISC 2022 BOF)
 
-<!-- Before the event -->
+<!-- Before the event
 *A Birds of a Feather session at ISC 2022*
 
 * **When:** 2:30pm-3:30pm CEST Wednesday, 1 June 2022
 * **Where:** Hall D, 2nd floor
-<!-- end of before event section -->
+ end of before event section -->
 
-<!-- After the event 
+<!-- After the event -->
 *A Birds of a Feather session at ISC 2022, on Wednesday, 1 June 2022*
--->
 
 ---
 
@@ -29,8 +28,6 @@ This BoF provides an opportunity for people concerned about this topic to share 
 
 ## Agenda
 
-**Subject to change.**
-
 | Time | Title (link to slides) | Speaker/Moderator | Affiliation
 | -----|------------------------|-------------------|------------
 | 5 min | **[Introduction and Goals](00-kchimeh-intro.pdf)** | Mozhgan K. chimeh | NVIDIA 
@@ -45,21 +42,16 @@ This BoF provides an opportunity for people concerned about this topic to share 
 
 
 ---
-<!-- Before the event -->
+<!-- Before the event 
 ## Discussion Notes
 
 A link to a Google Doc for collaborative notetaking will be shared during the BoF.
 
 After the BOF we'll publish the public summary here.
-<!-- end of before event section -->
+ end of before event section -->
 
-<!-- After the event
-## Discussion Notes
-
-We've published a blog article on the Better Scientific Software resource site (<https://bssw.io>) based on this BoF: [Reflecting on Our Community: The SC21 BoF on Software Engineering and Reuse in Modeling, Simulation, and Data Analytics for Science and Engineering](https://bssw.io/blog_posts/reflecting-on-our-community-the-sc21-bof-on-software-engineering-and-reuse-in-modeling-simulation-and-data-analytics-for-science-and-engineering)
-
-Alternatively, you can read the [summary notes from the discussion groups](bof-notes.md).
- -->
+<!-- After the event -->
+## [Discussion Notes](bof-notes.md)
 
 ---
 ## Organizers
