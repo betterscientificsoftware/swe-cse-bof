@@ -30,17 +30,26 @@ Software engineering (SWE) for modeling, simulation, and data analytics for comp
 
 | Time | Title (link to slides) | Speaker/Moderator | Affiliation
 | -----|------------------------|-------------------|------------
-| 5 min | **[Introduction and Goals](00-intro.pdf)** | TBA | TBA
-| 24 min | **Lightning Talks** | TBA | TBA
-| 56 min | **General Discussion** | TBA | TBA
-| 5 min | **Wrap-Up and Next Steps** | TBA | TBA
-
+| 5 min | **[Introduction and Goals](00-intro-bernholdt.pdf)** | David E. Bernholdt | Oak Ridge National Laboratory
+|| **Lightning Talks** |  | 
+| 3 min | [Growing The Cactus Computational Toolkit Community](01-cactus-brandt.pdf) | Stephen R. Brandt | Louisiana State University
+| 3 min | [Hackathons](02-hackathons-kchimeh.pdf) | Mozhgan Kabiri chimeh | NVIDIA
+| 3 min | [Using code or ideas](03-codereuse-weinzierl.pdf) | Tobias Weinzierl | Durham University
+| 3 min | [INTERSECT Research Software Engineering Training](04-intersect-cosden.pdf) | Ian A. Cosden | Princeton University
+| 3 min | [Creating (or not creating) portable tests](05-portabletests-gott.pdf) | Kevin Gott | NERSC
+| 3 min | [Cultural Barriers to HPC Software Development](06-culturalbarriers-ferenbaugh.pdf) | Charles Ferenbaugh Los Alamos National Laboratory
+| 3 min | [MOOSE - Continuous Integration, In-Code Documentation and Automation for Research Software](07-moose-marin.pdf) | Oana Marin | Idaho National Laboratory
+| 3 min |
+| 56 min | **General Discussion** | David E. Bernholdt/<br>Anshu Dubey/<br>Nasir Eisty | Oak Ridge National Laboratory/<br>Argonne National Laboratory/<br>Boise State University
+| 5 min | **Wrap-Up and Next Steps** | David E. Bernholdt | Oak Ridge National Laboratory
 
 ---
 <!-- Before the event -->
 ## Discussion Notes
 
-A link to a Google Doc for collaborative notetaking will be shared during the BoF.
+We will use a a Google Doc for collaborative notetaking: **<https://bit.ly/swe-cse-notes>**
+
+Lead note-taker: William F. Godoy, Oak Ridge National Laboratory (all are invited to help out)
 
 After the BOF we'll publish the public summary here.
 <!-- end of before event section -->
