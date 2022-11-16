@@ -4,7 +4,7 @@
 *A Birds of a Feather session at SC 2022*
 
 * **When:** 5:15pm - 6:45pm CST Wednesday 16 November 2022
-* **Where:** D174
+* **Where:** C144-145
 * [SC22 program page](https://sc22.supercomputing.org/presentation/?id=bof180&sess=sess368)
 <!-- end of before event section -->
 
