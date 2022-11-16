@@ -39,7 +39,7 @@ Software engineering (SWE) for modeling, simulation, and data analytics for comp
 | 3 min | [Creating (or not creating) portable tests](05-portabletests-gott.pdf) | Kevin Gott | NERSC
 | 3 min | [Cultural Barriers to HPC Software Development](06-culturalbarriers-ferenbaugh.pdf) | Charles Ferenbaugh Los Alamos National Laboratory
 | 3 min | [MOOSE - Continuous Integration, In-Code Documentation and Automation for Research Software](07-moose-marin.pdf) | Oana Marin | Idaho National Laboratory
-| 3 min |
+| 3 min | [I Am Not an RSE, but I’m a Believer](08-believer-joyce.pdf) | Blake Joyce | University of Alabama Birmingham
 | 56 min | **General Discussion** | David E. Bernholdt/<br>Anshu Dubey/<br>Nasir Eisty | Oak Ridge National Laboratory/<br>Argonne National Laboratory/<br>Boise State University
 | 5 min | **Wrap-Up and Next Steps** | David E. Bernholdt | Oak Ridge National Laboratory
 
