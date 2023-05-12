@@ -6,7 +6,8 @@ Permalink: <http://bit.ly/swe-cse-bof>
 
 ## Events
 
-* **[Software Engineering and Reuse in Modeling, Simulation, and Data Analytics for Science and Engineering (SC 2022 BOF)](2022-11-sc22-bof/)**
+* **[Scientific Software and the People Who Make it Happen: Building Communities of Practice (ISC 2023 BOF)](2023-05-isc23-bof/)**
+* [Software Engineering and Reuse in Modeling, Simulation, and Data Analytics for Science and Engineering (SC 2022 BOF)](2022-11-sc22-bof/)
 * [Software Engineering and Reuse in Modeling, Simulation, and Data Analytics for Science and Engineering (ISC 2022 BOF)](2022-05-isc22-bof/)
 * [Software Engineering and Reuse in Modeling, Simulation, and Data Analytics for Science and Engineering (SC 2021 BOF)](2021-11-sc21-bof/)
 * [Software Engineering and Reuse in Modeling, Simulation, and Data Analytics for Science and Engineering (SC 2020 BOF)](2020-11-sc20-bof/)
