@@ -1,15 +1,15 @@
 # Scientific Software and the People Who Make it Happen: Building Communities of Practice (ISC 2023 BOF)
 
-<!-- Before the event -->
+<!-- Before the event 
 *A Birds of a Feather session at ISC 2023*
 
 * **When:** 4:15pm-5:15pm CEST Tuesday, 23 May 2023
 * **Where:** Hall E, 2nd floor
-<!-- end of before event section -->
+  end of before event section -->
 
-<!-- After the event 
+<!-- After the event -->
 *A Birds of a Feather session at ISC 2023, on Tuesday, 23 May 2023*
--->
+<!-- end of after event section -->
 ---
 
 Jump to: [Abstract](#abstract) \| [Agenda](#agenda) \| [Discussion Notes](#discussion-notes) \| [Organizers](#organizers) \|  [Suggested Citation](#suggested-citation)
@@ -41,17 +41,19 @@ This BoF provides an opportunity for people concerned about these topics to shar
 
 
 ---
-<!-- Before the event -->
+<!-- Before the event
 ## Discussion Notes
 
 A link to a Google Doc for collaborative notetaking will be shared during the BoF.
 
 After the BOF we'll publish the public summary here.
-<!-- end of before event section -->
+   end of before event section -->
 
-<!-- After the event
-## [Discussion Notes](bof-notes.md)
- -->
+<!-- After the event -->
+## Discussion Notes
+
+Unfortunately, we were not able to capture notes from this session.
+<!-- end of after event section -->
 
 ---
 ## Organizers
