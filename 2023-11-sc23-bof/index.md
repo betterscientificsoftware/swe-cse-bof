@@ -22,6 +22,7 @@ Jump to: [Abstract](#abstract) \| [Agenda](#agenda) \| [Discussion Notes](#discu
 Software has become central to all aspects of modern science and technology. Especially in high-performance computing (HPC) and computational science and engineering (CSE), it is becoming ever-larger and more complex while computer platforms evolve and become more diverse. Simultaneously, the teams behind the software are becoming larger, more technically diverse, and more geographically distributed.
 
 This BoF provides an opportunity for people concerned about these topics to share existing experiences and activities, discuss how we can improve on them, and share the results. Presentations and discussion notes will be made available at the BoF series website, <http://bit.ly/swe-cse-bof>.
+
 ---
 
 ## Agenda
@@ -46,6 +47,7 @@ This BoF provides an opportunity for people concerned about these topics to shar
   end of after agenda is finalized section -->
 
 ---
+
 <!-- Before the event -->
 ## Discussion Notes
 
@@ -58,34 +60,34 @@ After the BOF we'll publish the public summary here.
 ## Discussion Notes
 
 Unfortunately, we were not able to capture notes from this session.
-    end of after event section -->
+    end of after the event section -->
 
 ---
 ## Organizers
 
 Name | Affiliation
 -----|------------
-David	E. Bernholdt | Oak Ridge National Laboratory
-Nasir	Eisty	| Boise State University
-Rinku	Gupta	| Argonne National Laboratory
-Mozhgan	Kabiri chimeh	| NVIDIA
-Lauren	E	Milechin	|	MIT
-Miranda	Mundt	| Sandia National Laboratories
-Alessandro Orso	|	Georgia Institute of Technology
-Keita	Teranishi	|	Oak Ridge National Laboratory
-Jeffrey	Young	|	Georgia Institute of Technology
+David E. Bernholdt | Oak Ridge National Laboratory
+Nasir Eisty | Boise State University
+Rinku Gupta | Argonne National Laboratory
+Mozhgan Kabiri chimeh | NVIDIA
+Lauren E Milechin | MIT
+Miranda Mundt | Sandia National Laboratories
+Alessandro Orso | Georgia Institute of Technology
+Keita Teranishi | Oak Ridge National Laboratory
+Jeffrey Young | Georgia Institute of Technology
 ---
 ## Suggested Citation
 
-David	E. Bernholdt,
-Nasir	Eisty,
-Rinku	Gupta,
-Mozhgan	Kabiri chimeh,
-Lauren	E	Milechin,
-Miranda	Mundt,
+David E. Bernholdt,
+Nasir Eisty,
+Rinku Gupta,
+Mozhgan Kabiri chimeh,
+Lauren E Milechin,
+Miranda Mundt,
 Alessandro Orso,
-Keita	Teranishi,
-Jeffrey	Young,
+Keita Teranishi,
+Jeffrey Young,
 organizers, Birds of a Feather session on
 Scientific Software and the People Who Make it Happen: Building Communities of Practice, 
 in The International Conference for High-Performance Computing, Networking, Storage, and Analysis (SC23), Denver, Colorado, November 2023. 
