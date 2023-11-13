@@ -63,6 +63,7 @@ Unfortunately, we were not able to capture notes from this session.
     end of after the event section -->
 
 ---
+
 ## Organizers
 
 Name | Affiliation
@@ -76,7 +77,9 @@ Miranda Mundt | Sandia National Laboratories
 Alessandro Orso | Georgia Institute of Technology
 Keita Teranishi | Oak Ridge National Laboratory
 Jeffrey Young | Georgia Institute of Technology
+
 ---
+
 ## Suggested Citation
 
 David E. Bernholdt,
