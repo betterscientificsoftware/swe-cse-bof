@@ -46,6 +46,7 @@ This BoF provides an opportunity for people concerned about these topics to shar
   end of before agenda section -->
 
 <!-- after agenda is finalized -->
+
 | Time | Title (link to slides) | Speaker/Moderator | Affiliation
 | -----|------------------------|-------------------|------------
 | 5 min | **Introduction and Goals** | David E. Bernholdt | Oak Ridge National Laboratory
@@ -59,6 +60,7 @@ This BoF provides an opportunity for people concerned about these topics to shar
 | 3 min | [HPC Carpentry Community Building in Education](07-reid-hpccarpentry.pdf) | Andrew Reid | NIST
 | 54 min | **General Discussion** | David E. Bernholdt | Oak Ridge National Laboratory
 | 10 min | **Blog Article Planning** | David E. Bernholdt | Oak Ridge National Laboratory
+
 <!--  end of after agenda is finalized section -->
 
 <!-- During event -->
