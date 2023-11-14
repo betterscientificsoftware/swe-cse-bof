@@ -5,6 +5,9 @@
 
 * **When:** 5:15pm-6:45pm Wednesday, 15 November 2023
 * **Where:** Room 505
+* **BoF website permalink:** <http://bit.ly/swe-cse-bof>
+* **Shared notetaking document:** <https://bit.ly/swe-cse-notes>
+* **Please remember to [evaluate the BoF](https://submissions.supercomputing.org/?page=SessionEval&new_year=sc23&id=sess375&eval_stype=stype457)!**
 <!-- end of before event section -->
 
 <!-- After the event
@@ -13,7 +16,7 @@
 
 ---
 
-Jump to: [Abstract](#abstract) \| [Agenda](#agenda) \| [Discussion Notes](#discussion-notes) \| [Organizers](#organizers) \|  [Suggested Citation](#suggested-citation)
+Jump to: [Abstract](#abstract) \| [BoF Goals](#bof-goals) \| [Agenda](#agenda) \| [Discussion Notes](#discussion-notes) \| [Organizers](#organizers) \|  [Suggested Citation](#suggested-citation)
 
 ---
 
@@ -25,36 +28,62 @@ This BoF provides an opportunity for people concerned about these topics to shar
 
 ---
 
-## Agenda
+## BoF Goals
 
-<!-- before agenda is finalized -->
-
-*to be announced*
-
-<!-- end of before agenda section -->
-
-<!-- after agenda is finalized 
-| Time | Title (link to slides) | Speaker/Moderator | Affiliation
-| -----|------------------------|-------------------|------------
-| 5 min | **[Introduction and Goals](00-dubey-intro.pdf)** | Anshu Dubey | Argonne National Laboratory
-| | **Lightning Talks** | Claire Wyatt | Juelich Supercomputing Centre
-| 3 min | [RSE Strategy](01-cohen-strategy.pdf) | Jeremy Cohen | Imperial College London
-| 3 min | [Hardware and Enabling Software ExCALIBUR benchmarking effort](02-deakin-excalibur.pdf) | Tom Deakin | Bristol University
-| 3 min | [The Emerging DOE Software Sustainability Initiative](03-dubey-sustainability.pdf) | Anshu Dubey | Argonne National Laboratory
-| 3 min | [Understanding and Nurturing an Integrated Vision for Education in RSE and HPC (UNIVERSE-HPC)](04-fillinger-education.pdf) | Weronika Fillinger | EPCC
-| 40 min | **General Discussion** | Anshu Dubey | Argonne National Laboratory
-| 3 min | **Wrap-Up and Next Steps** | Anshu Dubey | Argonne National Laboratory
-  end of after agenda is finalized section -->
+1. Hear about some interesting things of interest to scientific software developers (Lightning Talks)
+2. Free-form discussion about the current "state of the practice" in our community
+3. Identify people interested in contributing to a blog article for [BSSw.io](https://bssw.io) summarizing the BoF (e.g., our [post from the SC21 BoF](https://bssw.io/blog_posts/reflecting-on-our-community-the-sc21-bof-on-software-engineering-and-reuse-in-modeling-simulation-and-data-analytics-for-science-and-engineering)) with a goal to write and publish before the end of the year!
+4. Meet your colleagues and have fun!
 
 ---
 
-<!-- Before the event -->
+## Agenda
+
+<!-- before agenda is finalized
+
+*to be announced*
+
+  end of before agenda section -->
+
+<!-- after agenda is finalized -->
+| Time | Title (link to slides) | Speaker/Moderator | Affiliation
+| -----|------------------------|-------------------|------------
+| 5 min | **Introduction and Goals** | David E. Bernholdt | Oak Ridge National Laboratory
+| | **Lightning Talks** | | 
+| 3 min | [Research Software Hour](01-bast-researchsoftwarehour.pdf) | Radovan Bast | UiT The Arctic University of Norway
+| 3 min | [ACM EIGREP Emerging Interest Group on Reproducibility and Replicability](02-bonnet-acmeigrep.pdf) | Philippe Bonnet | ACM EIGREP Chair
+| 3 min | [Focus Groups to Focus Efforts: Building the NERSC Community of Practice](03-gupta-nersccop.pdf) | Lipi Gupta | NERSC
+| 3 min | [Research Software Engineers: Creating a Career Path—and a Career](04-katz-rsecareerguide.pdf) | Daniel S. Katz | University of Illinois
+| 3 min | [European Environment for Scientific Software Installations (ESSI)](05-ocais-essi.pdf) | Alain O'Cais | CECAM
+| 3 min | [Reflections on being a trustee of UKRSE](06-quinlan-ukrse.pdf) | Jamie Quinn | University College of London (UCL)
+| 3 min | [HPC Carpentry Community Building in Education](07-reid-hpccarpentry.pdf) | Andrew Reid | NIST
+| 54 min | **General Discussion** | David E. Bernholdt | Oak Ridge National Laboratory
+| 10 min | **Blog Article Planning** | David E. Bernholdt | Oak Ridge National Laboratory
+<!--  end of after agenda is finalized section -->
+
+<!-- During event -->
+
+**Please remember to [evaluate the BoF](https://submissions.supercomputing.org/?page=SessionEval&new_year=sc23&id=sess375&eval_stype=stype457)!**
+
+<!-- end of during the event -->
+
+---
+
+
 ## Discussion Notes
 
+<!-- Before the event
 A link to a Google Doc for collaborative notetaking will be shared during the BoF.
 
-After the BOF we'll publish the public summary here.
-<!-- end of before event section -->
+  end of before event section -->
+
+<!-- during the event -->
+
+**Please help take notes at <https://bit.ly/swe-cse-notes>!**
+
+After the BOF we'll publish the public summary here, and we plan to write a summary blog article for [Bssw.io](https://bssw.io/blog_posts).
+
+<!-- end of during the event -->
 
 <!-- After the event
 ## Discussion Notes
