@@ -56,7 +56,7 @@ This BoF provides an opportunity for people concerned about these topics to shar
 | 3 min | [Focus Groups to Focus Efforts: Building the NERSC Community of Practice](03-gupta-nersccop.pdf) | Lipi Gupta | NERSC
 | 3 min | [Research Software Engineers: Creating a Career Path—and a Career](04-katz-rsecareerguide.pdf) | Daniel S. Katz | University of Illinois
 | 3 min | [European Environment for Scientific Software Installations (ESSI)](05-ocais-essi.pdf) | Alain O'Cais | CECAM
-| 3 min | [Reflections on being a trustee of UKRSE](06-quinlan-ukrse.pdf) | Jamie Quinn | University College of London (UCL)
+| 3 min | [Years as a trustee of SocRSE UK: A retrospective](06-quinlan-ukrse.pdf) | Jamie Quinn | University College of London (UCL)
 | 3 min | [HPC Carpentry Community Building in Education](07-reid-hpccarpentry.pdf) | Andrew Reid | NIST
 | 54 min | **General Discussion** | David E. Bernholdt | Oak Ridge National Laboratory
 | 10 min | **Blog Article Planning** | David E. Bernholdt | Oak Ridge National Laboratory
