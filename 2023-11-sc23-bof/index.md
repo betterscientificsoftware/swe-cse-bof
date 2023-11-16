@@ -55,7 +55,7 @@ This BoF provides an opportunity for people concerned about these topics to shar
 | 3 min | [ACM EIGREP Emerging Interest Group on Reproducibility and Replicability](02-bonnet-acmeigrep.pdf) | Philippe Bonnet | ACM EIGREP Chair
 | 3 min | [Focus Groups to Focus Efforts: Building the NERSC Community of Practice](03-gupta-nersccop.pdf) | Lipi Gupta | NERSC
 | 3 min | [Research Software Engineers: Creating a Career Path—and a Career](04-katz-rsecareerguide.pdf) | Daniel S. Katz | University of Illinois
-| 3 min | [European Environment for Scientific Software Installations (EESSI)](05-ocais-essi.pdf) | Alain O'Cais | CECAM
+| 3 min | [European Environment for Scientific Software Installations (EESSI)](05-ocais-essi.pdf) | Alan O'Cais | CECAM
 | 3 min | [Years as a trustee of SocRSE UK: A retrospective](06-quinn-ukrse.pdf) | Jamie Quinn | University College of London (UCL)
 | 3 min | [HPC Carpentry Community Building in Education](07-reid-hpccarpentry.pdf) | Andrew Reid | NIST
 | 54 min | **General Discussion** | David E. Bernholdt | Oak Ridge National Laboratory
