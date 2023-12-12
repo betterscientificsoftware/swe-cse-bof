@@ -44,7 +44,7 @@ Software engineering (SWE) for modeling, simulation, and data analytics for comp
 | 5 min | **Wrap-Up and Next Steps** | David E. Bernholdt | Oak Ridge National Laboratory
 
 ---
-<!-- Before the event -->
+<!-- Before the event
 ## Discussion Notes
 
 We will use a a Google Doc for collaborative notetaking: **<https://bit.ly/swe-cse-notes>**
@@ -52,15 +52,13 @@ We will use a a Google Doc for collaborative notetaking: **<https://bit.ly/swe-c
 Lead note-taker: William F. Godoy, Oak Ridge National Laboratory (all are invited to help out)
 
 After the BOF we'll publish the public summary here.
-<!-- end of before event section -->
+  end of before event section -->
 
-<!-- After the event
+<!-- After the event -->
 ## Discussion Notes
 
-We've published a blog article on the Better Scientific Software resource site (<https://bssw.io>) based on this BoF: [Reflecting on Our Community: The SC21 BoF on Software Engineering and Reuse in Modeling, Simulation, and Data Analytics for Science and Engineering](https://bssw.io/blog_posts/reflecting-on-our-community-the-sc21-bof-on-software-engineering-and-reuse-in-modeling-simulation-and-data-analytics-for-science-and-engineering)
-
-Alternatively, you can read the [summary notes from the discussion groups](bof-notes.md).
- -->
+Unfortunately, we were not able to capture notes from this session.
+<!-- End of after the event section -->
 
 ---
 ## Organizers
