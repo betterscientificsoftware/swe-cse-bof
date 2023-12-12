@@ -63,36 +63,47 @@ This BoF provides an opportunity for people concerned about these topics to shar
 
 <!--  end of after agenda is finalized section -->
 
-<!-- During event -->
+<!-- During event 
 
 **Please remember to [evaluate the BoF](https://submissions.supercomputing.org/?page=SessionEval&new_year=sc23&id=sess375&eval_stype=stype457)!**
 
-<!-- end of during the event -->
+ end of during the event -->
 
 ---
 
-
+<!-- Before the event
 ## Discussion Notes
 
-<!-- Before the event
 A link to a Google Doc for collaborative notetaking will be shared during the BoF.
 
   end of before event section -->
 
-<!-- during the event -->
+<!-- during the event
+## Discussion Notes
 
 **Please help take notes at <https://bit.ly/swe-cse-notes>!**
 
 After the BOF we'll publish the public summary here, and we plan to write a summary blog article for [Bssw.io](https://bssw.io/blog_posts).
 
-<!-- end of during the event -->
+   end of during the event -->
 
-<!-- After the event
+<!-- Blog in progress -->
 ## Discussion Notes
 
-Unfortunately, we were not able to capture notes from this session.
-    end of after the event section -->
+We're writing a summary blog article for [Bssw.io](https://bssw.io/blog_posts).  We'll update here when it is published.
 
+In the mean time, you can read the [notes](bof-notes.md).
+
+<!-- end of blog in progress section -->
+
+<!-- All done
+## Discussion Notes
+
+We've published a blog article on the Better Scientific Software resource site (<https://bssw.io>) based on this BoF: [Reflecting on Our Community: The SC21 BoF on Software Engineering and Reuse in Modeling, Simulation, and Data Analytics for Science and Engineering](https://bssw.io/blog_posts/reflecting-on-our-community-the-sc21-bof-on-software-engineering-and-reuse-in-modeling-simulation-and-data-analytics-for-science-and-engineering)
+
+Alternatively, you can read the [summary notes from the discussion groups](bof-notes.md).
+
+ end of all done section -->
 ---
 
 ## Organizers
