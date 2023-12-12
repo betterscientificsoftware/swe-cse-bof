@@ -1,6 +1,6 @@
 # Scientific Software and the People Who Make it Happen: Building Communities of Practice (SC 2023 BOF)
 
-<!-- Before the event -->
+<!-- Before the event
 *A Birds of a Feather session at SC 2023*
 
 * **When:** 5:15pm-6:45pm Wednesday, 15 November 2023
@@ -8,11 +8,11 @@
 * **BoF website permalink:** <http://bit.ly/swe-cse-bof>
 * **Shared notetaking document:** <https://bit.ly/swe-cse-notes>
 * **Please remember to [evaluate the BoF](https://submissions.supercomputing.org/?page=SessionEval&new_year=sc23&id=sess375&eval_stype=stype457)!**
-<!-- end of before event section -->
+ end of before event section -->
 
-<!-- After the event
+<!-- After the event -->
 *A Birds of a Feather session at SC 2023, on Wednesday, 15 November 2023*
-     end of after event section -->
+<!-- end of after event section -->
 
 ---
 
