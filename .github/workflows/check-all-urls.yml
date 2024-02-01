@@ -47,4 +47,4 @@ jobs:
         exclude_files: ${{ steps.excludefiles.outputs.content }}
         timeout: 10
         retry_count: 3
-        print_all: false
+        print_all: true
