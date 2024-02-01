@@ -32,18 +32,17 @@ jobs:
       with:
         path: ./.github/workflows/exclude-urls.txt
 
-    # We maintain the list of the URLs excluded from checking in a separate file so that we can use
-    # it in multiple workflows, while easily maintaining consistency.
+    # We maintain the list of the file excluded from checking too
     - name: Read exclude-files list
-    id: excludefiles
-    uses: juliangruber/read-file-action@v1
-    with:
-      path: ./.github/workflows/exclude-files.txt
+      id: excludefiles
+      uses: juliangruber/read-file-action@v1
+      with:
+        path: ./.github/workflows/exclude-files.txt
 
     - name: urls-checker
       uses: urlstechie/urlchecker-action@0.0.34
       with:
-        # Use common exclude list read in above
+        # Use common exclude lists read in above
         exclude_urls: ${{ steps.excludeurls.outputs.content }}
         exclude_files: ${{ steps.excludefiles.outputs.content }}
         timeout: 10
