@@ -1,1 +1,1 @@
-**/index-orig.md
+2015-11-sc15-bof/index-orig.md,2016-11-sc16-bof/index-orig.md,2017-11-sc17-bof/index-orig.md,2018-11-sc18-bof/index-orig.md,2019-06-isc19-bof/index-orig.md,2019-11-sc19-bof/index-orig.md,2020-11-sc20-bof/index-orig.md,2021-11-sc21-bof/index-orig.md,2022-05-isc22-bof/index-orig.md,2022-11-sc22-bof/index-orig.md,2023-05-isc23-bof/index-orig.md,2023-11-sc23-bof/index-orig.md

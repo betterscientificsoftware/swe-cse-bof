@@ -12,7 +12,7 @@ jobs:
     
     - id: files
 #      uses: jitterbit/get-changed-files@v1 ### Hasn't been updated to Node16
-      uses: masesgroup/retrieve-changed-files@v2
+      uses: masesgroup/retrieve-changed-files@v3
       with:
         format: 'csv'
 
