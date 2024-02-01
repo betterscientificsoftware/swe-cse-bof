@@ -1,5 +1,7 @@
-# Discussion Notes from [SC17 BOF](index.md)
-
+---
+title: Discussion Notes
+excerpt: "SC17 BoF: Software Engineering and Reuse in Computational Science and Engineering"
+---
 ## Participants
 *Participants who elected to list their names in the notes.*
 

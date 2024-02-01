@@ -1,4 +1,7 @@
-# Discussion Notes from [SC18 BOF](index.md)
+---
+title: Discussion Notes
+excerpt: "SC18 BoF: Software Engineering and Reuse in Computational Science and Engineering"
+---
 
 ## Q&A from Lightning Talks
 

@@ -1,5 +1,7 @@
-# Discussion Notes for [SC16 BOF](index.md)
-
+---
+title: Discussion Notes
+excerpt: "SC16 BoF: Software Engineering for Computational Science and Engineering on Supercomputers"
+---
 ## Participants
 *Participants who elected to list their names in the notes.*
 

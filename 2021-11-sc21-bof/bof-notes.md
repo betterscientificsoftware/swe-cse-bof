@@ -1,6 +1,9 @@
-# Breakout Discussion Summaries
+---
+title: Breakout Discussion Summaries
+excerpt: "SC21 BoF: Software Engineering and Reuse in Modeling, Simulation, and Data Analytics for Science and Engineering"
+---
 
-The organizers prepared a number of topics for possible discussion in breakout groups, based on the lightning talks and other current topics.  In the end, we ended up with four discussion groups.
+The organizers prepared a number of topics for possible discussion in breakout groups, based on the lightning talks and other current topics.  Ultimately, we ended up with four discussion groups.
 
 ## Computational Science Ecosystems
 

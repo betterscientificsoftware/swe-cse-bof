@@ -1,4 +1,7 @@
-# Discussion Notes from ISC22 BOF
+---
+title: Discussion Notes
+excerpt: "ISC22 BoF: Software Engineering and Reuse in Modeling, Simulation, and Data Analytics for Science and Engineering"
+---
 
 ### Q: What is RSE?
 

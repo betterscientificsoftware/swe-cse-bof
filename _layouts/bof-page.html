@@ -1,0 +1,38 @@
+---
+layout: splash
+---
+{% if page.description %}
+<h2 id="description">Description</h2>
+{{ page.description | markdownify }}
+{% endif %}
+
+{% comment %}
+  Show registration link
+
+  If the link is provided and if the event is upcoming
+{% endcomment %}
+
+{% if page.enddate %}
+  {% include upcoming-event event=page.enddate %}
+{% elsif page.startdate %}
+  {% include upcoming-event event=page.startdate %}
+{% else %}
+  {% assign upcoming = false %}
+{% endif %}
+
+{% if upcoming and page.registration-url %}
+  <p><a href="{{ page.registration-url }}" class="btn btn--primary">Register for the Event</a></p>
+{% endif %}
+
+{% if content %}
+{{ content }}
+{% endif %}
+
+{% if page.organizers %}
+<h2 id="organizers">{{ page.organizers | size | pluralize: "Organizer", "Organizers" }}</h2>
+<ul>
+  {% for person in page.organizers %}
+  <li>{{ person.name }}{% if person.affiliation %} ({{ person.affiliation }}){% endif %}</li>
+  {%- endfor -%}
+</ul>
+{% endif %}

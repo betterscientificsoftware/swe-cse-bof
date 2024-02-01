@@ -1,85 +1,133 @@
-# Software Engineering and Reuse in Computational Science and Engineering (SC17 BOF)
+---
+title: "Software Engineering and Reuse in Computational Science and Engineering"
+startdate: "2017-11-14"
+time: "5:15pm - 7:00pm MST"
+#
+type: Birds-of-a-Feather Session 
+series: 
+  - "Technical Sessions and Meetings"
+#
+activities:
+  - "IDEAS-ECP"
+#
+parent-event-name: SC17
+parent-event-file: parentconf-2017-11-12-sc17-conference
+#
+venue: "The International Conference for High-Performance Computing, Networking, Storage, and Analysis (SC17)"
+venue-type: "conference"
+venue-url: https://sc17.supercomputing.org/
+location: "Denver, Colorado"
+#
+organizers:
+  - name: David E. Bernholdt
+    affiliation: Oak Ridge National Laboratory
+  - name: Maxim Belkin
+    affiliation: University of Illinois
+  - name: Alys Brett
+    affiliation: Culham Centre for Fusion Energy
+  - name: Jeffrey Carver
+    affiliation: University of Alabama
+  - name: Neil Chue Hong
+    affiliation: University of Edinburgh
+  - name: Mike Folk
+    affiliation: HDF Group
+  - name: Gerard Gorman
+    affiliation: Imperial College, London
+  - name: William Gropp
+    affiliation: University of Illinois
+  - name: Michael Heroux
+    affiliation: Sandia National Laboratories St. John's University
+  - name: Daniel S. Katz
+    affiliation: University of Illinois
+  - name: David Keyes
+    affiliation: King Abdullah University of Science and Technology
+  - name: Scott Lathrop
+    affiliation: National Center for Supercomputing Applications, University of Illinois Shodor Education Foundation
+  - name: Randall LeVeque
+    affiliation: University of Washington
+  - name: James Lin
+    affiliation: Shanghai Jiao Tong University
+  - name: Lois Curfman McInnes
+    affiliation: Argonne National Laboratory
+  - name: Kengo Nakajima
+    affiliation: University of Tokyo
+  - name: Andy Terrell
+    affiliation: NumFOCUS
+#
+presenters:
+  - name: Lois Curfman McInnes
+    affiliation: Argonne National Laboratory
+    title: Better Scientific Software
+    url: /assets/2017-11-sc17-bof/011-bssw-mcinnes.pdf
+  - name: Daniel S. Katz
+    affiliation: University of Illinois Urbana-Champaign
+    title: NumFOCUS & Sustainable Software
+    doi: 10.6084/m9.figshare.5602741.v1
+  - name: George K. Thiruvathukal
+    affiliation: Loyola University of Chicago
+    title: "Technical Consortium on High Performance Computing: Software Engineering Initiative (TCHPC/SE)"
+    url: /assets/2017-11-sc17-bof/031-tchpc-thiruvathukal.pdf
+    yt-video-id: UnmFanbX2Bw
+  - name: Catherine Jones
+    affiliation: STFC Rutherford Appleton Laboratory
+    title: Software Engineering Practices Three basics & One future wish
+    url: /assets/2017-11-sc17-bof/041-basics-jones.pdf
+  - name: Soren Scott
+    affiliation: The Ronin Institute
+    title: "ESIP Software Sustainability Guidelines: A Big Tent Approach"
+    url: /assets/2017-11-sc17-bof/051-esip-scott.pdf
+  - name: Andreas Schreiber
+    affiliation: German Aerospace Center (DLR)
+    title: Software Engineering Initiative of DLR
+    url: /assets/2017-11-sc17-bof/061-dlr-schreiber.pdf
+  - name: Dave Pearah
+    affiliation: The HDF Group
+    title: Commercial Software, aka Ultimate Software Reuse
+    url: /assets/2017-11-sc17-bof/071-commercial-pearah.pdf
+  - name: Scott Lathrop
+    affiliation: NCSA, University of Illinois at Urbana-Champaign
+    title: "Promoting Reusable Software: Webinars and Publications"
+    url: /assets/2017-11-sc17-bof/081-reuse-lathrop.pdf)
+#
+artifacts:
+  - label: Conference program page
+    url: "https://sc17.supercomputing.org/index.html_post_type=page&p=5407&id=bof144&sess=sess374.html"
+  - label: BoF archive
+    url: "https://betterscientificsoftware.github.io/swe-cse-bof/2017-11-sc17-bof"
+    format: webpage
+  - label: BoF series
+    url: "http://bit.ly/swe-cse-bof"
+    format: website
+#
+description: |
+  Software developers, researchers, trainers, and outreach staff will
+  meet to raise awareness of the challenges and opportunities for
+  developing and promoting software engineering practices, including the
+  development of reusable software to enhance the computational science
+  and engineering ecosystem for HPC systems to accelerate the "time to
+  science".
 
-_A Birds of a Feather session at SC17, on Tuesday 14 November 2017_
+  The BoF attendees will help develop an international "community of
+  practice" to share experiences in developing quality software,
+  gathering community feedback, addressing interoperability, and
+  promoting software to applications developers and users.
 
-Jump to: [Abstract](#abstract) \| [Agenda](#agenda) \| [Lightning Talks](#lightning-talks) \| [Discussion Notes](#discussion-notes) \| [Organizers](#organizers) \| [Suggested Citation](#suggested-citation)
-
-## Abstract
-
-Software developers, researchers, trainers, and outreach staff will
-meet to raise awareness of the challenges and opportunities for
-developing and promoting software engineering practices, including the
-development of reusable software to enhance the computational science
-and engineering ecosystem for HPC systems to accelerate the "time to
-science".
-
-The BoF attendees will help develop an international "community of
-practice" to share experiences in developing quality software,
-gathering community feedback, addressing interoperability, and
-promoting software to applications developers and users.
-
-We will identify strategies for ongoing efforts to inform, engage, and
-benefit the community and thereby advance the HPC software ecosystem.
-
+  We will identify strategies for ongoing efforts to inform, engage, and
+  benefit the community and thereby advance the HPC software ecosystem.
+#
+---
 ## Agenda
 
-Time | Topic | Speaker
------|-------|--------
-3 min | [Introduction and Goals](000-intro-bernholdt.pdf) | David E. Bernholdt, Oak Ridge National Laboratory
-10 min | [Building Portable Software: Finding a Middle Ground](002-libraries-gropp.pdf) | William Gropp, NCSA/University of Illinois at Urbana-Champaign
-24 min | [Lightning Talks](#lightning-talks)
-58 min | [General Discussion](#discussion-notes) | Moderated by Scott Lathrop, NCSA, University of Illinois at Urbana-Champaign
-10 min | Wrap-Up and Next Steps | Mderated by Scott Lathrop, NCSA and Shodor
+| Time | Title (link to slides) | Speaker/Moderator | Affiliation |
+| -----|------------------------|-------------------|-------------|
+| 3 min | **[Introduction and Goals]({{ "/assets/2017-11-sc17-bof/000-intro-bernholdt.pdf" | relative_url }})** | David E. Bernholdt | Oak Ridge National Laboratory
+| 10 min | [Building Portable Software: Finding a Middle Ground]({{ "/assets/2017-11-sc17-bof/002-libraries-gropp.pdf" | relative_url }}) | William Gropp, NCSA/University of Illinois at Urbana-Champaign
+{% include agenda-lightning-talks time="3 min" presenters=page.presenters %}
+| 59 min | **General Discussion** | Scott Lathrop | NCSA, University of Illinois at Urbana-Champaign |
+| 10 min | **Wrap-Up and Next Steps** | Scott Lathrop | NCSA, University of Illinois at Urbana-Champaign |
 
-## Lightning Talks
+**Bonus:** Watch the [video]({{ site.youtube-watch-url }}UnmFanbX2Bw) of George's talk
 
-Nr. | Title | Speaker
---|-------|---------------------
-1 | [Better Scientific Software](011-bssw-mcinnes.pdf)| Lois Curfman McInnes, Argonne National Laboratory
-2 | [NumFOCUS & Sustainable Software](021-numfocus-katz.pdf), published/cite as [doi: 10.6084/m9.figshare.5602741.v1](https://doi.org/10.6084/m9.figshare.5602741.v1) | Daniel S. Katz, University of Illinois Urbana-Champaign
-3 | [Technical Consortium on High Performance Computing: Software Engineering Initiative (TCHPC/SE)](031-tchpc-thiruvathukal.pdf) [video](https://youtu.be/UnmFanbX2Bw) | George K. Thiruvathukal, Loyola University of Chicago
-4 | [Software Engineering Practices Three basics & One future wish](041-basics-jones.pdf) | Catherine Jones, STFC Rutherford Appleton Laboratory
-5 | [ESIP Software Sustainability Guidelines: A Big Tent Approach](051-esip-scott.pdf) | Soren Scott, The Ronin Institute
-6 | [Software Engineering Initiative of DLR](061-dlr-schreiber.pdf) | Andreas Schreiber, German Aerospace Center (DLR)
-7 | [Commercial Software, aka Ultimate Software Reuse](071-commercial-pearah.pdf) | Dave Pearah, The HDF Group
-8 | [Promoting Reusable Software: Webinars and Publications](081-reuse-lathrop.pdf) | Scott Lathrop, NCSA, University of Illinois at Urbana-Champaign
+## Discussion Notes
 
-## [Discussion Notes](bof-notes.md)
-
-## Organizers
-
-Name | Affiliation
------|------------
-David E. Bernholdt | Oak Ridge National Laboratory
-Maxim Belkin | University of Illinois
-Alys Brett | Culham Centre for Fusion Energy
-Jeffrey Carver | University of Alabama
-Neil Chue Hong | University of Edinburgh
-Mike Folk | HDF Group
-Gerard Gorman | Imperial College, London
-William Gropp | University of Illinois
-Michael Heroux | Sandia National Laboratories St. John's University
-Daniel S. Katz | University of Illinois
-David Keyes | King Abdullah University of Science and Technology
-Scott Lathrop | National Center for Supercomputing Applications, University of Illinois Shodor Education Foundation
-Randall LeVeque | University of Washington
-James Lin | Shanghai Jiao Tong University
-Lois Curfman McInnes | Argonne National Laboratory
-Kengo Nakajima | University of Tokyo
-Andy Terrell | NumFOCUS
-
-## Suggested Citation
-
-
-David E. Bernholdt, Maxim Belkin, Alys Brett, Jeffrey Carver, Neil
-Chue Hong, Mike Folk, Gerard Gorman, William Gropp, Michael Heroux,
-Daniel S.  Katz, David Keyes, Scott Lathrop, Randall LeVeque, James
-Lin, Lois Curfman McInnes, Kengo Nakajima, Andy Terrell, organizers,
-Birds of a Feather session on Software Engineering for Computational
-Science and Engineering on Supercomputers, in _International
-Conference for High Performance Computing, Networking, Storage and
-Analysis_ (SC '17), Denver, Colorado November 2017. URL:
-<https://betterscientificsoftware.github.io/swe-cse-bof/2017-11-sc17-bof/>.
-
-Note: This web page was previously hosted in another location before migrating here:
-* <https://swe-cse.github.io/2017-11-sc17-bof/> (November 2017-June 2018)
+Read the [notes](bof-notes).

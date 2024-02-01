@@ -1,4 +1,7 @@
-# Discussion Notes from SC23 BoF
+---
+title: Discussion Notes
+excerpt: "SC23 BoF: Scientific Software and the People Who Make it Happen: Building Communities of Practice"
+---
 
 ## Official joke 
 

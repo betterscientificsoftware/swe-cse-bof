@@ -1,5 +1,7 @@
-# Discussion Notes from ISC19 BOF
-
+---
+title: Discussion Notes
+excerpt: "ISC19 BoF: Software Engineering and Reuse in Computational Science and Engineering"
+---
 ## **Q&A and Comments on Talks**
 
 ### Bording - HPC Carpentry

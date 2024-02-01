@@ -1,5 +1,7 @@
-# Discussion Notes from SC19 BOF
-
+---
+title: Discussion Notes
+excerpt: "SC19 BoF: Software Engineering and Reuse in Modeling, Simulation, and Data Analytics for Science and Engineering"
+---
 **Q&A and Comments on Talks**
 -----------------------------
 -   Review for JOSS: Does it have metrics e.g. impact factors? -\> Intentionally

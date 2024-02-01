@@ -1,0 +1,13 @@
+{% comment %}
+   upcoming-event: set 'upcoming' true/false based on whether argument
+                   is in the future or not
+   argument: event = date of event
+{% endcomment %}
+
+{%- assign today = 'now' | date: "%s" -%}
+{%- assign wdate = include.event | date: "%s" -%}
+{%- if wdate >= today -%}
+  {%- assign upcoming = true -%}
+{%- else -%}
+  {%- assign upcoming = false -%}
+{%- endif -%}

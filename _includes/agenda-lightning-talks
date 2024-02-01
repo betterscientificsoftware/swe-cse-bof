@@ -1,0 +1,8 @@
+|       | **Lightning Talks** | |
+{%- if include.presenters -%}
+{% for person in include.presenters %}
+| {% if include.time %}{{ include.time }}{% endif %} | {% if person.title and person.url %}[{{ person.title }}]({{ person.url | relative_url }}){% elsif person.title and person.doi %}[{{ person.title }}]({{ site.doi-resolver-url }}/{{ person.doi }}){% elsif person.title %}{{ person.title }}{% else %} *to be announced* {% endif %}{% if include.video %} | {% if person.yt-video-id %}[YouTube]({{ site.youtube-watch-url }}{{ person.yt-video-id }}){% else %}*n/a*{% endif %}{% endif %} | {{ person.name }} | {% if person.affiliation %}{{ person.affiliation }}{% endif %} |
+{%- endfor -%}
+{%- else -%}
+| | *to be announced* | | |
+{%- endif -%}

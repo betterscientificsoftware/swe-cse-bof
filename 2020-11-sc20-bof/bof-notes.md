@@ -1,4 +1,7 @@
-# Discussion Notes from SC20 BOF
+---
+title: Discussion Notes
+excerpt: "SC20 Bof: Software Engineering and Reuse in Modeling, Simulation, and Data Analytics for Science and Engineering"
+---
 
 *Initials indicate the panelist commenting.*
 
