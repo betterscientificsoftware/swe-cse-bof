@@ -7,7 +7,7 @@ The organizers prepared a number of topics for possible discussion in breakout g
 
 ## Computational Science Ecosystems
 
-**Related Lightning Talk:** [Ecosystems are the Future!](https://betterscientificsoftware.github.io/swe-cse-bof/2021-11-sc21-bof/01-brown-ecosystems.pdf)
+**Related Lightning Talk:** [Ecosystems are the Future!](https://betterscientificsoftware.github.io/swe-cse-bof/assets/2021-11-sc21-bof/01-brown-ecosystems.pdf)
 
 **Participants:** Ben Brown, Mike Heroux, Saswata Hier-Majumder, Lois Curfman McInnes, Bill Miller
 
@@ -24,7 +24,7 @@ The organizers prepared a number of topics for possible discussion in breakout g
 
 ## Training Programs
 
-**Related Lightning Talk:** [The Internat. CSE Master Program at TUM](https://betterscientificsoftware.github.io/swe-cse-bof/2021-11-sc21-bof/03-bader-masterprogram.pdf)
+**Related Lightning Talk:** [The Internat. CSE Master Program at TUM](https://betterscientificsoftware.github.io/swe-cse-bof/assets/2021-11-sc21-bof/03-bader-masterprogram.pdf)
 
 **Participants:** Anshu Dubey, Nasir Eisty, Dan Katz, Marion Weinzierl
 
@@ -47,7 +47,7 @@ The organizers prepared a number of topics for possible discussion in breakout g
 
 ## FAIR4RS: Finability, Accessibility, Interoperability, and Reusability for Research Software
 
-**Related Lightning Talk:** [FAIR 4 Research Software (FAIR4RS)](https://betterscientificsoftware.github.io/swe-cse-bof/2021-11-sc21-bof/05-barker-fair4rs.pdf)
+**Related Lightning Talk:** [FAIR 4 Research Software (FAIR4RS)](https://betterscientificsoftware.github.io/swe-cse-bof/assets/2021-11-sc21-bof/05-barker-fair4rs.pdf)
 
 **Participants:** Michelle Barker, Rinku Gupta, Jean Sexton, Henri ?
 
@@ -74,7 +74,7 @@ The organizers prepared a number of topics for possible discussion in breakout g
 
 ## Reproducibility
 
-**Related Lightning Talk:** [Highlights from the IEEE CS Ad Hoc Committee on Open Science & Reproducibility](https://betterscientificsoftware.github.io/swe-cse-bof/2021-11-sc21-bof/06-parashar-openscience.pdf)
+**Related Lightning Talk:** [Highlights from the IEEE CS Ad Hoc Committee on Open Science & Reproducibility](https://betterscientificsoftware.github.io/swe-cse-bof/assets/2021-11-sc21-bof/06-parashar-openscience.pdf)
 
 **Participants:** Sandra Gesing, Pat Grubel, Axel Huebl, Ulf Schiller, Peter Vaillancourt
 

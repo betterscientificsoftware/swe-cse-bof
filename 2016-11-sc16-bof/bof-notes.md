@@ -31,8 +31,7 @@ using math when everyone else isn’t”
 
 Formal Verification group at University of Utah:
 
-<http://formalverification.cs.utah.edu/new/> *→ A shorter link is*
-<http://www.cs.utah.edu/fv>
+~~formalverification.cs.utah.edu/new/~~
 
 *Archer tool for data race detection in OpenMP*
 
@@ -84,7 +83,7 @@ workshops with qualified instructors and helpers.
 Challenges: discoverability, Architecture-specific training, Evolving
 technologies, discipline-specific needs
 
-<https://github.com/hpccarpentry>
+~~github.com/hpccarpentry~~ --> <https://www.hpc-carpentry.org/>
 
 ### Jason Maassen, Netherlands eScience Center
 

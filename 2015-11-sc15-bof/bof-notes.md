@@ -34,7 +34,7 @@ _Special thanks to the note-takers: Neil Chue Hong, Mike Heroux, Lois Curfman Mc
 Book on software engineering for computational science and engineering due in 2016 (Jeff Carver, Neil Chue Hong, editors)
 * [WSSSPE](http://wssspe.researchcomputing.org.uk/) working group putting together best practices
 * [IEEE Software](http://www.computer.org/web/computingnow/software): Rajiv Ramnath, editor who is interested in SW papers
-* [Computing in Science and Engineering](http://www.computer.org/web/computingnow/cise) (CiSE) [Software Engineering Track](http://www.computer.org/cms/Computer.org/ComputingNow/docs/2016-software-engineering-track.pdf),  Jeff Carver and Damien Rouson editors (new)
+* [Computing in Science and Engineering](http://www.computer.org/web/computingnow/cise) (CiSE) [Software Engineering Track](https://www.computer.org/digital-library/magazines/cs/track-calls-for-papers#Software%20Engineering),  Jeff Carver and Damien Rouson editors (new)
 
 ### What about testing?
 

@@ -9,7 +9,7 @@ excerpt: "SC18 BoF: Software Engineering and Reuse in Computational Science and 
     *   Many initiatives need funding -- so it would be good to capture ROI from existing initiatives (UK SSI is the obvious, hoped for, source for this :-) )
 *   Conceptualizing a US Research Software Sustainability Institute (URSSI)
     *   Could community activities also include "collaborative community activities" such as code reviews, (a la Karthik Ram's BDSC initiative [I might have the name/acronym wrong])?
-        *   Yes, this is possible. Please suggest it on the [URSSI discuss board](https://discuss.urssi.us) or email (Dan)
+        *   Yes, this is possible. Please suggest it on the ~~URSSI discuss board~~ or email (Dan)
 *   HPC Carpentry: open source, hands-on HPC training
     *   Will the HPC Carpentry build on HPC University, or feed into the HPC Certification efforts?
     *   Will this be an intro to HPC, or will it also include (or grow to include) skills to use petascale and more advanced and specialized systems?
