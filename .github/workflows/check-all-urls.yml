@@ -22,21 +22,30 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
 
     # We maintain the list of the URLs excluded from checking in a separate file so that we can use
     # it in multiple workflows, while easily maintaining consistency.
     - name: Read exclude-urls list
-      id: exclude
+      id: excludeurls
       uses: juliangruber/read-file-action@v1
       with:
         path: ./.github/workflows/exclude-urls.txt
 
+    # We maintain the list of the URLs excluded from checking in a separate file so that we can use
+    # it in multiple workflows, while easily maintaining consistency.
+    - name: Read exclude-files list
+    id: excludefiles
+    uses: juliangruber/read-file-action@v1
+    with:
+      path: ./.github/workflows/exclude-files.txt
+
     - name: urls-checker
-      uses: urlstechie/urlchecker-action@0.0.33
+      uses: urlstechie/urlchecker-action@0.0.34
       with:
         # Use common exclude list read in above
-        exclude_urls: ${{ steps.exclude.outputs.content }}
+        exclude_urls: ${{ steps.excludeurls.outputs.content }}
+        exclude_files: ${{ steps.excludefiles.outputs.content }}
         timeout: 10
         retry_count: 3
         print_all: false

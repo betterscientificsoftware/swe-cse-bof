@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:    
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     
     - id: files
 #      uses: jitterbit/get-changed-files@v1 ### Hasn't been updated to Node16
@@ -26,7 +26,7 @@ jobs:
 
     # Run URL checks
     - name: URLs-checker
-      uses: urlstechie/urlchecker-action@0.0.33
+      uses: urlstechie/urlchecker-action@0.0.34
       with:
         # only include the changed files
         include_files: ${{ steps.files.outputs.added_modified }}
