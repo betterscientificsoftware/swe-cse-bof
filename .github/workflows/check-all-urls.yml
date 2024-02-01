@@ -44,7 +44,8 @@ jobs:
       with:
         # Use common exclude lists read in above
         exclude_urls: ${{ steps.excludeurls.outputs.content }}
-#        exclude_files: ${{ steps.excludefiles.outputs.content }}
+        exclude_files: ${{ steps.excludefiles.outputs.content }}
         timeout: 10
         retry_count: 3
         print_all: true
+        verbose: true
