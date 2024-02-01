@@ -1,0 +1,42 @@
+name: Check All URLs
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Cron syntax has five fields separated by a space, and each field represents a unit of time.
+    #
+    #        ┌───────────── minute (0 - 59)
+    #        │ ┌───────────── hour (0 - 23)
+    #        │ │ ┌───────────── day of the month (1 - 31)
+    #        │ │ │ ┌───────────── month (1 - 12 or JAN-DEC)
+    #        │ │ │ │ ┌───────────── day of the week (0 - 6 or SUN-SAT)
+    #        │ │ │ │ │
+    #        │ │ │ │ │
+    #        │ │ │ │ │
+    #        * * * * *
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '0 0 7 * *' # midnight on the seventh day (arbitrary) of every month
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    # We maintain the list of the URLs excluded from checking in a separate file so that we can use
+    # it in multiple workflows, while easily maintaining consistency.
+    - name: Read exclude-urls list
+      id: exclude
+      uses: juliangruber/read-file-action@v1
+      with:
+        path: ./.github/workflows/exclude-urls.txt
+
+    - name: urls-checker
+      uses: urlstechie/urlchecker-action@0.0.33
+      with:
+        # Use common exclude list read in above
+        exclude_urls: ${{ steps.exclude.outputs.content }}
+        timeout: 10
+        retry_count: 3
+        print_all: false

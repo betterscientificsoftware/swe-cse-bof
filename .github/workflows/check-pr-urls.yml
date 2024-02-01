@@ -1,0 +1,37 @@
+name: Check URLs in Changed Files
+
+on: [pull_request, push, workflow_dispatch]
+
+jobs:  
+  urlchecks:
+    name: check-urls
+    runs-on: ubuntu-latest
+
+    steps:    
+    - uses: actions/checkout@v3
+    
+    - id: files
+#      uses: jitterbit/get-changed-files@v1 ### Hasn't been updated to Node16
+      uses: masesgroup/retrieve-changed-files@v2
+      with:
+        format: 'csv'
+
+    # We maintain the list of the URLs excluded from checking in a separate file so that we can use
+    # it in multiple workflows, while easily maintaining consistency.
+    - name: Read exclude-urls list
+      id: exclude
+      uses: juliangruber/read-file-action@v1
+      with:
+        path: ./.github/workflows/exclude-urls.txt
+
+    # Run URL checks
+    - name: URLs-checker
+      uses: urlstechie/urlchecker-action@0.0.33
+      with:
+        # only include the changed files
+        include_files: ${{ steps.files.outputs.added_modified }}
+        # Use common exclude list read in above
+        exclude_urls: ${{ steps.exclude.outputs.content }}
+        timeout: 10
+        retry_count: 3
+        print_all: false
