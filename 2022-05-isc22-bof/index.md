@@ -1,5 +1,5 @@
 ---
-title: "ISC22: Software Engineering and Reuse in Modeling, Simulation, and Data Analytics for Science and Engineering"
+title: "Software Engineering and Reuse in Modeling, Simulation, and Data Analytics for Science and Engineering"
 startdate: "2022-06-01"
 time: "2:30pm-3:30pm CEST"
 #
