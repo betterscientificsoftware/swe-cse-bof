@@ -104,6 +104,6 @@ description: |
 
 ## Discussion Notes
 
-We're writing a summary blog article for [Bssw.io](https://bssw.io/blog_posts).  We'll update here when it is published.
+We've published a blog article on the Better Scientific Software resource site (<https://bssw.io>) based on this BoF: [Reflecting on Our Community: The SC23 BoF on Scientific Software and the People Who Make it Happen: Building Communities of Practice](https://bssw.io/blog_posts/reflecting-on-our-community-the-sc23-bof-on-scientific-software-and-the-people-who-make-it-happen-building-communities-of-practice)
 
-In the meantime, you can read the [notes](bof-notes).
+Alternatively, you can read the [summary notes](bof-notes).

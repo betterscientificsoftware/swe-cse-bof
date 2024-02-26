@@ -15,7 +15,7 @@ Site permalink: <http://bit.ly/swe-cse-bof>
 ## Events
 
 * [SC23: Scientific Software and the People Who Make it Happen: Building Communities of Practice](2023-11-sc23-bof/)
-    - Summary blog post: *in progress*
+    - Summary blog post: [Reflecting on Our Community: The SC23 BoF on Scientific Software and the People Who Make it Happen: Building Communities of Practice](https://bssw.io/blog_posts/reflecting-on-our-community-the-sc23-bof-on-scientific-software-and-the-people-who-make-it-happen-building-communities-of-practice)
 * [ISC23: Scientific Software and the People Who Make it Happen: Building Communities of Practice](2023-05-isc23-bof)
 * [SC22: Software Engineering and Reuse in Modeling, Simulation, and Data Analytics for Science and Engineering](2022-11-sc22-bof)
 * [ISC22: Software Engineering and Reuse in Modeling, Simulation, and Data Analytics for Science and Engineering](2022-05-isc22-bof)
