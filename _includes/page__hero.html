@@ -46,6 +46,16 @@
         <p class="page__lead">{{ excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
       {% endif %}
       {% include page__meta.html %}
+      {% if page.artifacts %}
+        {% for i in page.artifacts %}
+          {% if i.label == "Conference program page" %}
+            {% assign program_url = i.url %}
+          {% endif %}
+        {% endfor %}
+        {% if program_url %}
+        <p><a href="{{ program_url }}" class="btn btn--light-outline btn--large">Conference program page</a></p>
+        {% endif %}
+      {% endif %}
       {% if page.header.cta_url %}
         <p><a href="{{ page.header.cta_url | relative_url }}" class="btn btn--light-outline btn--large">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
       {% endif %}
