@@ -14,6 +14,7 @@ Site permalink: <http://bit.ly/swe-cse-bof>
 
 ## Events
 
+* **[SC24: Scientific Software and the People Who Make it Happen: Building Communities of Practice](2024-11-sc24-bof/)**
 * [SC23: Scientific Software and the People Who Make it Happen: Building Communities of Practice](2023-11-sc23-bof/)
     - Summary blog post: [Reflecting on Our Community: The SC23 BoF on Scientific Software and the People Who Make it Happen: Building Communities of Practice](https://bssw.io/blog_posts/reflecting-on-our-community-the-sc23-bof-on-scientific-software-and-the-people-who-make-it-happen-building-communities-of-practice)
 * [ISC23: Scientific Software and the People Who Make it Happen: Building Communities of Practice](2023-05-isc23-bof)
