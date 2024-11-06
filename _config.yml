@@ -29,14 +29,14 @@ url: "https://betterscientificsoftware.github.io" # the base hostname & protocol
 
 # Build settings
 #theme: minima
-#theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: minimal-mistakes-jekyll
+#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-include-cache
-  - jekyll-pluralize
+#  - liquid_pluralize # Do not use jekyll-pluralize -- outdated
 
 future: true
 
