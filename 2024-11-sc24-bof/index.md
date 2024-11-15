@@ -21,6 +21,10 @@ location: "Atlanta, Georgia"
 #
 registration-url: "https://sc24.supercomputing.org/attend/registration/"
 #
+header:
+    overlay_image: /assets/images/sc24_H_black_shaded.png
+    overlay_filter: 0.33
+#
 organizers:
   - name: David E. Bernholdt	
     affiliation: Oak Ridge National Laboratory
