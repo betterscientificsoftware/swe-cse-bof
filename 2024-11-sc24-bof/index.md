@@ -43,35 +43,39 @@ organizers:
   - name: Marion Weinzierl
     affiliation: University of Cambridge
 #
-# presenters:
-#   - name: Radovan Bast	
-#     affiliation: UiT The Arctic University of Norway
-#     title: Research Software Hour
-#     url: /assets/2023-11-sc23-bof/01-bast-researchsoftwarehour.pdf
-#   - name: Philippe Bonnet	
-#     affiliation: ACM EIGREP Chair
-#     title: ACM EIGREP Emerging Interest Group on Reproducibility and Replicability
-#     url: /assets/2023-11-sc23-bof/02-bonnet-acmeigrep.pdf
-#   - name: Lipi Gupta	
-#     affiliation: NERSC
-#     title: "Focus Groups to Focus Efforts: Building the NERSC Community of Practice"
-#     url: /assets/2023-11-sc23-bof/03-gupta-nersccop.pdf
-#   - name: Daniel S. Katz	
-#     affiliation: University of Illinois
-#     title: "Research Software Engineers: Creating a Career Path—and a Career"
-#     url: /assets/2023-11-sc23-bof/04-katz-rsecareerguide.pdf
-#   - name: Alan O’Cais	
-#     affiliation: CECAM
-#     title: European Environment for Scientific Software Installations (EESSI)
-#     url: /assets/2023-11-sc23-bof/05-ocais-essi.pdf
-#   - name: Jamie Quinn	
-#     affiliation: University College of London (UCL)
-#     title: "Years as a trustee of SocRSE UK: A retrospective"
-#     url: /assets/2023-11-sc23-bof/06-quinn-ukrse.pdf
-#   - name: Andrew Reid	
-#     affiliation: NIST
-#     title: HPC Carpentry Community Building in Education
-#     url: /assets/2023-11-sc23-bof/07-reid-hpccarpentry.pdf
+presenters:
+  - name: Cristin Merritt	
+    affiliation: Alces Flight
+    title: Move the Needle
+#     url: /assets/2024-11-sc24-bof/
+  - name: Clare Jenner
+    affiliation: DiRAC HPC Facility
+    title: Training and industry relations in the DiRAC Facility
+#     url: /assets/2024-11-sc24-bof/
+  - name: Spencer Smith
+    affiliation: Computing and Software Department, McMaster University
+    title: How RSEs can improve project quality by embracing the role of “educated ignoramus”
+#     url: /assets/2024-11-sc24-bof/
+  - name: Helen Kershaw	
+    affiliation: NSF National Center for Atmospheric Research
+    title: Code Review for Scientific Software
+#     url: /assets/2024-11-sc24-bof/
+  - name: Simon Clifford
+    affiliation: University of Cambridge
+    title: Developing reusable tools for critical applications, looking at an example of a (UK) hospital software tool -- how could we have done better?
+#     url: /assets/2024-11-sc24-bof/
+  - name: David E. Bernholdt
+    affiliation: Member and Chair, Consortium for the Advancement of Scientific Software Steering Committee
+    title: Introducing the Consortium for the Advancement of Scientific Software (CASS)
+#     url: /assets/2024-11-sc24-bof/
+  - name: Harshita Menon
+#     affiliation: 
+#     title: 
+#     url: /assets/2024-11-sc24-bof/
+  - name: Neil Chue Hong
+#     affiliation:
+#     title: 
+#     url: /assets/2024-11-sc24-bof/
 #
 artifacts:
   - label: Conference program page
@@ -96,17 +100,22 @@ description: |
 3. Identify people interested in contributing to a blog article for [BSSw.io](https://bssw.io) summarizing the BoF (like our [SC23](https://bssw.io/blog_posts/reflecting-on-our-community-the-sc23-bof-on-scientific-software-and-the-people-who-make-it-happen-building-communities-of-practice) and [SC21](https://bssw.io/blog_posts/reflecting-on-our-community-the-sc21-bof-on-software-engineering-and-reuse-in-modeling-simulation-and-data-analytics-for-science-and-engineering) blog posts).
 4. Meet your colleagues and have fun!
 
-<!-- ## Agenda
+## Agenda
+
+*Details subject to change*
 
 | Time | Title (link to slides) | Speaker/Moderator | Affiliation
 | -----|------------------------|-------------------|------------
-| 5 min | **Introduction and Goals** | David E. Bernholdt | Oak Ridge National Laboratory
+| 5 min | **Introduction and Goals** | Sandra Gesing | US Research Software Engineer Association and San Diego Supercomputer Center (SDSC)
 {% include agenda-lightning-talks time="3 min" presenters=page.presenters %}
-| 54 min | **General Discussion** | David E. Bernholdt | Oak Ridge National Laboratory
+| 51 min | **General Discussion** | David E. Bernholdt | Oak Ridge National Laboratory
 | 10 min | **Blog Article Planning** | David E. Bernholdt | Oak Ridge National Laboratory
 
 ## Discussion Notes
 
+***We will be crowd-sourcing notes at <http://bit.ly/swe-cse-notes>.  Please help out!***
+
+<!--
 We're writing a summary blog article for [Bssw.io](https://bssw.io/blog_posts).  We'll update here when it is published.
 
 In the meantime, you can read the [notes](bof-notes). 
