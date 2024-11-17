@@ -76,9 +76,9 @@ presenters:
 #     affiliation: 
 #     title: 
 #     url: /assets/2024-11-sc24-bof/
-  - name: Neil Chue Hong
-#     affiliation:
-#     title: 
+  - name: Neil P. Chue Hong
+    affiliation: University of Edinburgh
+    title: Equity, Diversity and Inclusivity Concerns When Building Communities of Practice
 #     url: /assets/2024-11-sc24-bof/
 #
 artifacts:
