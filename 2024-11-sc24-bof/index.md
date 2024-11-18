@@ -72,9 +72,9 @@ presenters:
     affiliation: Member and Chair, Consortium for the Advancement of Scientific Software Steering Committee
     title: Introducing the Consortium for the Advancement of Scientific Software (CASS)
 #     url: /assets/2024-11-sc24-bof/
-  - name: Harshita Menon
-#     affiliation: 
-#     title: 
+  - name: Harshitha Menon
+    affiliation: Lawrence Livermore National Laboratory
+    title: "Building a Productive AI-Assisted HPC Software Ecosystem: The Need for a Community-Driven Approach"
 #     url: /assets/2024-11-sc24-bof/
   - name: Neil P. Chue Hong
     affiliation: University of Edinburgh
