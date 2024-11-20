@@ -51,35 +51,35 @@ presenters:
   - name: Cristin Merritt	
     affiliation: Alces Flight
     title: Move the Needle
-#     url: /assets/2024-11-sc24-bof/
+    url: /assets/2024-11-sc24-bof/01-merritt-move-then-needle.pdf
   - name: Clare Jenner
     affiliation: DiRAC HPC Facility
-    title: Training and industry relations in the DiRAC Facility
-#     url: /assets/2024-11-sc24-bof/
+    title: Training and Industry Relations in the DiRAC Facility
+    url: /assets/2024-11-sc24-bof/02-jenner-training.pdf
   - name: Spencer Smith
     affiliation: Computing and Software Department, McMaster University
-    title: How RSEs can improve project quality by embracing the role of “educated ignoramus”
-#     url: /assets/2024-11-sc24-bof/
+    title: How RSEs Can Improve Project Quality by Embracing the Role of “Educated Ignoramus”
+    url: /assets/2024-11-sc24-bof/03-smith-educated-ignoramus.pdf
   - name: Helen Kershaw	
     affiliation: NSF National Center for Atmospheric Research
     title: Code Review for Scientific Software
-#     url: /assets/2024-11-sc24-bof/
+    url: /assets/2024-11-sc24-bof/04-kershaw-code-review.pdf
   - name: Simon Clifford
     affiliation: University of Cambridge
-    title: Developing reusable tools for critical applications, looking at an example of a (UK) hospital software tool -- how could we have done better?
-#     url: /assets/2024-11-sc24-bof/
+    title: Developing Reusable Tools for Critical Applications, Looking at an Example of a (UK) Hospital Software Tool -- How Could We Have Done Better?
+    url: /assets/2024-11-sc24-bof/05-clifford-hospital-software.pdf
   - name: David E. Bernholdt
     affiliation: Member and Chair, Consortium for the Advancement of Scientific Software Steering Committee
     title: Introducing the Consortium for the Advancement of Scientific Software (CASS)
-#     url: /assets/2024-11-sc24-bof/
+    url: /assets/2024-11-sc24-bof/06-bernholdt-cass.pdf
   - name: Harshitha Menon
     affiliation: Lawrence Livermore National Laboratory
     title: "Building a Productive AI-Assisted HPC Software Ecosystem: The Need for a Community-Driven Approach"
-#     url: /assets/2024-11-sc24-bof/
+    url: /assets/2024-11-sc24-bof/07-menon-ai-for-software.pdf
   - name: Neil P. Chue Hong
     affiliation: University of Edinburgh
     title: Equity, Diversity and Inclusivity Concerns When Building Communities of Practice
-#     url: /assets/2024-11-sc24-bof/
+    url: /assets/2024-11-sc24-bof/08-chuehong-edicop.pdf
 #
 artifacts:
   - label: Conference program page
