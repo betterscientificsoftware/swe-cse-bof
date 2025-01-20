@@ -18,6 +18,10 @@ venue-type: "conference"
 venue-url: https://www.isc-hpc.com/
 location: "Hamburg, Germany"
 #
+header:
+    overlay_image: /assets/images/ISC_hp_logo_72dpi_rgb.png
+    overlay_filter: 0.33
+#
 organizers:
   - name: Mozhgan Kabiri chimeh	
     affiliation: NVIDIA
