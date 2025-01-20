@@ -18,6 +18,10 @@ venue-type: "conference"
 venue-url: https://sc19.supercomputing.org/
 location: "Denver, Colorado"
 #
+header:
+    overlay_image: /assets/images/SC19-color-hor.png
+    overlay_filter: 0.33
+#
 organizers:
   - name: David E. Bernholdt
     affiliation: Oak Ridge National Laboratory

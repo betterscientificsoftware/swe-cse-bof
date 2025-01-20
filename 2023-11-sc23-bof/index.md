@@ -22,7 +22,6 @@ registration-url: https://sc23.supercomputing.org/attend/registration/
 #
 header:
     overlay_image: /assets/images/sc23_hor_blackcolor@4x.png
-
     overlay_filter: 0.33
 #
 organizers:

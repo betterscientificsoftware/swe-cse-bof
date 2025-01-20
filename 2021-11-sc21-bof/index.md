@@ -18,6 +18,10 @@ venue-type: "conference"
 venue-url: https://sc21.supercomputing.org/
 location: "St. Louis, Missouri, and online"
 #
+header:
+    overlay_image: /assets/images/sc21_h_colorondark@4x.png
+    overlay_filter: 0.33
+#
 organizers:
   - name: David E. Bernholdt
     affiliation: Oak Ridge National Laboratory

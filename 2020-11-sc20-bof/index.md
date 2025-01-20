@@ -18,6 +18,10 @@ venue-type: "conference"
 venue-url: https://sc20.supercomputing.org/
 location: "Online"
 #
+header:
+    overlay_image: /assets/images/sc20_color_black_hor@4x.png
+    overlay_filter: 0.33
+#
 organizers:
   - name: David E. Bernholdt
     affiliation: Oak Ridge National Laboratory

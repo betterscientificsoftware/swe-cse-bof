@@ -18,6 +18,10 @@ venue-type: "conference"
 venue-url: https://sc18.supercomputing.org/
 location: "Dallas, Texas"
 #
+header:
+    overlay_image: /assets/images/SC18-color-hor.png
+    overlay_filter: 0.33
+#
 organizers:
   - name: David E. Bernholdt
     affiliation: Oak Ridge National Laboratory

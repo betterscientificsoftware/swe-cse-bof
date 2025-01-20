@@ -18,6 +18,11 @@ venue-type: "conference"
 venue-url: https://sc15.supercomputing.org/
 location: "Austin, Texas"
 #
+header:
+    overlay_image: /assets/images/SC15ColorSoftShadow.png
+    overlay_filter: 0.33
+    # overlay_filter: rgba(0, 146, 202, 0.75) # Same color as "air" skin footer
+#
 organizers:
   - name: David E. Bernholdt
     affiliation: Oak Ridge National Laboratory
