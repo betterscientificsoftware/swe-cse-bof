@@ -117,10 +117,6 @@ description: |
 
 ## Discussion Notes
 
-***We will be crowd-sourcing notes at <http://bit.ly/swe-cse-notes>.  Please help out!***
-
-<!--
 We're writing a summary blog article for [Bssw.io](https://bssw.io/blog_posts).  We'll update here when it is published.
 
-In the meantime, you can read the [notes](bof-notes). 
--->
+In the meantime, you can read the [notes](bof-notes).
