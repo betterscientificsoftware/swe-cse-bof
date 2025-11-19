@@ -108,10 +108,10 @@ description: |
 
 | Time | Title (link to slides) | Speaker/Moderator | Affiliation
 | -----|------------------------|-------------------|------------
-| 5 min | **Introduction and Goals** | David E. Bernholdt | Oak Ridge National Laboratory
+| 5 min | **Introduction and Goals** | Mozhgan Kabiri chimeh | Oak Ridge National Laboratory
 {% include agenda-lightning-talks time="3 min" presenters=page.presenters %}
-| 51 min | **General Discussion** | Mozghan Kabiri chimeh | NVIDIA
-| 10 min | **Blog Article Planning** | David E. Bernholdt | Oak Ridge National Laboratory
+| 51 min | **General Discussion** | Mozhgan Kabiri chimeh | NVIDIA
+| 10 min | **Blog Article Planning** | Mozhgan Kabiri chimeh | Oak Ridge National Laboratory
 
 ## Discussion Notes
 {% comment %}
