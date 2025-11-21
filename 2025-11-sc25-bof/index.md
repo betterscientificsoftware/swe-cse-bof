@@ -46,35 +46,35 @@ presenters:
   - name: Sandra Gesing	
     affiliation: US Research Software Engineer Association
     title: Invitation to the International Research Software Conference, Sept 7-8, 2026	
-    # url: /assets/2025-11-sc25-bof/01-gesing-irsc.pdf
+    url: /assets/2025-11-sc25-bof/01-gesing-irsc.pdf
   - name: Eleanor Broadway
     affiliation: EPCC	
     title: "Beyond Busy: Building Sustainable Research Communities"
-    # url: /assets/2025-11-sc25-bof/02-broadway-busy.pdf
+    url: /assets/2025-11-sc25-bof/02-broadway-busy.pdf
   - name: Mozhgan Kabiri chimeh
     affiliation: NVIDIA	
     title: Open Training for Sustainable HPC & AI Skills	
-    # url: /assets/2025-11-sc25-bof/03-kabirichimeh-training.pdf
+    url: /assets/2025-11-sc25-bof/03-kabirichimeh-training.pdf
   - name: Anshu Dubey	
     affiliation: Argonne National Laboratory	
     title: Toward Next-generation Ecosystems for Scientific Computing workshop -- objectives and outcomes	
-    # url: /assets/2025-11-sc25-bof/04-dubey-ecosystems.pdf
+    url: /assets/2025-11-sc25-bof/04-dubey-ecosystems.pdf
   - name: Sunita Chandrasekaran
     affiliation: Director, First State AI Institute, University of Delaware
     title: "NSF DARSE: Democratizing Access to Research Software Engineering"
-    # url: /assets/2025-11-sc25-bof/05-chandrasekaran-darse.pdf
+    url: /assets/2025-11-sc25-bof/05-chandrasekaran-darse.pdf
   - name: Dr James Richings	
     affiliation: EPCC, University of Edinburgh
     title: Green RSE and Green HPC Training	 
-    # url: /assets/2025-11-sc25-bof/06-richings-green.pdf
+    url: /assets/2025-11-sc25-bof/06-richings-green.pdf
   - name: Todd Gamblin	
     affiliation: LLNL	
     title: Sustaining scientific software through the High Performance Software Foundation
-    # url: /assets/2025-11-sc25-bof/07-gamblin-hpsf.pdf
+    url: /assets/2025-11-sc25-bof/07-gamblin-hpsf.pdf
   - name: Ian A Cosden #, Robert Haines, and David E. Bernholdt
     affiliation: Princeton University #, University of Manchester, and Oak Ridge National Laboratory  
     title: Building Bridges Between the Software Engineering Research (SER) and Research Software Engineering (RSE) Communities	 
-    # url: /assets/2025-11-sc25-bof/08-cosden-bridges.pdf
+    url: /assets/2025-11-sc25-bof/08-cosden-bridges.pdf
 #
 artifacts:
   - label: Conference program page
@@ -108,15 +108,19 @@ description: |
 
 | Time | Title (link to slides) | Speaker/Moderator | Affiliation
 | -----|------------------------|-------------------|------------
-| 5 min | **Introduction and Goals** | Mozhgan Kabiri chimeh | Oak Ridge National Laboratory
+| 5 min | **Introduction and Goals** | Mozhgan Kabiri chimeh | NVIDIA
 {% include agenda-lightning-talks time="3 min" presenters=page.presenters %}
 | 51 min | **General Discussion** | Mozhgan Kabiri chimeh | NVIDIA
-| 10 min | **Blog Article Planning** | Mozhgan Kabiri chimeh | Oak Ridge National Laboratory
+| 10 min | **Blog Article Planning** | Mozhgan Kabiri chimeh | NVIDIA
 
 ## Discussion Notes
 {% comment %}
-{% endcomment %}
 ***We will be crowd-sourcing notes at <http://bit.ly/swe-cse-notes>.  Please help out!***
+{% endcomment %}
+
+{% comment %}
+{% endcomment %}
+We're preparing the notes for publication.  We'll update here soon.
 
 {% comment %}
 We're writing a summary blog article for [Bssw.io](https://bssw.io/blog_posts).  We'll update here when it is published.
