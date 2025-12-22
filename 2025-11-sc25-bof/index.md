@@ -119,14 +119,14 @@ description: |
 {% endcomment %}
 
 {% comment %}
-{% endcomment %}
 We're preparing the notes for publication.  We'll update here soon.
+{% endcomment %}
 
 {% comment %}
+{% endcomment %}
 We're writing a summary blog article for [Bssw.io](https://bssw.io/blog_posts).  We'll update here when it is published.
 
 In the meantime, you can read the [notes](bof-notes).
-{% endcomment %}
 
 
 {% comment %}
