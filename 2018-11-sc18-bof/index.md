@@ -67,14 +67,10 @@ presenters:
     url: /assets/2018-11-sc18-bof/06-bssw-bernholdt.pdf
 #
 artifacts:
+  - label: BoF webpage
+    url: "https://betterscientificsoftware.github.io/swe-cse-bof/2018-11-sc18-bof"
   - label: Conference program page
     url: "https://sc18.supercomputing.org/presentation/index-id=bof171&sess=sess426.html"
-  - label: BoF archive
-    url: "https://betterscientificsoftware.github.io/swe-cse-bof/2018-11-sc18-bof"
-    format: webpage
-  - label: BoF series
-    url: "http://bit.ly/swe-cse-bof"
-    format: website
 #
 description: |
   Software engineering (SWE) for computational science and engineering

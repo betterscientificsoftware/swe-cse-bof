@@ -55,12 +55,8 @@ presenters:
     url: /assets/2023-05-isc23-bof/04-fillinger-education.pdf
 #
 artifacts:
-  - label: BoF archive
+  - label: BoF webpage
     url: "https://betterscientificsoftware.github.io/swe-cse-bof/2023-05-isc23-bof/"
-    format: webpage
-  - label: BoF series
-    url: "http://bit.ly/swe-cse-bof"
-    format: website
 #
 description: |
   Software has become central to all aspects of modern science and technology. It powers our modeling, simulation, data analytics, and more. And especially in the high-performance computing (HPC) and computational science and engineering (CSE) areas, it is becoming ever-larger and more complex as we are asked to address larger and higher fidelity scientific and technical questions. This complexity is further exacerbated by the pace of change and diversity of platform architectures. Simultaneously, the teams behind the software are pressured to become larger, and at the same time need to be more technically diverse and likely more geographically distributed. Research software engineers (RSEs), an emerging role within the scientific software space, are part of such teams.

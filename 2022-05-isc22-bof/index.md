@@ -59,12 +59,8 @@ presenters:
     url: /assets/2022-05-isc22-bof/05-weinzierl-diverse.pdf
 #
 artifacts:
-  - label: BoF archive
+  - label: BoF webpage
     url: "https://betterscientificsoftware.github.io/swe-cse-bof/2022-05-isc22-bof/"
-    format: webpage
-  - label: BoF series
-    url: "http://bit.ly/swe-cse-bof"
-    format: website
 #
 description: |
   Software engineering (SWE) for modeling, simulation, and data analytics for computational science and engineering (CSE) is challenging, with ever-more sophisticated and higher fidelity simulations of ever-larger and more complex problems involving larger data volumes, more domains, and more researchers. At the same time, the pace of change and level of diversity in platform architectures have increased dramatically. CSE software developers already facing scientific demands for “bigger, better, and faster” modeling and simulation capabilities, entailing larger, more multidisciplinary and geographically dispersed development teams, must now also contend with significant architectural changes. Further, increases in data volume and complexity, and the increasing integration of “big data” (analytics & AI/ML) infrastructures (both hardware and software) raise additional SWE challenges. We invest a great deal in creating these codes, but rarely talk about that experience; we just focus on the (scientific) results.

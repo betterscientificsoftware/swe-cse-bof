@@ -75,17 +75,13 @@ presenters:
     url: /assets/2023-11-sc23-bof/07-reid-hpccarpentry.pdf
 #
 artifacts:
+  - label: Summary blog article
+    url: "https://bssw.io/blog_posts/reflecting-on-our-community-the-sc23-bof-on-scientific-software-and-the-people-who-make-it-happen-building-communities-of-practice"
+    format: BSSw.io
+  - label: BoF webpage
+    url: "https://betterscientificsoftware.github.io/swe-cse-bof/2023-11-sc23-bof"
   - label: Conference program page
     url: "https://sc23.conference-program.com/presentation/?id=bof177&sess=sess375"
-  - label: BoF archive
-    url: "https://betterscientificsoftware.github.io/swe-cse-bof/2023-11-sc23-bof"
-    format: webpage
-  - label: BoF series
-    url: "http://bit.ly/swe-cse-bof"
-    format: website
-  - label: BoF summary
-    url: "https://bssw.io/blog_posts/reflecting-on-our-community-the-sc23-bof-on-scientific-software-and-the-people-who-make-it-happen-building-communities-of-practice"
-    format: blog article
 #
 description: |
   Software has become central to all aspects of modern science and technology. Especially in high-performance computing (HPC) and computational science and engineering (CSE), it is becoming ever-larger and more complex while computer platforms evolve and become more diverse. Simultaneously, the teams behind the software are becoming larger, more technically diverse, and more geographically distributed.

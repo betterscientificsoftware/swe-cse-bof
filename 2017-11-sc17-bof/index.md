@@ -95,14 +95,10 @@ presenters:
     url: /assets/2017-11-sc17-bof/081-reuse-lathrop.pdf)
 #
 artifacts:
+  - label: BoF webpage
+    url: "https://betterscientificsoftware.github.io/swe-cse-bof/2017-11-sc17-bof"
   - label: Conference program page
     url: "https://sc17.supercomputing.org/index.html_post_type=page&p=5407&id=bof144&sess=sess374.html"
-  - label: BoF archive
-    url: "https://betterscientificsoftware.github.io/swe-cse-bof/2017-11-sc17-bof"
-    format: webpage
-  - label: BoF series
-    url: "http://bit.ly/swe-cse-bof"
-    format: website
 #
 description: |
   Software developers, researchers, trainers, and outreach staff will

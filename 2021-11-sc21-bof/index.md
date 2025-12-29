@@ -72,17 +72,11 @@ presenters:
     yt-video-id: dqewfSzKhh0
 #
 artifacts:
-#  - label: Conference program page
-#    url: "https://sc21.supercomputing.org/presentation/?id=bof157&sess=sess399"
-  - label: BoF archive
-    url: "https://betterscientificsoftware.github.io/swe-cse-bof/2021-11-sc21-bof"
-    format: webpage
-  - label: BoF series
-    url: "http://bit.ly/swe-cse-bof"
-    format: website
-  - label: BoF summary
+  - label: Summary blog article
     url: "https://bssw.io/blog_posts/reflecting-on-our-community-the-sc21-bof-on-software-engineering-and-reuse-in-modeling-simulation-and-data-analytics-for-science-and-engineering"
-    format: blog article
+    format: BSSw.io
+  - label: BoF webpage
+    url: "https://betterscientificsoftware.github.io/swe-cse-bof/2021-11-sc21-bof"
 #
 description: |
   Software engineering (SWE) for modeling, simulation, and data analytics for computational science and engineering (CSE) is challenging, with ever-more sophisticated, higher fidelity simulation of ever-larger, more complex problems involving larger data volumes, more domains, and more researchers. Targeting both commodity and custom high-end computers multiplies these challenges. We invest significantly in creating these codes, but rarely talk about that experience; we just focus on the results.

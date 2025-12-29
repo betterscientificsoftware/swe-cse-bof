@@ -83,14 +83,10 @@ presenters:
     url: /assets/2019-11-sc19-bof/09-lathrop-reusable.pdf
 #
 artifacts:
+  - label: BoF webpage
+    url: "https://betterscientificsoftware.github.io/swe-cse-bof/2019-11-sc19-bof"
   - label: Conference program page
     url: "https://sc19.supercomputing.org/session/index-sess=sess341.html"
-  - label: BoF archive
-    url: "https://betterscientificsoftware.github.io/swe-cse-bof/2019-11-sc19-bof"
-    format: webpage
-  - label: BoF series
-    url: "http://bit.ly/swe-cse-bof"
-    format: website
 #
 description: |
   Software engineering (SWE) for modeling, simulation, and data analytics for computational science and engineering (CSE) is challenging, with ever-more sophisticated, higher fidelity simulation of ever-larger, more complex problems involving larger data volumes,more domains, and more researchers. Targeting both commodity and custom high-end computers multiplies these challenges. We invest significantly in creating these codes, but rarely talk about that experience; we just focus on the results.

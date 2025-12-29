@@ -73,14 +73,10 @@ presenters:
     url: /assets/2022-11-sc22-bof/08-believer-joyce.pdf
 #
 artifacts:
+  - label: BoF webpage
+    url: "https://betterscientificsoftware.github.io/swe-cse-bof/2022-11-sc22-bof/"
   - label: Conference program page
     url: "https://sc22.supercomputing.org/presentation/?id=bof180&sess=sess368"
-  - label: BoF archive
-    url: "https://betterscientificsoftware.github.io/swe-cse-bof/2022-11-sc22-bof/"
-    format: webpage
-  - label: BoF series
-    url: "http://bit.ly/swe-cse-bof"
-    format: website
 #
 description: |
   Software engineering (SWE) for modeling, simulation, and data analytics for computational science and engineering (CSE) is challenging, with ever-more sophisticated, higher fidelity simulations of ever-larger, more complex problems involving larger data volumes, more domains, and more researchers. Targeting both commodity and high-end computers multiplies these challenges. We invest significantly in creating these codes, but rarely talk about that experience; we just focus on the results. We seek to raise awareness of SWE for CSE, and provide an opportunity for discussion and community building. Presentations and discussion notes will be made available through the BoF series website, <http://bit.ly/swe-cse-bof>.

@@ -79,12 +79,8 @@ presenters:
 
 #
 artifacts:
-  - label: BoF archive
+  - label: BoF webpage
     url: "https://betterscientificsoftware.github.io/swe-cse-bof/2016-11-sc16-bof"
-    format: webpage
-  - label: BoF series
-    url: "http://bit.ly/swe-cse-bof"
-    format: website
 #
 description: |
   Software engineering (SWE) for computational science and engineering

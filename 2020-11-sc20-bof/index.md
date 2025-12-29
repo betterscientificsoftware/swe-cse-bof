@@ -74,14 +74,8 @@ presenters:
     yt-video-id: GRJD48kSoW4
 #
 artifacts:
-#  - label: Conference program page
-#    url: "https://sc20.supercomputing.org/presentation/?id=bof166&sess=sess307"
-  - label: BoF archive
+  - label: BoF webpage
     url: "https://betterscientificsoftware.github.io/swe-cse-bof/2020-11-sc20-bof"
-    format: webpage
-  - label: BoF series
-    url: "http://bit.ly/swe-cse-bof"
-    format: website
 #
 description: |
   Software engineering (SWE) for modeling, simulation, and data analytics for computational science and engineering (CSE) is challenging, with ever-more sophisticated, higher fidelity simulation of ever-larger, more complex problems involving larger data volumes, more domains, and more researchers. Targeting both commodity and custom high-end computers multiplies these challenges. We invest significantly in creating these codes, but rarely talk about that experience; we just focus on the results.
