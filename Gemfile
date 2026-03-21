@@ -37,3 +37,6 @@ gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.8"
+
+# Added per warning that fiddle will no longer be among the default gems starting with Ruby 4.0.0
+gem "fiddle"
