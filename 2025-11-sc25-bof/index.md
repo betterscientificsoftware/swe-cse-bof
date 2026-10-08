@@ -77,9 +77,9 @@ presenters:
     url: /assets/2025-11-sc25-bof/08-cosden-bridges.pdf
 #
 artifacts:
-  # - label: Summary blog article
-  #   url: "https://bssw.io/blog_posts/reflecting-on-our-community-the-sc24-bof-on-scientific-software-and-the-people-who-make-it-happen-building-communities-of-practice"
-  #   format: BSSw.io
+  - label: Summary blog article
+    url: "https://bssw.io/blog_posts/reflecting-on-our-community-the-sc25-bof-on-scientific-software-and-the-people-who-make-it-happen-building-our-communities-and-practices"
+    format: BSSw.io
   - label: BoF webpage
     url: "https://betterscientificsoftware.github.io/swe-cse-bof/2025-11-sc25-bof"
   - label: Conference program page
