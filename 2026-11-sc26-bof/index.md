@@ -44,39 +44,31 @@ organizers:
   - name: Marion Weinzierl
     affiliation: University of Cambridge
 #
-# presenters:
-#   - name: Sandra Gesing	
-#     affiliation: US Research Software Engineer Association
-#     title: Invitation to the International Research Software Conference, Sept 7-8, 2026	
-#     url: /assets/2025-11-sc25-bof/01-gesing-irsc.pdf
-#   - name: Eleanor Broadway
-#     affiliation: EPCC	
-#     title: "Beyond Busy: Building Sustainable Research Communities"
-#     url: /assets/2025-11-sc25-bof/02-broadway-busy.pdf
-#   - name: Mozhgan Kabiri chimeh
-#     affiliation: NVIDIA	
-#     title: Open Training for Sustainable HPC & AI Skills	
-#     url: /assets/2025-11-sc25-bof/03-kabirichimeh-training.pdf
-#   - name: Anshu Dubey	
-#     affiliation: Argonne National Laboratory	
-#     title: Toward Next-generation Ecosystems for Scientific Computing workshop -- objectives and outcomes	
-#     url: /assets/2025-11-sc25-bof/04-dubey-ecosystems.pdf
-#   - name: Sunita Chandrasekaran
-#     affiliation: Director, First State AI Institute, University of Delaware
-#     title: "NSF DARSE: Democratizing Access to Research Software Engineering"
-#     url: /assets/2025-11-sc25-bof/05-chandrasekaran-darse.pdf
-#   - name: Dr James Richings	
-#     affiliation: EPCC, University of Edinburgh
-#     title: Green RSE and Green HPC Training	 
-#     url: /assets/2025-11-sc25-bof/06-richings-green.pdf
-#   - name: Todd Gamblin	
-#     affiliation: LLNL	
-#     title: Sustaining scientific software through the High Performance Software Foundation
-#     url: /assets/2025-11-sc25-bof/07-gamblin-hpsf.pdf
-#   - name: Ian A Cosden #, Robert Haines, and David E. Bernholdt
-#     affiliation: Princeton University #, University of Manchester, and Oak Ridge National Laboratory  
-#     title: Building Bridges Between the Software Engineering Research (SER) and Research Software Engineering (RSE) Communities	 
-#     url: /assets/2025-11-sc25-bof/08-cosden-bridges.pdf
+presenters:
+  - name: Ian A. Cosden
+    affiliation: Princeton University
+    title: "AI in RSE training- Incorporating AI topics in INTERSECT"
+    url: /assets/2026-11-sc26-bof/01-cosden-ai.pdf
+  - name: Melyssa Fratkin
+    affiliation: BSC AI Factory
+    title: "What Works? Academic-Industry Collaborations Across Borders - US vs EU models"
+    url: /assets/2026-11-sc26-bof/02-fratkin-collaborations.pdf
+  - name: Volodymyr Kindratenko
+    affiliation: National Center for Supercomputing Applications
+    title: "NCSA's Center for AI Innovation"
+    url: /assets/2026-11-sc26-bof/03-kindratenko-ai.pdf
+  - name: Kjiersten Fagnan
+    affiliation: Lawrence Berkeley National Laboratory
+    title: "Reorganizing for productivity at the DOE Joint Genome Institute"
+    url: /assets/2026-11-sc26-bof/04-fagnan-productivity.pdf
+  - name: Sheri Voelz
+    affiliation: NSF NCAR
+    title: "Working Across Boundaries: How the NSF NCAR Community Software Facility Fosters Collaboration for Scalable Science in a Rapidly Evolving Technical Landscape"
+    url: /assets/2026-11-sc26-bof/05-voelz-boundaries.pdf
+  - name: Anshu Dubey
+    affiliation: RIKEN R-CCS
+    title: "Reproducibility in AI age."
+    url: /assets/2026-11-sc26-bof/06-dubey-reproducibility.pdf
 #
 artifacts:
   # - label: Summary blog article
@@ -109,7 +101,7 @@ description: |
 | Time | Title (link to slides) | Speaker/Moderator | Affiliation
 | -----|------------------------|-------------------|------------
 | 5 min | **Introduction and Goals** | *to be announced* | 
-{% include agenda-lightning-talks time="3 min" presenters=page.presenters %}
+{% include agenda-lightning-talks time="4 min" presenters=page.presenters %}
 | 51 min | **General Discussion** | *to be announced* | 
 | 10 min | **Blog Article Planning** | *to be announced* | 
 
