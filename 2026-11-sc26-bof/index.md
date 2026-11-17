@@ -57,7 +57,8 @@ presenters:
     affiliation: National Center for Supercomputing Applications
     title: "NCSA's Center for AI Innovation"
     url: /assets/2026-11-sc26-bof/03-kindratenko-ai.pdf
-  - name: Kjiersten Fagnan
+#  - name: Kjiersten Fagnan
+  - name: Daniela Cassol
     affiliation: Lawrence Berkeley National Laboratory
     title: "Reorganizing for productivity at the DOE Joint Genome Institute"
     url: /assets/2026-11-sc26-bof/04-fagnan-productivity.pdf
@@ -100,10 +101,10 @@ description: |
 
 | Time | Title (link to slides) | Speaker/Moderator | Affiliation
 | -----|------------------------|-------------------|------------
-| 5 min | **Introduction and Goals** | *to be announced* | 
+| 5 min | **Introduction and Goals** | David E. Bernholdt | Oak Ridge National Laboratory
 {% include agenda-lightning-talks time="4 min" presenters=page.presenters %}
-| 51 min | **General Discussion** | *to be announced* | 
-| 10 min | **Blog Article Planning** | *to be announced* | 
+| 51 min | **General Discussion** | David E. Bernholdt | Oak Ridge National Laboratory
+| 10 min | **Blog Article Planning** | David E. Bernholdt | Oak Ridge National Laboratory
 
 {% comment %}
 ## Discussion Notes
