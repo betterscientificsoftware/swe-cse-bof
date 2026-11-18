@@ -106,11 +106,10 @@ description: |
 | 51 min | **General Discussion** | David E. Bernholdt | Oak Ridge National Laboratory
 | 10 min | **Blog Article Planning** | David E. Bernholdt | Oak Ridge National Laboratory
 
-{% comment %}
+
 ## Discussion Notes
 
 ***We will be crowd-sourcing notes at <http://bit.ly/swe-cse-notes>.  Please help out!***
-{% endcomment %}
 
 {% comment %}
 We're preparing the notes for publication.  We'll update here soon.
