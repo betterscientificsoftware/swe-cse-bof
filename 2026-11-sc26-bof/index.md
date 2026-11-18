@@ -61,7 +61,7 @@ presenters:
   - name: Daniela Cassol
     affiliation: Lawrence Berkeley National Laboratory
     title: "Reorganizing for productivity at the DOE Joint Genome Institute"
-    url: /assets/2026-11-sc26-bof/04-fagnan-productivity.pdf
+    url: /assets/2026-11-sc26-bof/04-cassol-productivity.pdf
   - name: Sheri Voelz
     affiliation: NSF NCAR
     title: "Working Across Boundaries: How the NSF NCAR Community Software Facility Fosters Collaboration for Scalable Science in a Rapidly Evolving Technical Landscape"
